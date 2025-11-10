@@ -1,0 +1,82 @@
+OMIM
+RET PROTOONCOGENE; RET
+
+Alternative titles; symbols
+REARRANGED DURING TRANSFECTION PROTOONCOGENE
+
+Other entities represented in this entry:
+RET/ELKS FUSION GENE, INCLUDED
+
+HGNC Approved Gene Symbol: RET
+Cytogenetic location: 10q11.21   Genomic coordinates (GRCh38) : 10:43,077,069-43,130,351 (from NCBI)
+
+Gene-Phenotype Relationships
+Location	PhenotypeView Clinical Synopses
+Phenotype
+MIM number	Inheritance	Phenotype
+mapping key
+10q11.21
+{Hirschsprung disease, protection against}	142623
+AD	3
+	{Hirschsprung disease, susceptibility to, 1}	142623
+AD	3
+	Medullary thyroid carcinoma	155240
+AD	3
+	Multiple endocrine neoplasia IIA	171400
+AD	3
+	Multiple endocrine neoplasia IIB	162300
+AD	3
+	Pheochromocytoma	171300
+AD	3
+
+
+
+ Description
+The RET protooncogene is one of the receptor tyrosine kinases, cell-surface molecules that transduce signals for cell growth and differentiation. The RET gene was defined as an oncogene by a classical transfection assay. RET can undergo oncogenic activation in vivo and in vitro by cytogenetic rearrangement (Grieco et al., 1990). Mutations in the RET gene are associated with multiple endocrine neoplasia, type IIA (MEN2A; 171400), multiple endocrine neoplasia, type IIB (MEN2B; 162300), Hirschsprung disease (HSCR; aganglionic megacolon; 142623), and medullary thyroid carcinoma (MTC; 155240). 
+Plaza-Menacho et al. (2006) reviewed the genetics and molecular mechanisms underlying the different inherited neural crest-related disorders involving RET dysfunction. 
+
+
+
+Orphanet
+
+RET - ret proto-oncogene
+Synonym(s): CDHF12, CDHR16, PTC, RET receptor tyrosine kinase, RET51, cadherin-related family member 16, rearranged during transfection
+Previous symbol(s) and name(s): HSCR1, Hirschsprung disease 1, MEN2A, MEN2B, MTC1, multiple endocrine neoplasia and medullary thyroid carcinoma 1
+Type: gene with protein product
+Chromosomal location: 10q11.21
+OMIM: 164761
+HGNC: 9967
+UniProtKB: P07949
+Genatlas: RET
+GenCC: RET
+ClinVar: RET
+Ensembl: ENSG00000165731
+IUPHAR-DB: 2185
+Reactome: P07949
+LOVD: RET
+Diseases List
+ Disease-causing germline mutation(s) in Hirschsprung disease ORPHA:388
+ Disease-causing germline mutation(s) in Isolated familial medullary thyroid carcinoma ORPHA:99361
+ Disease-causing germline mutation(s) in Haddad syndrome ORPHA:99803
+ Disease-causing germline mutation(s) in Multiple endocrine neoplasia type 2B ORPHA:247709
+ Disease-causing germline mutation(s) in Renal agenesis, unilateral ORPHA:93100
+ Disease-causing germline mutation(s) in Multiple endocrine neoplasia type 2A ORPHA:247698
+ Disease-causing germline mutation(s) (loss of function) in Renal agenesis, bilateral ORPHA:1848
+ Part of a fusion gene in Differentiated thyroid carcinoma ORPHA:146
+ Major susceptibility factor in Sporadic pheochromocytoma/secreting paraganglioma ORPHA:276621
+ Candidate gene tested in Hereditary pheochromocytoma-paraganglioma ORPHA:29072
+
+
+
+
+
+
+
+
+
+
+
+Metadata:
+
+Retrieved nov 2025 from OMIM and Orphanet
+
