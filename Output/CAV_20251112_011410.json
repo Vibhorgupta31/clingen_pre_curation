@@ -1,0 +1,78 @@
+{
+  "gene": "CAV3",
+  "phenotype_entities": [
+    {"name": "Rippling muscle disease 2", "source_mentions": ["OMIM", "ORPHANET"]},
+    {"name": "Myopathy, distal, Tateyama type", "source_mentions": ["OMIM", "ORPHANET"]},
+    {"name": "Creatine phosphokinase, elevated serum", "source_mentions": ["OMIM", "ORPHANET"]},
+    {"name": "Long QT syndrome 9", "source_mentions": ["OMIM", "ORPHANET"]},
+    {"name": "Cardiomyopathy, familial hypertrophic", "source_mentions": ["OMIM"]}
+  ],
+  "criteria_reasoning": {
+    "assertions_made": {
+      "verdict": "Multiple entities",
+      "justification": "OMIM states CAV3 mutations cause several skeletal muscle phenotypes with overlap and a clinical continuum, and also lists distinct cardiac phenotypes (hypertrophic cardiomyopathy and LQT9). Orphanet separately lists rippling muscle disease, distal myopathy, hyperCKemia, and Romano-Ward syndrome for CAV3."
+    },
+    "molecular_mechanism": {
+      "verdict": "Distinct",
+      "justification": "Skeletal muscle caveolinopathies commonly show reduced/absent caveolin-3 and dominant-negative behavior, with many mutations leading to loss/mislocalization of CAV3. LQT9 variants show gain-of-function at the level of cardiac sodium current (2–5× increased late INa), indicating a mechanistically distinct channelopathy."
+    },
+    "phenotypic_variability": {
+      "verdict": "Variable expressivity",
+      "justification": "OMIM notes many patients show overlap of skeletal muscle entities, lack of genotype/phenotype correlation, and intrafamilial variability spanning rippling, distal myopathy, and isolated hyperCKemia. This supports a spectrum within skeletal presentations."
+    },
+    "mode_of_inheritance": {
+      "verdict": "Different",
+      "justification": "Most skeletal phenotypes are autosomal dominant with rare autosomal recessive RMD2 families; LQT9 is autosomal dominant; cardiomyopathy is autosomal dominant. Differences in inheritance (presence of AR only in skeletal group) align with phenotype groupings and management distinctions."
+    }
+  },
+  "entity_decisions": [
+    {"name": "Rippling muscle disease 2", "decision": "LUMP", "confidence": 0.9},
+    {"name": "Myopathy, distal, Tateyama type", "decision": "LUMP", "confidence": 0.85},
+    {"name": "Creatine phosphokinase, elevated serum", "decision": "LUMP", "confidence": 0.85},
+    {"name": "Long QT syndrome 9", "decision": "SPLIT", "confidence": 0.9},
+    {"name": "Cardiomyopathy, familial hypertrophic", "decision": "SPLIT", "confidence": 0.75}
+  ],
+  "proposed_groupings": [
+    {
+      "group_id": 1,
+      "entities": ["Rippling muscle disease 2", "Myopathy, distal, Tateyama type", "Creatine phosphokinase, elevated serum"],
+      "proposed_label": "Rippling muscle disease 2",
+      "mode_of_inheritance": "Autosomal dominant",
+      "criteria_met": ["assertions", "phenotypic_variability"],
+      "reasoning": "OMIM describes skeletal caveolinopathies as a clinical continuum with overlapping presentations and shared loss/mislocalization of CAV3; the same variants can cause rippling, distal myopathy, or isolated hyperCKemia.",
+      "decision": "LUMP"
+    },
+    {
+      "group_id": 2,
+      "entities": ["Long QT syndrome 9"],
+      "proposed_label": "Long QT syndrome 9",
+      "mode_of_inheritance": "Autosomal dominant",
+      "criteria_met": ["molecular_mechanism", "assertions"],
+      "reasoning": "Cardiac channelopathy with gain-of-function effect on late sodium current is mechanistically and clinically distinct from skeletal caveolinopathies.",
+      "decision": "SPLIT"
+    },
+    {
+      "group_id": 3,
+      "entities": ["Cardiomyopathy, familial hypertrophic"],
+      "proposed_label": "Cardiomyopathy, familial hypertrophic",
+      "mode_of_inheritance": "Autosomal dominant",
+      "criteria_met": ["assertions", "phenotypic_variability"],
+      "reasoning": "Listed by OMIM as a separate phenotype with families lacking skeletal muscle signs; clinical management and organ system differ from both skeletal spectrum and LQT9.",
+      "decision": "SPLIT"
+    }
+  ],
+  "overall_decision": {
+    "verdict": "SPLIT",
+    "summary_reasoning": "CAV3 causes a spectrum of skeletal muscle caveolinopathies that should be lumped due to explicit assertions of a clinical continuum, shared pathogenic mechanisms (loss/mislocalization, dominant-negative), and marked intra-/intrafamilial variability. In contrast, LQT9 represents a distinct cardiac channelopathy with gain-of-function effects and different clinical management, and hypertrophic cardiomyopathy appears as a separate cardiac structural phenotype with families lacking skeletal involvement; both should be split from the skeletal spectrum.",
+    "confidence": 0.85
+  },
+  "top_supporting_evidence": [
+    "OMIM: \"Mutations in the CAV3 gene can cause different skeletal muscle phenotypes... Many patients show an overlap... some authors have suggested that the caveolinopathies constitute a clinical continuum... there are no genotype/phenotype correlations... intrafamilial variability.\"",
+    "OMIM (LQT9): \"Electrophysiologic analysis... demonstrated that the mutant caveolin-3 resulted in a 2- to 3-fold increase in the late sodium current...\" and SIDS-linked variants showed a 5-fold increase.",
+    "OMIM (HCM): \"In 2 brothers with hypertrophic cardiomyopathy... Both of them as well as their father had no symptoms of skeletal muscle disorder and no elevation of serum creatine kinase.\""
+  ],
+  "suggested_action_for_curator": [
+    "Confirm whether any additional recent sources further clarify the mechanism and strength of association for hypertrophic cardiomyopathy due to CAV3.",
+    "Document the presence of rare autosomal recessive RMD2 cases within the skeletal spectrum and note implications for counseling."
+  ]
+}

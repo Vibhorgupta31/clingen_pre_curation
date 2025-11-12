@@ -1,0 +1,150 @@
+##Experiment Metadata##
+
+GENE_NAME: BROMODOMAIN PHD FINGER TRANSCRIPTION FACTOR; BPTF
+DATA_SOURCES: OMIM, Orphanet, GeneReviews
+DATA_URIS: https://www.omim.org/entry/601819?search=BPTF&highlight=bptf, https://www.orpha.net/en/disease/gene/BPTF?name=BPTF&mode=gene
+DATE_RETRIEVED: 2025-11-12
+EXPERIMENT: LS_POC_EXPERIMENT
+
+-----------------------------------------------------------
+##OMIM##
+-----------------------------------------------------------
+* 601819
+BROMODOMAIN PHD FINGER TRANSCRIPTION FACTOR; BPTF
+
+Alternative titles; symbols
+
+FETAL ALZHEIMER ANTIGEN; FALZ
+FAC1
+NURF301, DROSOPHILA, HOMOLOG OF; NURF301
+BROMODOMAIN AND PHD DOMAIN TRANSCRIPTION FACTOR
+
+HGNC Approved Gene Symbol: BPTF
+
+Cytogenetic location: 17q24.2   Genomic coordinates (GRCh38) : 17:67,825,503-67,984,378 (from NCBI)
+
+
+Gene-Phenotype Relationships
+Location	PhenotypeView Clinical Synopses	Phenotype
+MIM number	Inheritance	Phenotype
+mapping key
+17q24.2	{Kaposi sarcoma, susceptibility to}	148000	AD	3
+Neurodevelopmental disorder with dysmorphic facies and distal limb anomalies	617755	AD	3
+ 
+
+TEXT
+▼ Description
+The BPTF gene encodes the bromodomain PHD finger transcription factor, which is the largest subunit of nucleosome remodeling factor (NURF), a member of the ISWI chromatin-remodeling complex. NURF is an evolutionarily conserved transcription regulator that plays a key role in development (summary by Stankiewicz et al., 2017). 
+
+
+▼ Cloning and Expression
+Bowser et al. (1995) used immunoscreening with the monoclonal antibody Alz50, which recognizes neurofibrillary pathology associated with Alzheimer disease and subplate neurons in the developing human brain, to isolate a cDNA from a fetal brain library. The FAC1 (fetal Alz50-reactive clone-1) gene product was abundantly expressed in fetal brain and was detected in both the cytoplasm and nucleus of cells in the developing cortex. In the adult brain, expression was much lower and was seen almost exclusively in the nuclei of neurons of the neocortex. Expression was higher in neurodegenerative diseases; in the brains of Alzheimer disease patients, the protein was localized in a subset of amyloid-containing plaques. The 810-amino acid FAC1 protein contains a zinc finger binding domain, nuclear localization signals, and motifs associated with rapid protein degradation (Zhu and Bowser, 1996). 
+
+Xiao et al. (2001) cloned a cDNA encoding Nurf301, the largest subunit of the Drosophila NURF complex, which catalyzes nucleosome sliding. The 301-kD Nurf301 protein is necessary for accurate and efficient nucleosome sliding. The HMGA/HMGI(Y) (600701)-like domain of Nurf301 that facilitates nucleosome sliding indicates the importance of DNA conformational changes in the sliding mechanism. Nurf301 also interacts with sequence-specific transcription factors, providing a basis for targeted recruitment of the NURF complex to specific genes. Xiao et al. (2001) searched human genome databases for sequences similar to Nurf301. By sequencing overlapping human cDNA clones, they reconstructed an open reading frame of 8,967 nucleotides, predicting a 322,948-Da polypeptide, which they called p323. Xiao et al. (2001) found that the nucleotide sequence of human p323 was identical to BPTF, the human bromodomain and PHD domain transcription factor identified by Jones et al. (2000); p323 has 2 additional exons and may be a product of alternative splicing. The N-terminal 2,200 nucleotides of p323 and BPTF are also essentially identical to the cDNA for human FAC1, or FALZ. The protein sequence of human p323/BPTF is approximately 35% identical to Nurf301 over the entire coding region, suggesting that it is the human ortholog of Nurf301. 
+
+
+▼ Gene Function
+Wysocka et al. (2006) showed that a plant homeodomain (PHD) finger of nucleosome remodeling factor (NURF), an ISWI-containing ATP-dependent chromatin-remodeling complex, mediates a direct preferential association with trimethylated histone H3/lysine-4 (H3K4) tails. Depletion of trimethylated H3K4 causes partial release of the NURF subunit BPTF from chromatin and defective recruitment of the associated ATPase, SNF2L1 (SMARCA1; 300012), to the HOXC8 (142970) promoter. Loss of BPTF in Xenopus embryos mimics WDR5 (609012) loss-of-function phenotypes, and compromises spatial control of Hox gene expression. Wysocka et al. (2006) suggested that WDR5 and NURF function in a common biologic pathway in vivo, and that NURF-mediated ATP-dependent chromatin remodeling is directly coupled to H3K4 trimethylation to maintain HOX gene expression patterns during development. 
+
+Using microarray analysis, Dutta et al. (2016) found that human WDFY1 (618080) was specifically regulated by NRP2 (602070). Depletion of NRP2 in PC3 prostate cancer cells increased both the mRNA and protein levels of WDFY1 due to increased WDFY1 transcriptional activity, as shown in promoter activity assays. Analysis of the WDFY1 promoter region identified FAC1 as a transcriptional repressor whose binding to the promoter was regulated by NRP2, as confirmed in a chromatin immunoprecipitation assay and knockdown studies. In the presence of NPR2, FAC1 bound to the WDFY1 promoter region and downregulated WDFY1 transcriptional activity. Following NRP2 depletion, FAC1 was removed from the WDFY1 promoter and relocated from the nucleus to the cytosol, thereby releasing inhibition of WDFY1 transcription. 
+
+
+▼ Biochemical Features
+Li et al. (2006) demonstrated the molecular basis for specific recognition of trimethylated H3K4 by the PHD finger of human BPTF, the largest subunit of the NURF complex. Li et al. (2006) reported on crystallographic and NMR structures of the bromodomain-proximal PHD finger of BPTF in free and trimethylated H3K4-bound states. The trimethylated H3K4 interacts through an antiparallel beta-sheet formation on the surface of the PHD finger, with the long side chains of arginine-2 and trimethylated lysine-4 fitting snugly in adjacent preformed surface pockets, and bracketing an invariant tryptophan. The observed stapling role by nonadjacent arg2 and trimethylated lys4 provides a molecular explanation for trimethylated H3K4 site specificity. Binding studies established that the BPTF PHD finger exhibits a modest preference for K4methyl3- over K4methyl2-containing H3 peptides, and discriminates against monomethylated and unmodified counterparts. Li et al. (2006) also identified key specificity-determining residues from binding studies of H3(1-15)K4methyl3 with PHD finger point mutants. 
+
+
+▼ Mapping
+Bowser (1996) mapped the FAC1 gene to 17q24 by fluorescence in situ hybridization. 
+
+
+▼ Molecular Genetics
+Neurodevelopmental Disorder with Dysmorphic Facies and Distal Limb Anomalies
+
+In 8 unrelated patients with neurodevelopmental disorder with dysmorphic facies and distal limb anomalies (NEDDFL; 617755), Stankiewicz et al. (2017) identified 8 different heterozygous mutations in the BPTF gene (see, e.g., 601819.0001-601819.0005). The mutations, which were found by exome sequencing from several different genetic research cohorts, were demonstrated to occur de novo in all except 1 patient whose paternal DNA was not available. There were 6 truncating mutations and 2 missense mutations. Two additional patients with a similar phenotype had different heterozygous CNV deletions involving the BPTF gene. Functional studies of the variants and studies of patient cells were not performed. The findings suggested that haploinsufficiency for BPTF is the pathogenic mechanism. 
+
+In 25 novel patients from 20 families with NEDDFL, Glinton et al. (2021) reported 20 novel heterozygous variants in the BPTF gene, including 14 de novo and 4 inherited from an apparently non-mosaic affected parent (e.g., 601819.0006). These included 9 frameshift, 4 nonsense, 3 splicing, 2 in-frame deletions, 1 missense, and 1 single-exon truncating deletion. The authors found no clear genotype-phenotype correlation within their cohort, although findings were milder in the patient with a missense mutation compared to the rest of the cohort. 
+
+Kaposi Sarcoma, Susceptibility to
+
+In 5 immunocompetent individuals with classic Kaposi sarcoma (KS; 148000) from 2 Moroccan Jewish families, Yogev et al. (2024) identified a heterozygous missense mutation in the BPTF gene (I2012T; 601819.0007) by whole-exome sequencing. Using an rKSHV.219-infected CRISPR/cas9-model, the authors showed that I2012T mutant cells exhibited higher latent-to-lytic ratio, decreased virion production, increased latency-associated nuclear antigen (LANA) staining, and latent phenotype in viral transcriptomics. RNA sequencing demonstrated that KSHV infection in mutant cells dysregulated oncogenic-like response and p53 (191170) pathways, MAPK cascade (see 176948), and blood vessel development pathways, consistent with KS. BPTF I2012T also enriched pathways of viral genome regulation and replication, immune response, and chemotaxis, including downregulation of IFI16 (147586), SHFL (616808), HLAs, TGFB1 (190180), and HSPA5 (138120), all associated with KSHV infection and tumorigenesis. Many of the differentially expressed genes are regulated by Rel-NFKB (see 164011), which regulates immune processes, cell survival, and proliferation and is pivotal to oncogenesis. 
+
+
+▼ Animal Model
+Stankiewicz et al. (2017) found that zebrafish embryos with CRISPR/CAS9-mediated knockdown of the bptf gene had smaller head sizes compared to controls, and that the smaller head size resulted from increased cell death. Mutant zebrafish also showed abnormal craniofacial patterning compared to controls. 
+
+
+▼ ALLELIC VARIANTS ( 7 Selected Examples):
+
+   
+
+.0001 NEURODEVELOPMENTAL DISORDER WITH DYSMORPHIC FACIES AND DISTAL LIMB ANOMALIES
+BPTF, 1-BP DUP, NT2860    
+In a 2-year-old boy (patient 1) with neurodevelopmental disorder with dysmorphic facies and distal limb anomalies (NEDDFL; 617755), Stankiewicz et al. (2017) identified a de novo heterozygous 1-bp duplication (c.2860dup, NM_004459.6) in exon 9 of the BPTF gene, resulting in a frameshift and premature termination (Glu954GlyfsTer5). The mutation was found by whole-exome sequencing and confirmed by Sanger sequencing; functional studies of the variant and studies of patient cells were not performed. 
+
+
+.0002 NEURODEVELOPMENTAL DISORDER WITH DYSMORPHIC FACIES AND DISTAL LIMB ANOMALIES
+BPTF, 2-BP DEL, NT5216    
+In a 7-year-old boy of Latino origin (patient 2) with neurodevelopmental disorder with dysmorphic facies and distal limb anomalies (NEDDFL; 617755), Stankiewicz et al. (2017) identified a heterozygous 2-bp deletion (c.5216_5217del, NM_004459.6) in exon 13 of the BPTF gene, resulting in a frameshift and premature termination (Val1739GlyfsTer96). The mutation was not present in the mother; DNA from the father was unavailable. The mutation was found by whole-exome sequencing and confirmed by Sanger sequencing; functional studies of the variant and studies of patient cells were not performed. 
+
+
+.0003 NEURODEVELOPMENTAL DISORDER WITH DYSMORPHIC FACIES AND DISTAL LIMB ANOMALIES
+BPTF, LYS2884TER    
+In a 10-year-old boy of Latino origin (patient 3) with neurodevelopmental disorder with dysmorphic facies and distal limb anomalies (NEDDFL; 617755), Stankiewicz et al. (2017) identified a de novo heterozygous c.8650A-T transversion (c.8650A-T, NM_004459.6) in exon 29 of the BPTF gene, resulting in a lys2884-to-ter (K2884X) substitution. The mutation was found by whole-exome sequencing and confirmed by Sanger sequencing; functional studies of the variant and studies of patient cells were not performed. 
+
+
+.0004 NEURODEVELOPMENTAL DISORDER WITH DYSMORPHIC FACIES AND DISTAL LIMB ANOMALIES
+BPTF, MET2853ARG    
+In an 11-year-old girl (patient 8) with neurodevelopmental disorder with dysmorphic facies and distal limb anomalies (NEDDFL; 617755), Stankiewicz et al. (2017) identified a de novo heterozygous c.8558T-G transversion (c.8558T-G, NM_004459.6) in exon 29 of the BPTF gene, resulting in a met2853-to-arg (M2853R) substitution in the bromodomain. The mutation, which was found by exome sequencing and confirmed by Sanger sequencing, was not found in the gnomAD database. The variant was predicted to destabilize the protein conformation, likely disrupting protein function. Functional studies of the variant and studies of patient cells were not performed. 
+
+
+.0005 NEURODEVELOPMENTAL DISORDER WITH DYSMORPHIC FACIES AND DISTAL LIMB ANOMALIES
+BPTF, 1-BP DEL, NT989    
+In a 7-year-old boy (patient 9) with neurodevelopmental disorder with dysmorphic facies and distal limb anomalies (NEDDFL; 617755), Stankiewicz et al. (2017) identified a de novo heterozygous 1-bp deletion (c.989del, NM_004459.6) in exon 2 of the BPTF gene, resulting in a frameshift and premature termination (Leu330ArgfsTer28). The mutation was found by whole-exome sequencing and confirmed by Sanger sequencing; functional studies of the variant and studies of patient cells were not performed. 
+
+
+.0006 NEURODEVELOPMENTAL DISORDER WITH DYSMORPHIC FACIES AND DISTAL LIMB ANOMALIES
+BPTF, 1-BP DUP, 209G    
+In a 2-year-old girl (patient 1) and her affected mother (patient 2) with neurodevelopmental disorder with dysmorphic facies and distal limb anomalies (NEDDFL; 617755), Glinton et al. (2021) identified a heterozygous 1-bp duplication (c.209dupG, NM_004459.6) in exon 1 of the BPTF gene that resulted in frameshift and premature termination of the protein (Ser71GlnfsTer3). The mutation was identified by trio exome sequencing. The girl had mild dysmorphic features including epicanthal folds, short palpebral fissures, tubular nose, flat cheekbones, syndactyly of toes 2 and 3, and fetal fingertip pads. She had global developmental delay with a history of feeding difficulties and poor growth, and head circumference was small (Z score = -2). She had generalized tonic-clonic seizures as well as staring spells. MRI showed minimal asymmetry of the temporal horn of the right lateral ventricle. Her mother had mild dysmorphic features and had a small head and significant feeding difficulties as a child; she had substantial learning disabilities in school but was able as an adult to generally function independently, with some assistance. 
+
+
+.0007 KAPOSI SARCOMA, SUSCEPTIBILITY TO
+BPTF, ILE2012THR    
+In 5 individuals with classic Kaposi sarcoma (KS; 148000) from 2 Moroccan Jewish families, Yogev et al. (2024) identified a heterozygous c.6035T-C transition (c.6035T-C, NM_182641.4) in the BPTF gene that resulted in an ile2012-to-thr (I2012T) substitution. The mutation was found to fully segregate in available samples as expected for autosomal dominant inheritance. All affected individuals were HIV-negative and had no prior infections. All had normal echocardiograms and no features of a neurodevelopmental disorder or dysmorphic features. 
+
+Hamosh (2024) noted that the BPTF I2012T variant was present in gnomAD (v4.1.0), in heterozygosity only, in 57 individuals (25 admixed American, 25 non-Finnish European, 3 Ashkenazi Jews, and 3 remaining), for an allele frequency of 0.00003531.
+
+-----------------------------------------------------------
+##ORPHANET##
+-----------------------------------------------------------
+BPTF - bromodomain PHD finger transcription factor
+Synonym(s): FAC1, NURF301
+
+Previous symbol(s) and name(s): FALZ, fetal Alzheimer antigen
+
+Type: gene with protein product
+
+Chromosomal location: 17q24.2
+
+OMIM: 601819
+
+HGNC: 3581
+
+UniProtKB: Q12830
+
+GenCC: BPTF
+
+Ensembl: ENSG00000171634
+
+IUPHAR-DB: 2723
+
+Reactome: Q12830
+
+LOVD: BPTF
+
+Diseases List
+ Disease-causing germline mutation(s) in BPTF-related intellectual disability-facial dysmorphism-skeletal anomalies syndrome ORPHA:686482
+ Role in the phenotype of 17q24.2 microdeletion syndrome ORPHA:529962
+
+-----------------------------------------------------------
+##GENEREVIEWS [SUMMARY]##
+-----------------------------------------------------------

@@ -1,0 +1,240 @@
+##Experiment Metadata##
+
+GENE_NAME: FUMARATE HYDRATASE; FH
+DATA_SOURCES: OMIM, Orphanet, GeneReviews
+DATA_URIS: https://www.omim.org/entry/136850?search=FH&highlight=fh, https://www.orpha.net/en/disease/gene/FH?name=FH&mode=gene, https://www.ncbi.nlm.nih.gov/books/NBK1506/
+DATE_RETRIEVED: 2025-11-12
+EXPERIMENT: LS_POC_EXPERIMENT
+
+-----------------------------------------------------------
+##OMIM##
+-----------------------------------------------------------
+* 136850
+FUMARATE HYDRATASE; FH
+
+Alternative titles; symbols
+
+FUMARASE
+
+Other entities represented in this entry:
+
+FUMARATE HYDRATASE, CYTOSOLIC, INCLUDED; FH1, INCLUDED
+FUMARATE HYDRATASE, MITOCHONDRIAL, INCLUDED; FH2, INCLUDED
+
+HGNC Approved Gene Symbol: FH
+
+Cytogenetic location: 1q43   Genomic coordinates (GRCh38) : 1:241,497,603-241,519,755 (from NCBI)
+
+
+Gene-Phenotype Relationships
+Location	PhenotypeView Clinical Synopses	Phenotype
+MIM number	Inheritance	Phenotype
+mapping key
+1q43	Fumarase deficiency	606812	AR	3
+Leiomyomatosis and renal cell cancer	150800	AD	3
+ 
+
+TEXT
+▼ Description
+Fumarate hydratase, or fumarase (EC 4.2.1.2), is an enzymatic component of the tricarboxylic acid, or Krebs, cycle. It catalyzes the conversion of fumarate to malate.
+
+
+▼ Cloning and Expression
+Edwards and Hopkinson (1979) studied a family with an electrophoretic variant of FH. Two persons had variation in both the soluble and the mitochondrial forms, suggesting that they are determined by a single locus. Doonan et al. (1984) cited evidence suggesting that the isoenzymes of fumarase are translated in precursor form from 2 different mRNA molecules, these mRNAs in turn arising from alternative splicing of a single gene transcript. 
+
+Using peptide mapping, O'Hare and Doonan (1985) showed that the cytosolic and mitochondrial fumarases from pig liver are identical over nearly all of their amino acid sequences, but that they differ at their N termini. 
+
+Kinsella and Doonan (1986) cloned human fumarase from a liver cDNA library. The deduced 468-amino acid protein, with the exception of an N-terminal methionine, appeared to be the mitochondrial form. Kinsella and Doonan (1986) found an unusually high degree of identity of structure between human fumarase and that from B. subtilis and E. coli. 
+
+Suzuki et al. (1989) cloned rat liver fumarase, which encodes a deduced 507-amino acid protein with a 41-amino acid prosequence. Comparison of mature peptide sequences of mitochondrial and cytosolic fumarases revealed identity, with the exception that the N-terminal alanine of cytosolic fumarase was acetylated. Northern blot analysis of rat liver showed a single mRNA species of about 1.8 kb. Suzuki et al. (1989) concluded that the mitochondrial and cytosolic forms of fumarase are encoded by a single transcript and that posttranslational processing directs its cellular localization. 
+
+By immunohistochemical analysis, Bourgeron et al. (1994) found that fumarase localized to the mitochondrion, but not cytosol, in normal human brain, consistent with the findings in rat. 
+
+
+▼ Mapping
+Van Someren et al. (1974) and Craig et al. (1976) found that the fumarase locus is on chromosome 1, possibly in the area 1q42. Despoisses et al. (1984) narrowed the regional assignment of FH to 1q42.1 by gene dosage studies in patients with various types of partial trisomy or partial monosomy of 1q. Coughlin et al. (1993) mapped the FH gene to chromosome 1 using PCR-amplified cDNA as a probe in Southern blots of genomic DNA from a series of mouse/human somatic cell hybrids. They observed related sequences on chromosomes 13 and 5. 
+
+
+▼ Gene Function
+Pollard et al. (2005) stated that the nuclear-encoded Krebs cycle enzymes fumarate hydratase and succinate dehydrogenases (see, e.g., SDHB 185470) act as tumor suppressors, and germline mutations in these genes predispose individuals to leiomyomas and renal cancer and to paragangliomas (see 115310), respectively. Pollard et al. (2005) showed that FH-deficient cells and tumors accumulated fumarate and, to a lesser extent, succinate. SDH-deficient tumors principally accumulated succinate. In situ analysis showed that these tumors also overexpressed HIF1A (603348), activation of HIF1A targets like VEGF (192240), and high microvessel density. Pollard et al. (2005) hypothesized that increased succinate and/or fumarate may stabilize HIF1A, and that the basic mechanism of tumorigenesis in paragangliomas and leiomyoma and renal cancer may be pseudohypoxic drive, just as it is in von Hippel-Lindau syndrome (193300). 
+
+Using Fh -/- mouse embryonic fibroblasts and FH-deficient papillary renal carcinoma tissues, O'Flaherty et al. (2010) showed that deficiency in cytosolic fumarase directly led to HIF1-alpha activation. As expected, Fh -/- mouse cells showed elevated fumarate accumulation and lactate production, and reduced cellular respiration. Fh -/- also showed upregulated Hif1-alpha transcriptional activity due to reduced Hif1-alpha prolyl hydroxylation. Profound dysregulation of HIF1-alpha also occurred in FH-associated neoplasias. Reintroduction of wildtype human FH lacking the mitochondrial targeting sequence largely ablated fumarate accumulation and restored HIF1-alpha prolyl hydroxylation and inactivation without restoration of mitochondrial respiration. O'Flaherty et al. (2010) proposed that fumarate is a catalytic inhibitor of HIF1-alpha prolyl hydroxylation, and that fumarase deficiency may mimic hypoxia, resulting in HIF1-alpha activation. 
+
+Using genetically modified mouse kidney cells in which Fh1 had been deleted, Frezza et al. (2011) applied a newly developed computer model of the metabolism of these cells to predict and experimentally validate a linear metabolic pathway beginning with glutamine uptake and ending with bilirubin excretion from Fh1-deficient cells. This pathway, which involves the biosynthesis and degradation of heme, enables Fh1-deficient cells to use accumulated tricarboxylic acid (TCA) cycle metabolites and permits partial mitochondrial NADH production. Frezza et al. (2011) predicted and confirmed that targeting this pathway would render Fh1-deficient cells nonviable, while sparing wildtype Fh1-containing cells. Frezza et al. (2011) concluded that their work went beyond identifying a metabolic pathway that is induced in Fh1-deficient cells to demonstrate that inhibition of heme oxygenation is synthetically lethal when combined with Fh1 deficiency, providing a potential target for treating HLRCC (150800) patients. 
+
+
+▼ Molecular Genetics
+Fumarase Deficiency
+
+In patients with fumarase deficiency (FMRD; 606812), Bourgeron et al. (1993, 1994) and Coughlin et al. (1993) identified mutations in the FH gene (136850.0001 and 136850.0002). 
+
+In 2 sisters with an attenuated form of FMRD, Prasad et al. (2017) identified compound heterozygous mutations in the FH gene: a duplication (K477dup; 136850.0012) and a splice site mutation (136850.0013). The sibs had no encephalopathy and near-normal urine fumaric acid levels. The mutations segregated with the disorder in the family. 
+
+In a patient with FMRD, Grocott et al. (2020) identified compound heterozygous mutations in the FH gene (D65G, 136850.0014; c.1293delA, 136850.0015). Fumarase enzyme was purified from plasmids containing FH with each of the patient's mutations. Fumarase with the c.1293delA mutation had defective enzyme activity and oligomerization. Fumarase with the D65G mutation had a lower catalytic activity compared to wildtype. Urine organic acids in the patient demonstrated elevated fumaric acid, and cytosolic and mitochondrial fumarase enzyme activities were decreased in patient fibroblasts. The patient had seizures, hypotonia, and developmental delay but survived until 16 years of age. 
+
+Hereditary Leiomyomatosis and Renal Cell Cancer
+
+In patients with hereditary leiomyomatosis and renal cell cancer (HRLCC; 150800), Tomlinson et al. (2002) identified several heterozygous mutations in the FH gene (136850.0005 and 136850.0006). 
+
+In patients with multiple cutaneous and uterine leiomyomata, Tomlinson et al. (2002) identified heterozygous mutations in the FH gene (136850.0003 and 136850.0004). 
+
+Using sequence analysis, Toro et al. (2003) identified germline mutations in the FH gene in 31 of 35 (89%) families with cutaneous leiomyomas. Eighteen of the 20 different mutations they identified-- 2 insertions, 5 small deletions that caused frameshifts leading to premature termination of the protein, and 13 missense--were novel. The same mutation, arg190 to his (R190H; 136850.0007), was identified in 11 unrelated families. Cutaneous leiomyomas were found in 81 individuals (47 women and 34 men). Uterine leiomyomas were also found in 98% (46 of 47) of women with cutaneous leiomyomas. Total hysterectomy was performed in 89% (41 of 46) of women with cutaneous and uterine leiomyomas, 44% before or at age 30 years. In 13 individuals in 5 families, Toro et al. (2003) identified unilateral and solitary renal tumors. Papillary type II renal cell carcinoma was present in 7 individuals from 4 families, and another individual from 1 of these families had collecting duct carcinoma of the kidney. The study expanded the histologic spectrum of renal tumors and FH mutations associated with hereditary leiomyomatosis and renal cell carcinoma. 
+
+Barker et al. (2002) analyzed a series of 26 leiomyosarcomas and 129 uterine leiomyomas (from 21 patients) for somatic mutations in fumarate hydratase and allelic imbalance around 1q43. None of the 26 leiomyosarcomas harbored somatic mutations in fumarate hydratase. Only 5% (7 of 129) of the leiomyomas showed allele imbalance at 1q42-q43, and no somatic mutations in fumarate hydratase were observed. 
+
+Alam et al. (2003) reported 20 FH mutations in 35 of 46 probands with multiple cutaneous and uterine leiomyomata (MCUL) or FH deficiency. Disease-associated missense FH changes mapped to highly conserved residues, mostly in or around the enzyme's active site or activation site. The mutation spectra in FH deficiency and MCUL were similar, although in the latter mutations tended to occur more 5-prime in the gene and were predicted to result in a truncated or absent protein. The authors reported that not all mutation-carrier parents of FH deficiency children had a strong predisposition to leiomyomata. Renal carcinoma is sometimes part of MCUL, as part of the variant hereditary leiomyomatosis and renal cancer (HLRCC) syndrome; these cancers may have either type II papillary or collecting duct morphology. There was no association between the type or site of FH mutation and any aspect of the MCUL phenotype. Biochemical assay for reduced FH functional activity in the germline of MCUL patients may indicate carriers of FH mutations with high sensitivity and specificity, and can detect reduced FH activity in some patients without detectable FH mutations. The authors concluded that MCUL is probably a genetically homogeneous tumor predisposition syndrome, primarily resulting from absent or severely reduced fumarase activity. 
+
+To determine whether FH mutations may predispose women to developing nonsyndromic uterine leiomyomas (UL; 150699), Gross et al. (2004) performed a genetic linkage study with DNA from 123 families containing at least 1 affected sister pair. In addition, to assess the frequency of FH loss specifically in uterine leiomyomas with 1q rearrangements, they performed a FISH analysis of UL. Analysis of the genotyping data revealed evidence suggestive of linkage to the FH region among study participants who were less than 40 years of age at diagnosis (p = 0.04). FISH results showed that 1 copy of FH was absent in 9 of 11 ULs. Gross et al. (2004) concluded that loss of FH may be a significant event in the pathogenesis of a subset of nonsyndromic ULs. 
+
+Because some individuals with HLRCC with a germline FH mutation have breast cancer (114480), Kiuru et al. (2005) analyzed germline FH mutations from 85 Finnish breast cancer patients, most of whom were selected based on positive family or personal history for malignancies associated with HLRCC. No mutations were found. Kiuru et al. (2005) concluded that FH is not a major predisposing gene for familial breast cancer. 
+
+Wei et al. (2006) identified 14 mutations in the FH gene, including 9 novel mutations, in affected members of 13 families with HLRCC and 8 families with multiple cutaneous and uterine leiomyomata. Four unrelated families had the R58X mutation (136850.0003) and 5 unrelated families had the R190H mutation (136850.0007). Cutaneous leiomyomata were present in 16 (76%) of 21 families, ranging from mild to severe. All 22 female mutation carriers from 16 families had uterine fibroids. Renal tumors occurred in 13 (62%) of 21 families. No genotype/phenotype correlations were identified. 
+
+To examine the cancer risk and tumor spectrum in Finnish families positive for FH mutations, Lehtonen et al. (2006) collected genealogic and cancer data from 868 individuals. FH mutation status was analyzed in all 98 available patients. The standardized incidence ratio (SIR) was 6.5 for renal cell carcinoma (RCC) and 71 for uterine leiomyosarcoma (ULMS). The overall cancer risk was statistically significantly increased in the age group of 15 to 29 years, consistent with features of cancer predisposition families in general. An FH germline mutation was found in 55% of studied individuals. Most RCC and ULMS displayed biallelic inactivation of FH, as did breast and bladder cancers. In addition, Lehtonen et al. (2006) observed several benign tumors including atypical uterine leiomyomas, kidney cysts, and adrenal gland adenomas. 
+
+As part of the French National Cancer Institute study, Gardie et al. (2011) identified 32 different heterozygous germline mutations in the FH gene, including 21 novel mutations, in 40 (71.4%) of 56 families with proven HLRCC. In addition, FH mutations were found in 4 (17.4%) of 23 probands with isolated type 2 papillary renal cell carcinoma, including 2 patients with no family history. In vitro functional expression studies showed that all mutations caused about a 50% decrease in FH enzymatic activity. In addition, there were 5 asymptomatic mutation carriers in 3 families, indicating incomplete penetrance. The findings indicated that renal call carcinoma can be the only manifestation of this disorder. No genotype/phenotype correlations were identified. 
+
+
+▼ ALLELIC VARIANTS ( 15 Selected Examples):
+
+   
+
+.0001 FUMARASE DEFICIENCY
+FH, ALA265THR    
+In a patient of Arab ancestry with fumarase deficiency (FMRD; 606812), Coughlin et al. (1993) identified a G-to-A transition at nucleotide 793 of the FH gene, resulting in an ala265-to-thr (A265T) substitution. The father was shown to be heterozygous for the mutation.
+
+
+.0002 FUMARASE DEFICIENCY
+FH, GLU319GLN    
+Bourgeron et al. (1993, 1994) described a glu319-to-gln (E319Q) mutation in the FH gene in 2 daughters of first-cousin Moroccan parents who presented with progressive encephalopathy, dystonia, leukopenia, and neutropenia at an early age. Elevation of lactate in the cerebrospinal fluid (so-called hyperlactatorachia) and high fumarate excretion in the urine led Bourgeron et al. (1994) to investigate the activities of the respiratory chain and of the Krebs cycle, and finally to identify fumarase deficiency (FMRD; 606812). The deficiency was profound, was present in all tissues investigated, and affected the cytosolic and mitochondrial isoenzymes to the same degree. The sibs were homozygous for a missense mutation, a G-to-C transversion at nucleotide 955. The predicted amino acid substitution occurred in a highly conserved region of the fumarase cDNA. Both parents exhibited half the expected fumarase activity in their lymphocytes and were found to be heterozygous for the mutation. 
+
+
+.0003 HEREDITARY LEIOMYOMATOSIS AND RENAL CELL CANCER
+FH, ARG58TER    
+In 3 families, Tomlinson et al. (2002) found that members affected by multiple cutaneous and uterine leiomyomata (HLRCC; 150800) had a change at codon 58 from CGA (arg) to TGA (stop) (R58X) in exon 2 of the FH gene. 
+
+In 3 unrelated families with hereditary leiomyomatosis and renal cell cancer, Wei et al. (2006) identified the R58X mutation, resulting from a 172C-T transition. The R58X mutation was also identified in affected members of a fourth unrelated family with multiple cutaneous and uterine leiomyomata. Haplotype analysis of the families did not show a founder effect, suggesting that R58X represents a hotspot mutation. 
+
+
+.0004 HEREDITARY LEIOMYOMATOSIS AND RENAL CELL CANCER
+FH, ASN64THR    
+In 6 separate families, Tomlinson et al. (2002) found that individuals with multiple cutaneous and uterine leiomyomata (HLRCC; 150800) were heterozygous for a mutation in codon 64 in exon 2 of the FH gene converting AAC (asn) to ACC (thr) (N64T). 
+
+In a 55-year-old man with hereditary leiomyomatosis and renal cell cancer and the N64T mutation in the FH gene, Carvajal-Carmona et al. (2006) identified a Leydig cell tumor of the testis. 
+
+
+.0005 HEREDITARY LEIOMYOMATOSIS AND RENAL CELL CANCER
+FH, 2-BP DEL    
+In 2 Finnish families with the hereditary leiomyomatosis and renal cell cancer syndrome (HLRCC; 150800), Tomlinson et al. (2002) found a 2-bp deletion in codon 181 in exon 4 of the FH gene: conversion of GAGTTT to GTTT. 
+
+
+.0006 HEREDITARY LEIOMYOMATOSIS AND RENAL CELL CANCER
+FH, ARG300TER    
+In a Finnish family with the hereditary leiomyomatosis and renal cell cancer syndrome (HLRCC; 150800), Tomlinson et al. (2002) found a nonsense mutation converting codon 300 in exon 6 of the FH gene from CGA (arg) to TGA (stop) (R300X). 
+
+
+.0007 HEREDITARY LEIOMYOMATOSIS AND RENAL CELL CANCER
+FH, ARG190HIS    
+In 4 individuals from a family with cutaneous and uterine leiomyomatosis and renal cell cancer (HLRCC; 150800), Toro et al. (2003) identified a 569G-A transition in exon 4 of the FH gene, resulting in an arg190-to-his (R190H) mutation. The R190H mutation was also present in 10 other unrelated families with cutaneous and uterine leiomyomatosis, but screening for occult renal tumors in affected individuals from these 10 families did not identify renal tumors. Thus there appeared to be other genetic and/or environmental factors that influenced the phenotype. 
+
+Wei et al. (2006) identified the R190H mutation in affected members of 3 unrelated families with HLRCC. The R190H mutation was also identified in affected members of 2 additional families with multiple cutaneous and uterine leiomyomata. A founder effect could not be determined. 
+
+
+.0008 HEREDITARY LEIOMYOMATOSIS AND RENAL CELL CANCER
+FH, ARG190LEU    
+Toro et al. (2003) described a family with leiomyomatosis and renal cell cancer (HLRCC; 150800) associated with a 569G-T transversion in exon 4 of the FH gene, resulting in an arg190-to-leu (R190L) mutation. The nucleotide substitution occurred at the same position as that changed in the common R190H mutation (136850.0007). 
+
+
+.0009 HEREDITARY LEIOMYOMATOSIS AND RENAL CELL CANCER
+FH, ARG58PRO    
+In affected members of a family with multiple cutaneous and uterine leiomyomata (HLRCC: 150800), Chan et al. (2005) identified a heterozygous 173G-C transversion in exon 3 of the FH gene, resulting in an arg58-to-pro (R58P) substitution. The proband was a 77-year-old Polish woman with multiple cutaneous leiomyomas and uterine fibroids. Her eldest daughter had a similar phenotype, and 2 unaffected daughters did not have the mutation. Her son had multiple skin leiomyomas and was diagnosed with metastatic papillary renal cell cancer at age 50 years, and his asymptomatic 20-year-old son was also found to carry the mutation and was thus likely to develop skin leiomyomas, but the risk of renal cancer was difficult to predict. Chan et al. (2005) noted that a nonsense mutation in the same residue had been reported (R58X; 136850.0003). 
+
+Heinritz et al. (2008) identified the R58P mutation in affected members of a large German family with multiple cutaneous and uterine leiomyomata without renal cancer. Family history revealed that this German family originally came from Poland but was dispersed after World War II. Haplotype analysis of this family and that reported by Chan et al. (2005) demonstrated a founder effect for the mutation. 
+
+
+.0010 FUMARASE DEFICIENCY
+FH, PRO174ARG    
+In 2 brothers with infantile-lethal fumarase deficiency (FMRD; 606812), Mroch et al. (2012) identified compound heterozygosity for a 521C-G transversion in the FH gene, resulting in a pro174-to-arg (P174R) substitution, and a whole gene deletion (136850.0011). The older sib was born prematurely and showed hypotonia and respiratory insufficiency after birth. Both sibs had structural brain malformations, including ventriculomegaly and agenesis of the corpus callosum, detected by prenatal ultrasound. Both also had hepatic involvement, with cholestasis, variable iron deposition, fibrosis, and liver failure. Electron microscopy of the liver revealed multiple swollen mitochondria with flat, plate-like, haphazardly arranged cristae. Biochemical studies showed increased urinary tyrosine metabolites, citric cycle intermediates, citrulline, fumaric, malic, and succinic acids, and skin biopsy showed fumarase deficiency. Postmortem examination showed a distended abdomen, and the liver showed intrahepatic bile stasis. Both patients died at about 3 weeks of age. The second sib was diagnosed prenatally by molecular testing of amniocytes. 
+
+
+.0011 FUMARASE DEFICIENCY
+FH, DEL   
+For discussion of the deletion in the FH gene that was found in compound heterozygous state in patients with fumarase deficiency (FMRD; 606812) by Mroch et al. (2012), see 136850.0010. 
+
+
+.0012 FUMARASE DEFICIENCY
+FH, 3-BP DUP, 1431AAA    
+In 2 sibs of French/UK ancestry with an attenuated form of fumarase deficiency (FMRD; 606812), Prasad et al. (2017) identified compound heterozygosity for 2 mutations in the FH gene: a maternally inherited 3-bp duplication (c.1431_1433dupAAA), resulting in a duplication of lysine at amino acid 477 (K477dup), and a paternally inherited splice site mutation (c.1390+1G-T) in intron 9 (136850.0013). The mutations were identified by exome sequencing. An unaffected younger brother was found to be a carrier of the paternal mutation. Functional studies were not performed. 
+
+
+.0013 FUMARASE DEFICIENCY
+FH, IVS9DS, G-T, +1    
+For discussion of the splice site mutation (c.1390+1G-T) in intron 9 of the FH gene that was found in compound heterozygous state in 2 sibs with an attenuated form of fumarase deficiency (FMRD; 606812) by Prasad et al. (2017), see 136850.0012. 
+
+
+.0014 FUMARASE DEFICIENCY
+FH, ASP65GLY    
+In a patient with fumarate hydratase deficiency (FMRD; 606812), Grocott et al. (2020) identified compound heterozygous mutations in the FH gene: a c.94A-G transition in exon 2, resulting in an asp65-to-gly (D65G) substitution, and a 1-bp deletion (c.1293delA; 136850.0015) in exon 9, resulting in a frameshift and premature termination (Glu432LysfsTer17). The mutations were identified by sequencing of the FH gene and the parents were found to be mutation carriers. Urine organic acids in the patient demonstrated elevated fumaric acid, and cytosolic and mitochondrial fumarase enzyme activities were decreased in patient fibroblasts. Fumarase enzyme was purified from plasmids containing FH with each of the patient's mutations. Fumarase with the c.1293delA mutation had defective enzyme activity and oligomerization. Fumarase with the D65G mutation had a lower catalytic activity compared to wildtype. The patient's father, who carried the c.1293delA mutation, had a history of renal cell cancer, and her mother, who carried the D65G mutation, had a history of uterine leiomyomas. 
+
+
+.0015 FUMARASE DEFICIENCY
+FH, 1-BP DEL, 1293A    
+For discussion of the 1-bp deletion (c.1293delA) in exon 9 of the FH gene, resulting in a frameshift and premature termination (Glu432LysfsTer17), that was identified in compound heterozygous state in a patient with fumarate hydratase deficiency (FMRD; 606812) by Grocott et al. (2020), see 136850.0014.
+
+-----------------------------------------------------------
+##ORPHANET##
+-----------------------------------------------------------
+FH - fumarate hydratase
+Synonym(s): fumarase
+
+Previous symbol(s) and name(s):
+
+Type: gene with protein product
+
+Chromosomal location: 1q43
+
+OMIM: 136850
+
+HGNC: 3700
+
+UniProtKB: P07954
+
+Genatlas: FH
+
+GenCC: FH
+
+ClinVar: FH
+
+Ensembl: ENSG00000091483
+
+Reactome: P07954
+
+LOVD: FH
+
+Diseases List
+ Disease-causing germline mutation(s) in Hereditary leiomyomatosis and renal cell cancer ORPHA:523
+ Disease-causing germline mutation(s) (loss of function) in Fumaric aciduria ORPHA:24
+ Disease-causing germline mutation(s) (loss of function) in Hereditary pheochromocytoma-paraganglioma ORPHA:29072
+
+-----------------------------------------------------------
+##GENEREVIEWS [SUMMARY]##
+-----------------------------------------------------------
+Clinical characteristics.
+Fumarate hydratase (FH) deficiency results in severe neonatal and early infantile encephalopathy that is characterized by poor feeding, failure to thrive, hypotonia, lethargy, and seizures. Dysmorphic facial features include frontal bossing, depressed nasal bridge, and widely spaced eyes. Many affected individuals are microcephalic. A spectrum of brain abnormalities are seen on magnetic resonance imaging, including cerebral atrophy, enlarged ventricles and generous extra-axial cerebral spinal fluid (CSF) spaces, delayed myelination for age, thinning of the corpus callosum, and an abnormally small brain stem. Brain malformations including bilateral polymicrogyria and absence of the corpus callosum can also be observed. Development is severely affected: most affected individuals are nonverbal and nonambulatory, and many die during early childhood. Less severely affected individuals with moderate cognitive impairment and long-term survival have been reported.
+
+Diagnosis/testing.
+Isolated increased fumaric acid and alpha-ketoglutarate on urine organic acid analysis, combined with increased succinyladenosine on urine purines and pyrimidines is highly suggestive of FH deficiency. The diagnosis of FH deficiency is established in a proband with reduced fumarate hydratase enzyme activity in fibroblasts or leukocytes and/or biallelic pathogenic variants in FH identified by molecular genetic testing.
+
+Management.
+Treatment of manifestations: Evaluation and management by a pediatric neurologist to treat seizures; gastrostomy tube to optimize nutrition and prevent aspiration in hypotonic or lethargic children; feeding therapy as needed; special needs services to address developmental deficits; physical therapy to minimize contractures; wheelchair and/or other mobility devices; management of scoliosis by orthopedist.
+
+Prevention of primary manifestations: To date, there is limited information regarding use of a high-fat/low-carbohydrate diet with 60% of the dietary energy goals coming from fat, 30% from carbohydrate, and 10% from protein.
+
+Surveillance: At least annual evaluations by pediatric neurology and physical medicine; periodic evaluation by orthopedist to monitor contractures and scoliosis; assessment of visual acuity by ophthalmologist.
+
+Agents/circumstances to avoid: The ketogenic diet is usually considered to be contraindicated for treating epilepsy associated with FH deficiency or other enzymatic defects within the Krebs tricarboxylic acid cycle.
+
+Evaluation of relatives at risk: If the FH pathogenic variants in the family are known, it is appropriate to consider offering molecular genetic testing to relatives who may be at risk for hereditary leiomyomatosis and renal cell cancer.
+
+Genetic counseling.
+FH deficiency is inherited in an autosomal recessive manner. When both parents are known to be heterozygous for an FH pathogenic variant, each sib of an affected individual has at conception a 25% chance of having FH deficiency, a 50% chance of being heterozygous, and a 25% chance of inheriting neither of the familial FH pathogenic variants. Heterozygotes are at risk of developing hereditary leiomyomatosis and renal cell cancer. Once the FH pathogenic variants have been identified in an affected family member, heterozygote detection for at-risk relatives and molecular genetic prenatal testing and preimplantation genetic testing are possible. Biochemical prenatal testing by measurement of fumarate hydratase enzyme activity is also possible but may be problematic as some affected fetuses have considerable residual fumarate hydratase enzyme activity.

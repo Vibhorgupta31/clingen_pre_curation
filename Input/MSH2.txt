@@ -1,0 +1,358 @@
+##Experiment Metadata##
+
+GENE_NAME: MutS HOMOLOG 2; MSH2
+DATA_SOURCES: OMIM, Orphanet, GeneReviews
+DATA_URIS: https://www.omim.org/entry/609309?search=MSH2&highlight=msh2, https://www.orpha.net/en/disease/gene/MSH2?name=MSH2&mode=gene, https://www.ncbi.nlm.nih.gov/books/NBK1211/
+DATE_RETRIEVED: 2025-11-12
+EXPERIMENT: LS_POC_EXPERIMENT
+
+-----------------------------------------------------------
+##OMIM##
+-----------------------------------------------------------
+* 609309
+MutS HOMOLOG 2; MSH2
+
+Alternative titles; symbols
+
+MutS, E. COLI, HOMOLOG OF, 2
+
+HGNC Approved Gene Symbol: MSH2
+
+Cytogenetic location: 2p21-p16.3   Genomic coordinates (GRCh38) : 2:47,403,067-47,709,830 (from NCBI)
+
+
+Gene-Phenotype Relationships
+Location	PhenotypeView Clinical Synopses	Phenotype
+MIM number	Inheritance	Phenotype
+mapping key
+2p21-p16.3	Lynch syndrome 1	120435	AD	3
+Mismatch repair cancer syndrome 2	619096	AR	3
+Muir-Torre syndrome	158320	AD	3
+ 
+
+TEXT
+▼ Description
+MSH2 is homologous to the E. coli MutS gene and is involved in DNA mismatch repair (MMR) (Fishel et al. (1993, 1994)). 
+
+
+▼ Cloning and Expression
+Fishel et al. (1993) studied human homologs of the mismatch repair system in E. coli referred to as the MutHLS pathway. The pathway promotes a long patch (approximately 2 kb) excision repair reaction that is dependent on the products of the MutH, MutL, MutS, and MutU genes. Genetic analysis suggested that Saccharomyces cerevisiae has a mismatch repair system similar to the bacterial MutHLS system. The S. cerevisiae pathway has a MutS homolog, MSH2. In both bacteria and S. cerevisiae, mismatch repair plays a role in maintaining the genetic stability of DNA. In S. cerevisiae, Msh2 mutants exhibit increased rates of expansion and contraction of dinucleotide repeat sequences. Fishel et al. (1993) cloned and characterized a human MutS homolog, MSH2. 
+
+Leach et al. (1993) identified the MSH2 gene within the 0.8-Mb interval on chromosome 2p containing the HNPCC1 locus. MSH2 is homologous to a prokaryotic gene, MutS, that participates in mismatch repair. The highest homology is to the yeast Msh2 gene in the helix-turn-helix domain, perhaps responsible for MutS binding to DNA. The yeast and human Msh2 proteins are 77% identical between codons 615 and 788. There are 10 other blocks of similar amino acids distributed throughout the length of the 2 proteins. 
+
+Genuardi et al. (1998) reported the existence of alternative splicing in the MSH2 gene. Coupled RT-PCR of various tissue samples from normal individuals and hereditary nonpolyposis colon cancer patients identified MSH2 gene products lacking exons 5, 13, 2-7, and 2-8. The levels of expression varied among different samples. All isoforms were found in 43 to 100% of the mononuclear blood samples, as well as in other tissues. The authors cautioned that knowledge of the existence of multiple alternative splicing events not caused by genomic DNA changes is important for the evaluation of the results of molecular diagnostic tests based on RNA analysis. 
+
+
+▼ Gene Function
+The microsatellite DNA instability that is associated with alteration in the MSH2 gene in hereditary nonpolyposis colon cancer and several forms of sporadic cancer is thought to arise from defective repair of DNA replication errors that create insertion-deletion loop-type (IDL) mismatched nucleotides. Fishel et al. (1994) showed that purified MSH2 protein efficiently and specifically binds DNA containing IDL mismatches of up to 14 nucleotides. The findings supported a direct role for MSH2 in mutation avoidance and microsatellite stability in human cells. 
+
+Lishanski et al. (1994) developed an experimental strategy for detecting heterozygosity in genomic DNA based on preferential binding of E. coli MutS protein to DNA molecules containing mismatched bases. The binding was detected by a gel mobility-shift assay. The approach was tested by using as a model the most commonly occurring mutations within the cystic fibrosis gene (CFTR; 602421). 
+
+Pearson et al. (1997) studied the interaction of the human mismatch repair protein MSH2 with slipped-strand structures formed from a triplet repeat sequence in order to address the possible role of MSH2 in trinucleotide expansion, which is associated with several neurodegenerative diseases such as myotonic dystrophy (DM; 160900). Genomic clones of the myotonic dystrophy locus containing disease-relevant lengths of (CTG)n(CAG)n triplet repeats were examined. They found that the affinity of MSH2 increased with the length of the repeat sequence. Furthermore, MHS bound preferentially to looped-out CAG repeat sequences, implicating a strand asymmetry in MSH2 recognition. Pearson et al. (1997) suggested that MSH2 may participate in trinucleotide repeat expansion via its role in repair and/or recombination. 
+
+All homologs of the MutS proteins contain a highly conserved region of approximately 150 amino acids that encompasses a helix-turn-helix domain associated with an adenine nucleotide and magnesium binding motif, termed Walker-A motif. This part of the molecule has ATPase activity. Gradia et al. (1997) found that this ATPase activity and the associated adenine nucleotide-binding domain functions to regulate mismatch binding as a molecular switch. The MSH2-MSH6 (600678) complex is 'on' (binds mismatched nucleotides) in the ADP-bound form and 'off' in the ATP-bound form. Hydrolysis of ATP results in the recovery of mismatch binding, while ADP-to-ATP exchange results in mismatch dissociation. These results suggested to Gradia et al. (1997) a new model for the function of MutS proteins during mismatch repair in which the switch determines the timing of downstream events. Gradia et al. (1999) showed that ATP-induced release of MSH2-MSH6 from mismatched DNA is prevented if the ends are blocked or if the DNA is circular. The authors demonstrated that mismatched DNA provokes ADP-to-ATP exchange, resulting in a conformational transition that converts MSH2-MSH6 into a sliding clamp capable of hydrolysis-independent diffusion along the DNA backbone. These results suggested to Gradia et al. (1999) a model for bidirectional mismatch repair in which stochastic loading of multiple ATP-bound MSH2-MSH6 sliding clamps onto mismatch-containing DNA leads to activation of the repair machinery and/or other signaling effectors similar to G protein switches. 
+
+Oxidation of G in DNA yields 8-oxo-G (GO), a mutagenic lesion that leads to misincorporation of A opposite GO. In S. cerevisiae, Ni et al. (1999) found that mutations in the MSH2 or MSH6 genes caused a synergistic increase in mutation rate when in combination with mutations in the OGG1 gene (601982), resulting in a 140- to 218-fold increase in the G:C-to-T:A transversion rate. Consistent with this, MSH2-MSH6 complex bound with high affinity and specificity to GO:A mispairs and GO:C basepairs. These data indicated that in S. cerevisiae, MSH2-MSH6-dependent mismatch repair is the major mechanism by which misincorporation of A opposite GO is corrected. 
+
+Wang et al. (2000) used immunoprecipitation and mass spectrometry analyses to identify BRCA1 (113705)-associated proteins. They found that BRCA1 is part of a large multisubunit protein complex of tumor suppressors, DNA damage sensors, and signal transducers. They named this complex BASC, for 'BRCA1-associated genome surveillance complex.' Among the DNA repair proteins identified in the complex were ATM (607585), BLM (604610), MSH2, MSH6, MLH1 (120436), the RAD50 (604040)-MRE1 1 (600814)-NBS1 (602667) complex, and the RFC1 (102579)-RFC2 (600404)-RFC4 (102577) complex. Wang et al. (2000) suggested that BASC may serve as a sensor of abnormal DNA structures and/or as a regulator of the postreplication repair process. 
+
+Defective S-phase checkpoint activation results in an inability to downregulate DNA replication following genotoxic insult such as exposure to ionizing radiation. This 'radioresistant DNA synthesis' (RDS) is a phenotypic hallmark of ataxia-telangiectasia, a cancer-predisposing disorder caused by mutations in the ATM gene. The mismatch repair system principally corrects nucleotide mismatches that arise during replication. By studies in cultured cells, Brown et al. (2003) showed that the mismatch repair system is required for activation of the S-phase checkpoint in response to ionizing radiation. Cells deficient in mismatch repair proteins showed RDS, and restoration of mismatch repair function restored normal S-phase checkpoint function. Catalytic activation of ATM and ATM-mediated phosphorylation of the protein nibrin (NBS1; 602667), which is mutant in the Nijmegen breakage syndrome (251260), occurred independently of mismatch repair. However, ATM-dependent phosphorylation and activation of the checkpoint kinase CHK2 (604373) and subsequent degradation of its downstream target, CDC25A (116947), was abrogated in cells lacking mismatch repair. Both in vitro and in vivo approaches showed that MSH2 binds CHK2 and that MLH1 associates with ATM. These findings indicated that the mismatch repair complex formed at the sites of DNA damage facilitates the phosphorylation of CHK2 by ATM, and that defects in this mechanism form the molecular basis for the RDS observed in cells deficient in mismatch repair. 
+
+Most errors that arise during DNA replication can be corrected by DNA polymerase proofreading or by postreplication mismatch repair (MMR). Inactivation of both mutation-avoidance systems resulting in high mutability and the likelihood of cancer can be caused by mutations (e.g., in the MSH2 gene) and by epigenetic changes that reduce MMR. Hypermutability can also be caused by external factors that directly inhibit MMR. Jin et al. (2003) found that chronic exposure of yeast to environmentally relevant concentrations of cadmium, a known human carcinogen, can result in extreme hypermutability. The mutation specificity along with responses in proofreading-deficient and MMR-deficient mutants indicated that cadmium reduces the capacity for MMR of small misalignments and base-base mismatches. In extracts of human cells, Jin et al. (2003) found that cadmium inhibited at least 1 step leading to mismatch removal. Thus, the data showed that a high level of genetic instability can result from environmental impediment of a mutation-avoidance system. McMurray and Tainer (2003) commented on the direct inhibition of DNA mismatch repair as a molecular mechanism for cadmium toxicity. 
+
+By immunoprecipitation of human breast cancer cell lines and protein pull-down assays with in vitro translated proteins, Wada-Hiraike et al. (2005) demonstrated that estrogen receptor-alpha (ESR1; 133430) interacted with MSH2 in a ligand-dependent manner, whereas estrogen receptor-beta (ESR2; 601663) and MSH2 interacted in a ligand-independent manner. Both receptors bound MSH2 through its MSH3 (600887)/MSH6-interaction domain. In a transient expression assay, MSH2 potentiated the transactivation function of ligand-activated ESR1 but not ESR2. Wada-Hiraike et al. (2005) concluded that MSH2 may be a coactivator of ESR1-dependent gene expression. 
+
+
+▼ Biochemical Features
+Lamers et al. (2000) and Obmolova et al. (2000) independently determined the crystal structure of bacterial MutS binding with substrate DNA. Lamers et al. (2000) presented the crystal structure at a 2.2-angstrom resolution of MutS from E. coli bound to a G/T mismatch. The 2 MutS monomers have different conformations and form a heterodimer at the structural level. Only one monomer recognizes the mismatch specifically and has ADP bound. Mismatch recognition occurs by extensive minor groove interactions causing unusual basepairing and kinking of the DNA. Lamers et al. (2000) stated that mutations in human MSH2 that lead to hereditary predisposition for HNPCC can be mapped to this crystal structure. 
+
+
+▼ Gene Structure
+Kolodner et al. (1994) found that the genomic MSH2 locus covers approximately 73 kb and contains 16 exons. 
+
+
+▼ Mapping
+Fishel et al. (1993) demonstrated that the MSH2 gene maps to chromosome 2p22-p21 by study of a mapping panel of somatic cell hybrid DNAs using PCR. 
+
+
+▼ Molecular Genetics
+Heterozygous mutations in the MSH2 gene result in Lynch syndrome-1, also known as hereditary nonpolyposis colorectal cancer type 1 (LYNCH1; HNPCC1; 120435). Epigenetic silencing of MSH2 caused by deletion of 3-prime regions of the upstream EPCAM gene (185535) and intergenic regions results in Lynch syndrome-8, also known as hereditary nonpolyposis colorectal cancer type 8 (HNPCC8; 613244). Alteration of MSH2 is also involved in Muir-Torre syndrome (MRTES; 158320) and mismatch repair cancer syndrome (MMRCS2; 619096).
+
+Lynch Syndrome 1
+
+Fishel et al. (1993) identified a T-to-C transition in the -6 position of a splice acceptor site in sporadic colon tumors and as a constitutional change in affected members of 2 small families with HNPCC. 
+
+Leach et al. (1993) demonstrated the existence of MSH2 germline mutations that substantially altered the predicted gene product and cosegregated with disease in the HNPCC kindreds. Furthermore, they identified specific germline mutations in each of the 2 kindreds that originally established linkage of HNPCC to chromosome 2 (e.g., 609309.0001) (Peltomaki et al., 1993). 
+
+Aquilina et al. (1994) detected a mismatch binding defect leading to a mutator phenotype in LoVo, a human colorectal carcinoma cell line. Umar et al. (1994) described a deletion in the MSH2 gene in LoVo cells together with a defect in mismatch repair by LoVo cell extracts. 
+
+Orth et al. (1994) found that 5 of 10 ovarian tumor cell lines were genetically unstable at most microsatellite loci analyzed. In clones and subclones derived serially from 1 of these cell lines (serous cystadenocarcinoma), a very high proportion of microsatellites distributed in many different regions of the genome changed their size in a mercurial fashion. In 1 ovarian tumor, they identified the source of the genetic instability as a point mutation (R524P; 609309.0007) in the MSH2 gene. The patient was a 38-year-old heterozygote for this mutation and her normal tissue carried both mutant and wildtype alleles of the MSH2 gene. However, the wildtype allele was lost at some point early during tumorigenesis so that DNA isolated either from the patients ovarian tumor or from the cell line carried only the mutant MSH2 allele. The genetic instability observed in the tumor and cell line DNA, together with the germline mutation in a mismatch repair gene, suggested that MSH2 is involved in the onset and/or progression in a subset of ovarian cancer. 
+
+Using denaturing gradient gel electrophoresis (DGGE) to screen for mutations in all 16 exons of the MSH2 gene in 34 unrelated HNPCC kindreds, Wijnen et al. (1995) found 7 novel pathogenic germline mutations resulting in stop codons, either directly or through frameshifts. Four nonpathogenic variations, including 1 useful polymorphism, were also identified. MSH2 mutations were found in 21% of the families. They could not establish any correlation between the site of the individual mutations and the spectrum of tumor types. 
+
+Maliaka et al. (1996) identified 6 different new mutations in the MLH1 (120436) and MSH2 genes in Russian and Moldavian HNPCC families. Three of these mutations occurred in CpG dinucleotides and led to a premature stop codon, splicing defect, or an amino acid substitution in evolutionarily conserved residues. Analysis of a compilation of published mutations including the new data suggested to the authors that CpG dinucleotides within the coding regions of the MSH2 and MLH1 genes are hotspots for single basepair substitutions. 
+
+Ellison et al. (2001) performed quantitative in vivo DNA mismatch repair (MMR) assays in the yeast S. cerevisiae to determine the functional significance of amino acid replacements in MLH1 and MSH2 genes observed in the human population. Missense codons previously observed in human genes were introduced at the homologous residue in the yeast MLH1 or MSH2 genes. Three classes of missense codons were found: (i) complete loss of function, i.e., mutations; (ii) variants indistinguishable from wildtype protein, i.e., silent polymorphisms; and (iii) functional variants which supported MMR at reduced efficiency, i.e., efficiency polymorphisms. There was a good correlation between the functional results in yeast and available human clinical data regarding penetrance of the missense codon. The authors suggested that differences in the efficiency of DNA MMR may exist between individuals in the human population due to common polymorphisms. 
+
+Wang et al. (2002) described a modified multiplex PCR assay effective in detecting large deletions in either the MSH2 or MLH1 gene in HNPCC. 
+
+Alazzouzi et al. (2005) studied the allelic distribution of microsatellite repeat bat26 of in peripheral blood lymphocytes of 6 carriers and 4 noncarriers from 2 HNPCC families harboring germline MLH1 and MSH2 mutations, respectively. In noncarriers, there was a gaussian distribution with no bat26 alleles shorter than 21 adenine residues. All 6 MLH1/MSH2 mutation carriers showed unstable bat26 alleles (20 adenine residues or shorter) with an overall frequency of 5.6% (102 of 1814 clones detected). Alazzouzi et al. (2005) suggested that detection of short unstable bat26 alleles may assist in identifying asymptomatic carriers belonging to families with no detectable MMR gene mutations. 
+
+Quehenberger et al. (2005) obtained estimates of the risk of colorectal cancer (CRC) and endometrial cancer (EC) for carriers of disease-causing mutations of the MSH2 and MLH1 genes. Families with known germline mutations of these genes were extracted from the Dutch HNPCC cancer registry. Ascertainment-corrected maximum likelihood estimation was carried out on a competing risks model for CRC and EC. The MSH2 and MHL1 loci were analyzed jointly as there was no significant difference in risk (p = 0.08). At age 70, CRC risk for men was 26.7% (95% CI, 12.6 to 51.0%) and for women, 22.4% (10.6 to 43.8%); the risk for EC was 31.5% (11.1 to 70.3%). These estimates of risk were considerably lower than ones previously used which did not account for the selection of families. 
+
+Pagenstecher et al. (2006) examined 19 variants in the MLH1 and MSH2 genes detected in patients with HNPCC for expression at the RNA level. Ten of the 19 were found to affect splicing, including several variants which were predicted to be missense mutations in exonic sequences (see, e.g., 120436.0024). The findings suggested that mRNA examination of MLH1 and MSH2 mutations should precede functional tests at the protein levels. 
+
+Without preselection and regardless of family history, Barnetson et al. (2006) recruited 870 patients under the age of 55 years soon after they received the diagnosis of colorectal cancer. They studied these patients for germline mutations in DNA mismatch-repair genes MLH1, MSH2, and MSH6 (600678) and developed a 2-stage model by multivariate logistic regression for the prediction of the presence of mutations in these genes. Stage 1 of the model incorporated only clinical variables; stage 2 comprised analysis of the tumor by immunohistochemical staining and tests for microsatellite instability. The model was validated in an independent population of patients. Furthermore, they analyzed 2,938 patient-years of follow-up to determine whether genotype influenced survival. Among the 870 participants, 38 mutations were found: 15 in MLH1, 16 in MSH2, and 7 in MSH6. Carrier frequencies in men (6%) and women (3%) differed significantly (P less than 0.04). Survival among carriers was not significantly different from that among noncarriers. 
+
+Using multiplex ligation-dependent probe amplification, Stella et al. (2007) analyzed the MSH2 gene in 4 probands from Italian HNPCC families and identified deletions in all 4; 2 carried the same deletion of exons 1-6 (609309.0023). Haplotype analysis of the 2 families with the MSH2 1-6 deletion suggested that it might be a founder mutation. Analysis of 23 affected parent-child pairs in the 4 kindreds showed that median age at diagnosis was anticipated in the offspring by 12 years (p = 0.0001). 
+
+Tournier et al. (2008) examined potential splicing defects of 56 unclassified variants in the MLH1 gene and 31 in the MSH2 gene that were identified in 82 French patients with Lynch syndrome. The variants comprised 54 missense mutations, 10 synonymous changes, 20 intronic variants, and 3 single-codon deletions. The authors developed an ex vivo splicing assay by inserting PCR-amplified transcripts from patient genomic DNA into a reporter minigene that was transfected into HeLa cells. The ex vivo splicing assay showed that 22 of 85 variant alleles affected splicing, including 4 exonic variants that affected putative splicing regulatory elements. The study provided a tool for evaluating putative pathogenic effects of unclassified variants found in these genes. 
+
+Tang et al. (2009) identified pathogenic mutations or deletions in the MLH1 or MSH2 gene in 61 (66%) of 93 Taiwanese families with HNPCC. Eighteen families had MSH2 mutations, including 4 novel point mutations and 7 large deletions, and 1 family harbored MSH2 and MLH1 mutations. 
+
+Borelli et al. (2013) identified 5 different heterozygous deletions in exon 8 of the MSH2 gene (see, e.g., 609309.0024-609309.0025) in 13 Italian families with HNPCC1. Ten of the families were of Sardinian origin, and 2 of the mutations showed a founder effect. 
+
+Epigenetic Silencing of MSH2 in Colorectal Cancer
+
+Germline mutations of the DNA mismatch repair (MMR) genes, in particular, the MSH2 and MLH1 (120436) genes, cause the most common hereditary cancer, hereditary nonpolyposis colorectal cancer (HNCC) syndrome. These mutations generally take the form of a permanent and stable alteration in DNA, which can be inherited by offspring in a predictable manner. Alternatively, epimutation, which involves a reversible alteration of gene function mediated by cytosine methylation or histone modification without change of the DNA sequence, generally occurs as a somatic event in cancers. The best example is methylation of the MLH1 gene promoter, leading to its transcriptional silencing in sporadic colorectal cancer with mismatch repair deficiency. Although inheritance of epigenetic characteristics had been clearly documented in plants, and to a lesser extent in other animals, evidence supporting its involvement in human disease was limited. Chan et al. (2006) was among the first to report inheritance, in 3 successive generations, of germline allele-specific and mosaic hypermethylation of the MSH2 gene, without evidence of DNA mismatch repair gene mutation. Three sibs carrying the germline methylation developed early-onset colorectal or endometrial cancers, all with microsatellite instability and MSH2 protein loss. Clonal bisulfite sequencing and pyrosequencing showed different methylation levels in different somatic tissues, with the highest level recorded in rectal mucosa and colon cancer tissue, and the lowest in blood leukocytes. Chan et al. (2006) postulated that this mosaic state of germline methylation with different tissue distribution could act as the first hit and provide a mechanism for genetic disease inheritance that may deviate from the mendelian pattern and be overlooked in conventional leukocyte-based genetic diagnosis strategy. 
+
+In 4 Dutch and 2 Chinese families with Lynch syndrome, including the family studied by Chan et al. (2006) with heritable MSH2 promoter methylation, Ligtenberg et al. (2009) detected deletions of the 3-prime end of the EPCAM gene (185535) that led to inactivation of the adjacent MSH2 gene through methylation induction of its promoter in tissues expressing EPCAM. In 4 Dutch families with colorectal cancer showing high microsatellite instability and loss of MSH2 protein, but in which no mutations in MSH2 were found, Ligtenberg et al. (2009) detected a 5-kb deletion encompassing the 2 most 3-prime exons of the EPCAM gene but leaving the promoter of the MSH2 gene intact (185535.0005). In the family of Chan et al. (2006) and in another unrelated Chinese family, they found a 22.8-kb deletion encompassing the 3-prime end of EPCAM and leaving the MSH2 promoter intact (185535.0006). The deletions included the polyadenylation signal of EPCAM and abolished transcriptional termination, leading to transcription read-through into the downstream MSH2 gene. Methylation occurred only in tissues expressing EpCAM among which are the main target tissues in Lynch syndrome. Ligtenberg et al. (2009) concluded that based on their findings, transcriptional read-through due to deletion of polyadenylation signals may constitute a general mutational mechanism for the inactivation of neighboring genes. 
+
+Muir-Torre Syndrome
+
+Kolodner et al. (1994) analyzed 2 large HNPCC kindreds exhibiting features of the Muir-Torre syndrome (MRTES; 158320) and demonstrated that cancer susceptibility was due to the inheritance of a frameshift mutation in the MSH2 gene in one family and a nonsense mutation in the MSH2 gene in the other family. Linkage of the cancer phenotype to chromosome 2p had been described in these families by Hall et al. (1994). 
+
+Mangold et al. (2004) screened for mutations in the MSH2 and MLH1 genes in 41 unrelated index patients diagnosed with Muir-Torre syndrome, most of whom were preselected for mismatch repair deficiency in their tumor tissue. Germline mutations were identified in 27 patients (mutation detection rate of 66%). Mangold et al. (2004) noted that 25 (93%) of the mutations were located in MSH2, in contrast to HNPCC patients without the MRTES phenotype, in whom the proportions of MLH1 and MSH2 mutations are almost equal (p less than 0.001). Mangold et al. (2004) further noted that 6 (22%) of the mutation carriers did not meet the Bethesda criteria for HNPCC and suggested that sebaceous neoplasm be added to the HNPCC-specific malignancies in the Bethesda guidelines. 
+
+Mismatch Repair Cancer Syndrome 2
+
+Whiteside et al. (2002) described a 2-year-old infant with mismatch repair cancer syndrome (MMRCS2; 619096) manifest as T-cell acute lymphoblastic leukemia and multiple cafe-au-lait spots, suggesting neurofibromatosis type I (NF1; 162200). The child was found to be homozygous for a splice site mutation in the MSH2 gene (609309.0014). Both parents were heterozygous for the mutation. Other than cafe-au-lait spots, the infant had no other signs of NF1. There was no family history of either NF1 or cancers indicative of HNPCC. Homozygosity for another DNA mismatch repair gene, MLH1 (120436), had been reported in 3 families (Wang et al., 1999; Ricciardone et al., 1999; Vilkki et al., 2001). The homozygous offspring in all of these families were diagnosed with NF1 with no family history of the disorder. Five homozygous children in 2 of the families developed leukemia or lymphoma. Whiteside et al. (2002) pointed out that more than two-thirds of Msh2 -/- knockout mice succumb to thymic lymphomas. 
+
+Bougeard et al. (2003) described 2 sibs, a female who died of mediastinal T-cell lymphoma at the age of 15 months and her brother who died at age 4 years from a temporal glioblastoma. The phenotype was consistent with mismatch repair cancer syndrome. Study of glioblastoma DNA from the boy indicated compound heterozygosity for 2 mutations in the MSH2 gene (609309.0015; 609309.0016). In this family, endometrial carcinoma was the cause of death at age 43 years in an aunt of the mother and at age 59 years in the grandmother of the father. Furthermore, an uncle of the father had died of astrocytoma at age 27 years. 
+
+Using specific markers of the mutator phenotype, Duval et al. (2004) screened a series of 603 human non-Hodgkin lymphomas (NHLs; 605027) and found 12 microsatellite instability-high (MSI-H) cases (2%). This phenotype was specifically associated with immunodeficiency-related lymphomas being observed in both posttransplant lymphoproliferative disorders and in HIV infection-related lymphomas but not in a large series of NHL arising in the general population. The MSI pathway is known to lead to the production of hundreds of abnormal protein neoantigens that are generated in MSI-H neoplasms by frameshift mutations of a number of genes containing coding microsatellite sequences. As expected, Duval et al. (2004) found that MSI-H immunodeficiency-related lymphomas harbored such genetic alterations in 12 target genes with a putative role in lymphomagenesis. 
+
+Muller et al. (2006) detected homozygosity for a splice site mutation in the MSH2 gene (609309.0020) in 2 brothers with MMRCS2. The patients had colorectal cancer and multiple cafe-au-lait spots but no hematologic malignancies or brain tumors. 
+
+
+▼ Cytogenetics
+Wagner et al. (2002) identified a paracentric inversion of chromosome 2p that inactivated the MSH2 locus and caused HNPCC. They showed that the centromeric and telomeric breakpoints of the paracentric inversion mapped within intron 7 of the MSH2 gene and to a contig 10 Mb 3-prime of MSH2, respectively. Northern and Western blot analyses showed that expression of MSH2 was abolished. 
+
+
+▼ Animal Model
+To investigate the role of the MSH2 gene in genome stability and tumorigenesis, de Wind et al. (1995) generated cells and mice deficient for the gene. Msh2-deficient mouse embryonic stem cell lines were found to have lost mismatch binding and acquired microsatellite instability, a mutator phenotype, and tolerance to methylation agents. Moreover, in these cells, homologous recombination had lost dependence on complete identity between interacting DNA sequences, suggesting that Msh2 is involved in safeguarding the genome from promiscuous recombination. MSH2-deficient mice displayed no major abnormalities, but a significant fraction developed lymphomas at an early age. 
+
+Reitmair et al. (1995) described a mouse strain homozygous for a 'knockout' mutation at the MSH2 locus. Surprisingly, these mice were found to be viable, produced offspring in a mendelian ratio, and bred through at least 2 generations. Starting at 2 months of age, homozygous MSH2-deficient mice began to develop lymphoid tumors with high frequency that contained microsatellite instabilities. These data established a direct link between MSH2 deficiency and the pathogenesis of cancer. 
+
+Mice carrying a targeted germline disruption of the MSH2 gene are viable and susceptible to lymphoid tumors; however, defects in this gene had not been identified in human lymphomas. To determine if the lymphomas these mice develop are related to a particular subtype of human lymphoma, Lowsky et al. (1997) evaluated 20 clinically ill homozygous MSH2 -/- mice ranging in age from 2 to 13 months. The murine tumors comprised a single histopathologic entity representing the malignant counterpart of precursor thymic T cells and closely resembling human precursor T-cell lymphoblastic lymphoma (LBL). Evaluation of the expression of 3 T-cell malignancy-associated genes showed that rhombotin-2 (RBTN2; 180385), TAL1 (187040), and HOX11 (186770) were expressed in 100, 40, and 0% of the murine tumors, respectively. The MSH2 -/- murine model of precursor T-cell LBL was substantiated by the finding of a newly identical expression pattern of RBTM2, TAL1, and HOX11 in 10 well-characterized cases of human LBL. Direct evidence for MSH2 abnormalities in human LBL was established by sequence analysis of exon 13 of human MSH2, which revealed coding region mutations in 2 of 10 cases. The findings of Lowsky et al. (1997) implicated defects in the mismatch repair system with the aberrant expression of T-cell specific protooncogenes and defined a new pathway of human lymphomagenesis. 
+
+Chronic oxidative stress may play a critical role in the pathogenesis of many human cancers. DeWeese et al. (1998) reported that mouse embryonic stem (ES) cells from mice carrying either 1 or 2 disrupted Msh2 alleles displayed an increased survival following protracted exposures to low-level ionizing radiation as compared with wildtype ES cells. The increases in survival exhibited by ES cells deficient in DNA mismatch repair appeared to have resulted from a failure to execute cell death (apoptosis) efficiently in response to radiation exposure. For each of the ES cell types, prolonged low-level radiation treatment generated oxidative genome damage that manifested as an accumulation of oxidized bases in genomic DNA. However, ES cells from Msh2 +/- and Msh2 -/- mice accumulated more oxidized bases as a consequence of low-level radiation exposure than did ES cells from Msh2 +/+ mice. The propensity for normal cells with mismatch repair enzyme deficiencies, including cells heterozygous for inactivating mismatch repair enzyme gene mutations, to survive promutagenic genome insults accompanying stresses may contribute to the increased cancer risk characteristic of the hereditary nonpolyposis colorectal cancer syndrome. 
+
+Somatic instability of expanded huntingtin (HTT; 613004) CAG repeats that encode the polyglutamine tract in mutant huntingtin has been implicated in the striatal selectivity of Huntington disease (HD; 143100) pathology. Wheeler et al. (2003) tested whether a genetic background deficient in Msh2 would eliminate the unstable behavior of the CAG array in Hdh(Q111) mice. Analyses of Hdh(Q111/+):Msh2(+/+) and Hdh(Q111/+):Msh2(-/-) progeny revealed that, while inherited instability involved Msh2-dependent and -independent mechanisms, lack of Msh2 was sufficient to abrogate progressive HD CAG repeat expansion in striatum. The absence of Msh2 also eliminated striatal mutant huntingtin with somatically expanded glutamine tracts and caused an approximately 5-month delay in nuclear mutant protein accumulation, but did not alter the striatal specificity of this early phenotype. 
+
+In HD(+/-)/Msh2(+/+) and HD(+/-)/Msh2(-/-) mice, Kovtun et al. (2004) showed that long CAG repeats were shortened during somatic replication early in embryonic development. Deletions arose during replication, did not depend on the presence of Msh2, and were largely restricted to early development. In contrast, expansions depended on strand break repair, required the presence of Msh2, and occurred later in development. Kovtun et al. (2004) hypothesized that deletions in early development may serve to safeguard the genome and protect against expansion of disease-range repeats during parent-offspring transmission. 
+
+
+▼ ALLELIC VARIANTS ( 26 Selected Examples):
+
+   
+
+.0001 LYNCH SYNDROME 1
+MSH2, PRO622LEU    
+In family J living in New Zealand and studied by Peltomaki et al. (1993) for demonstration of linkage of colorectal cancer (LYNCH1; 120435) to chromosome 2, Leach et al. (1993) demonstrated a CCA-to-CTA transition in codon 622, resulting in substitution of leucine for proline. The mutation was present in 1 allele of individual J-42, who was afflicted with colon and endometrial cancer at ages 42 and 44, respectively. All 11 affected individuals in the family had the mutation, while all 10 unaffected members and 20 unrelated individuals had proline at codon 622. 
+
+
+.0002 LYNCH SYNDROME 1
+MSH2, DEL 50 CODONS   
+In studies of DNA from family C, a North American family with Lynch syndrome-1 (LYNCH1; 120435) studied by Peltomaki et al. (1993), Leach et al. (1993) found no mutations of the conserved region of MSH2. A presumptive splicing defect was found that removed codons 265 to 314 from the MSH2 transcript. 
+
+
+.0003 LYNCH SYNDROME 1
+MSH2, ARG406TER    
+In a kindred with hereditary nonpolyposis colorectal cancer and linkage to 2p (LYNCH1; 120435), Leach et al. (1993) demonstrated a CGA-to-TGA transition in codon 406, resulting in change of arginine to a stop. 
+
+
+.0004 LYNCH SYNDROME 1
+MSH2, HIS639TYR    
+In a family with hereditary nonpolyposis colorectal cancer linked to 2p (LYNCH1; 120435), Leach et al. (1993) demonstrated a CAT-to-TAT transition in codon 639, resulting in substitution of tyrosine for histidine. Of interest was the finding that, in addition to the germline mutation, an RER(+) tumor had a somatic mutation: substitution of TG for A in codon 663 (ATG), resulting in a frameshift. 
+
+
+.0005 LYNCH SYNDROME 1
+MSH2, 3-BP DEL, ASN596DEL    
+In a family in which 3 first-degree relatives developed colon cancer (LYNCH1; 120435) under the age of 45 years, with all neoplasms being mucinous adenocarcinomas, Mary et al. (1994) found deletion of codon 596 (AAT) resulting in the deletion of an asparagine residue from the protein. 
+
+
+.0006 MUIR-TORRE SYNDROME
+MSH2, GLN601TER    
+In a kindred with characteristics of the Muir-Torre syndrome (158320), Kolodner et al. (1994) found a C-to-T transition at nucleotide 1801 converting codon 601 from gln to stop. Thus, a truncated MSH2 protein was predicted. The affected members were heterozygous. This was 1 of 2 families in which all individuals in whom colorectal or endometrial cancers occurred were found to carry the mutant allele. Many of those carrying MSH2 mutations had tumors outside the colorectum, e.g., stomach cancer and small bowel cancer, and there were skin lesions characteristic of Muir-Torre syndrome. 
+
+
+.0007 LYNCH SYNDROME 1
+MSH2, ARG524PRO    
+In a 38-year-old woman with serous cystadenocarcinoma of the ovary, Orth et al. (1994) found constitutional heterozygosity for an arg524-to-pro mutation of the MSH2 gene. Whereas normal tissue carried both mutant and wildtype alleles, the DNA isolated either from the patient's ovarian tumor or from the derived cell line carried only the mutant allele of the MSH2 gene. Orth et al. (1994) concluded that the woman probably had hereditary nonpolyposis colorectal cancer (LYNCH1; 120435), of which ovarian cancer is an integral lesion. 
+
+
+.0008 LYNCH SYNDROME 1
+MSH2, 1-BP DEL    
+In 2 apparently unrelated families with familial nonpolyposis colon cancer type 1 (LYNCH1; 120435), Jeon et al. (1996) found the same mutation in exon 13 of the MSH2 gene: deletion of a single nucleotide from codon 705, changing TGT to TT. Exon 13 of the MSH2 gene was chosen for screening because it is in the middle of the most conserved region of the gene. The 2 families did not fulfill the strict Amsterdam criteria for HNPCC because each had an unaffected individual over the age of 50 with the mutation. 
+
+
+.0009 MUIR-TORRE SYNDROME
+MSH2, 22-BP INS    
+Esche et al. (1997) described the case of a 62-year-old man with Muir-Torre syndrome (158320) who had rectal cancer, 2 keratoacanthomas, and multiple sebaceous adenomas, epitheliomas, and sebaceous hyperplasia. His brother and father died of colorectal cancer. A frameshift mutation leading to a truncated protein was demonstrated in the mismatch repair gene MSH2. One allele contained an insertion of 22 bp at codon 97 (after nucleotide 289) leading to a frameshift with a stop after 9 further codons. Presymptomatic molecular diagnosis could be offered to the children of the patient. 
+
+
+.0010 MSH2 POLYMORPHISM
+MSH2, GLY322ASP    
+Liu et al. (1998) concluded that gly322 to asp is a common polymorphism of the MSH2 gene and not a disease-causing mutation. They found this exon 6 mutation in 9 of 170 colorectal cancer (see 114500) patients (5.3%) from high-risk families, and in 6 of those families this alteration was shown not to segregate with disease. They also found this alteration in 12 of 192 normal controls (6.3%) and in none of 104 sporadic colorectal cancer cases. 
+
+
+.0011 LYNCH SYNDROME 1
+MSH2, DEL EXON 5    
+Froggatt et al. (1999) reported an A-to-T transversion at nucleotide 943+3 of the MSH2 gene disrupting the 3-prime splice site of exon 5 and leading to deletion of this exon from the MSH2 mRNA. This mutation was originally identified in 3 of 29 North American hereditary nonpolyposis colorectal cancer (LYNCH1; 120435) families (Liu et al., 1994) and had also been found in 4 of 52 English families and in 10 of 20 families from Newfoundland. Froggatt et al. (1999) stated that this was the most common MSH2 mutation reported to that time. To investigate the origin of this mutation in these families, Froggatt et al. (1999) performed haplotype analysis using microsatellite markers linked to MSH2. A common haplotype was identified in 8 of the Newfoundland families, suggesting a founder effect. Froggatt et al. (1999) calculated age-related risks of all, colorectal, endometrial, and ovarian cancers in 76 carriers of the nucleotide 943+3 A-to-T MSH2 mutation for all patients and for men and women separately. For both sexes combined, the penetrance at age 60 years for all cancers and colorectal cancers was 0.86 and 0.57, respectively. The risk of colorectal cancer was significantly higher (P = less than 0.01) in males than in females. For females there was a high risk of endometrial cancer (0.5 at age 60 years) and premenopausal ovarian cancer (0.2 at 50 years). 
+
+In a note added in proof, Froggatt et al. (1999) reported that another 21 HNPCC families had been identified in Newfoundland, 1 of which carried the 943+3A-T mutation, raising the proportion of Newfoundland families with this mutation to 11 of 41 (27%). Three of these families were shown to have a common ancestor, and another common ancestor was found for an additional 2 families. 
+
+Desai et al. (2000) studied 10 families from England, Italy, Hong Kong, and Japan with this mutation. Haplotype sharing was not apparent even within the European and the Asian kindreds. The authors concluded that the 943+3A-T mutation occurs de novo with relatively high frequency and hypothesized that it arises as a consequence of misalignment at replication or recombination caused by a repeat of 26 adenine residues, of which the mutated A is the first. 
+
+
+.0012 LYNCH SYNDROME 1
+MSH2, ALA636PRO    
+In an Ashkenazi kindred with hereditary nonpolyposis colorectal cancer type 1 (LYNCH1; 120435), Yuan et al. (1999) found a G-to-C transversion in the MSH2 gene, resulting in an ala636-to-pro (A636P) substitution segregating with the disease. In addition, they found a missense mutation in the APC gene (I1307K; 175100.0029) in 2 unaffected members of the kindred. Yuan et al. (1999) concluded that clinical surveillance for CRC should not be discontinued in Ashkenazi families with HNPCC where an MSH2 mutation had been found until the APC gene had also been analyzed, and that the APC I1307K mutation should be sought in Ashkenazi families with multiple cases of CRC. Yuan et al. (1999) also recognized that the relationship between the presence of that mutation and CRC was not fully resolved. 
+
+Foulkes et al. (2002) stated that the 1906G-C mutation had been found in 25 apparently unrelated Ashkenazi Jewish families. It was estimated to account for 2 to 3% of colorectal cancer in those whose age at diagnosis was less than 60 years. The mutation was highly penetrant and accounted for approximately one-third of HNPCC in Ashkenazi Jewish families that fulfilled the Amsterdam criteria. 
+
+Using an intraallelic coalescent model of multipoint linkage disequilibrium mapping, Sun et al. (2005) determined that the 1906G-C founder mutation probably originated between 1440 and 1715 in the Ashkenazi Jewish population, at a time when the Ashkenazim were living in eastern Europe in partially closed communities. 
+
+
+.0013 LYNCH SYNDROME 1
+MSH2, 24-BP INS   
+In the historic 'family G' with hereditary nonpolyposis colorectal cancer (LYNCH1; 120435) of Warthin (1913), Yan et al. (2000) identified a 24-bp insertion in the MSH2 gene by use of a method that converted cells from diploidy to haploidy. The insertion occurred between codons 215 and 216 of the cDNA resulting in a change in the splice acceptor of exon 4. 
+
+
+.0014 MISMATCH REPAIR CANCER SYNDROME 2
+MSH2, IVS10, G-A, -1    
+Whiteside et al. (2002) reported a male infant with mismatch repair cancer syndrome (MMRCS2; 619096) who presented at 24 months of age with failure to thrive and a gastrointestinal infection that led to the diagnosis of T-cell acute lymphoblastic leukemia and IgA deficiency. He was also noted to have multiple cafe-au-lait spots, present from birth, of a size and number sufficient to satisfy one of the criteria for the diagnosis of NF1 (162200). However, he had no neurofibromas or other clinical features of NF1. His parents were nonconsanguineous but were from the same ethnic, religious, and geographic background. A homozygous G-to-A transition was found in the proband in the invariant G of the intron 10 acceptor site of the MSH2 gene. This mutation at position 1662-1 bp (relative to the ATG translational start site) was predicted to result in skipping of exon 11 to exon 12, with out-of-frame translation of the mutant mRNA resulting in a truncated, nonfunctional protein. The parents, who were both heterozygous for the mutation, did not have HNPCC, but the authors noted that their young age may explain the lack of observed cancer at that time. 
+
+Andrew (2002) stated that the family reported by Whiteside et al. (2002) was of East Indian descent and lived in Alberta; the family had moved to Canada from Fiji. 
+
+
+.0015 MISMATCH REPAIR CANCER SYNDROME 2
+MSH2, EX1-6 DEL   
+Bougeard et al. (2003) described 2 sibs, a female who died of mediastinal T-cell lymphoma at the age of 15 months and her brother who died at age 4 years from a temporal glioblastoma. The phenotype was consistent with mismatch repair cancer syndrome (MMRCS2; 619096). The unaffected father was heterozygous for a genomic deletion removing exons 1 through 6 of the MSH2 gene; the unaffected mother was heterozygous for a 1-bp deletion at codon 153 within exon 3 of the MSH2 gene (609309.0016). Study of glioblastoma DNA from the boy indicated compound heterozygosity for the 2 parental mutations. In this family, endometrial carcinoma was the cause of death at age 43 years in an aunt of the mother and at age 59 years in the grandmother of the father. Furthermore, an uncle of the father had died of astrocytoma at age 27 years. 
+
+In 2 sibs with adult-onset MMRCS2 characterized by multiple colorectal cancers and adenomas, a small bowel carcinoma, and endometrial cancer, Kets et al. (2009) found compound heterozygosity for 2 variants in the MSH2 gene: an exon 1-6 deletion and 1A-G transition in the initiation codon. The carcinomas showed microsatellite instability. Kets et al. (2009) noted that the phenotype in these sibs was not characteristic of the childhood cancer syndrome typically associated with biallelic MSH2 mutations, suggesting that the 1A-G transition retains residual protein activity, most likely through use of an alternative initiation codon 26 residues downstream. In addition, their healthy 80-year-old mother was heterozygous for the 1A-G transition. 
+
+
+.0016 MISMATCH REPAIR CANCER SYNDROME 2
+MSH2, 1-BP DEL    
+For discussion of the 1-bp deletion in the MSH2 gene that was found in compound heterozygous state in patients with mismatch repair cancer syndrome-2 (MMRCS2; 619096) by Bougeard et al. (2003), see 609309.0015. 
+
+
+.0017 LYNCH SYNDROME 1
+MSH2, 11.4-KB DEL   
+In affected members of 2 generations of an Ohio family with hereditary nonpolyposis colorectal cancer type 1 (LYNCH1; 120435), Pyatt et al. (2003) identified a genomic deletion of approximately 11.4 kb encompassing the first 2 exons of the MSH2 gene. By Southern blot analysis, using a cDNA probe spanning the first 7 exons of MSH2, an alteration in each of 3 different enzyme digests was observed (including a unique 13-kb band on Hind III digests), which suggested the presence of a large alteration in the 5-prime region of the gene. The authors then generated mouse-human cell hybrids from a mutation carrier which contained a single copy each of human chromosome 2, upon which the MSH2 gene resides. Southern blots of DNA from the cell hybrids demonstrated the same unique 13-kb band from 1 MSH2 allele, as seen in the diploid DNA. DNA from this same monosomal cell hybrid failed to amplify in PCR using primers to exons 1 and 2, demonstrating the deletion of these sequences in 1 MSH2 allele, and the breakpoints involving Alu repeats were identified by PCR amplification and sequence analysis. 
+
+
+.0018 LYNCH SYNDROME 1
+MSH2, 16-KB DEL, EX1-6   
+In about 10% of North American families with hereditary nonpolyposis colorectal cancer type 1 (LYNCH1; 120435), Wagner et al. (2003) found a 16-kb deletion encompassing exons 1-6 of the MSH2 gene. Lynch et al. (2004) noted that the breakpoints of the 16-kb deletion are 1 kb upstream of exon 1 and in intron 6. In most of the families the haplotype of the deleted allele was shared. By genealogic studies, a common ancestor could be traced for 5 of the 9 families found to have the MSH2 exon 1-6 founder deletion. The alleged ancestor was born around 1814 in Alabama and was presumably of German origin. He married and became a Mormon and had many children distributed over a rather wide geographic area. Lynch et al. (2004) reported that 61 of 566 family members of the 9 probands had been found to carry the 16-kb deletion. Three families had been genealogically shown to descend from a German immigrant family that settled in Pennsylvania in the early 1700s. Movements of branches of the extended family were documented across the U.S. The 16-kb deletion was not found among 407 European and Australian families with HNPCC. 
+
+
+.0019 LYNCH SYNDROME 1
+MSH2, 4-BP DEL, 1452AATG    
+Chan et al. (2004) reported that in the southern Chinese population, a germline 4-bp deletion in the MSH2 gene, 1452delAATG, constitutes 21% of all germline mismatch repair gene mutations and 36% of all MSH2 germline mutations identified. In 10 families with hereditary nonpolyposis colorectal cancer type 1 (LYNCH1; 120435) caused by the 4-bp deletion, haplotype analysis demonstrated the same disease haplotype, suggesting a founder effect. The 10 families all originated from the Chinese province of Guangdong, which historically included Hong Kong. It is the most populous of the Chinese provinces, with a population of more than 93 million. Chan et al. (2004) estimated that the founder mutation occurred 22 to 103 generations ago. The mutation had not been identified in other ethnic groups. Since there were major emigrations from Hong Kong and Guangdong province during the 19th and 20th centuries, this finding is also significant for Chinese communities worldwide. 
+
+
+.0020 MISMATCH REPAIR CANCER SYNDROME 2
+MSH2, IVS12AS, T-A, -5    
+In 2 brothers, born of consanguineous Pakistani parents, with early-onset HNPCC and cafe-au-lait spots, consistent with the mismatch repair cancer syndrome (MMRCS2; 619096), Muller et al. (2006) identified a homozygous T-to-A transversion in intron 12 of the MSH2 gene. The mutation was predicted to create an aberrant splice site, resulting in the skipping of exon 13 and creation of a premature stop codon at position 676, thus producing a truncated protein. Each unaffected parent was heterozygous for the mutation. Both boys were found to have numerous gastrointestinal polyps and carcinomas at age 11 and 12 years, respectively, as well as multiple cafe-au-lait spots. Neither had additional hematologic malignancies or brain tumors. 
+
+
+.0021 LYNCH SYNDROME 1
+MSH2, IVS5DS, A-T, +3   
+Kurzawski et al. (2006) screened 226 patients from families matching the Amsterdam II diagnostic criteria or suspected hereditary nonpolyposis colorectal cancer type 1 (see LYNCH1, 120435) criteria for MSH2 and MLH1 (120436) germline mutations. They found 50 different pathogenic mutations, 25 in MSH2 and 25 in MLH1. The most frequent alteration was a change of A to T at the splice donor site of intron 5 of MSH2, found in 10 families. 
+
+Tang et al. (2009) identified the A-to-T mutation in intron 5 of the MSH2 gene in a Taiwanese family with HNPCC, suggesting that it may be a mutation hotspot. 
+
+
+.0022 MOVED TO 185535.0006
+
+.0023 MUIR-TORRE SYNDROME
+LYNCH SYNDROME 1, INCLUDED
+MSH2, 32-KB DEL, EX1-6   
+Barana et al. (2004) identified a 32-kb deletion involving exons 1-6 of the MSH2 gene in 3 affected members in 2 generations of an Italian family with Muir-Torre syndrome (MRTES; 158320). The father had 2 metachronous colon cancers starting at age 53 years, a daughter had a colon and ovarian cancer starting at age 42 years, and a son had an adenoma with a focus of carcinoma at age 47 years. All 3 affected members presented with cutaneous lesions characteristic of MRTES. 
+
+In affected and asymptomatic members of a 4-generation Italian family (family C) with hereditary nonpolyposis colorectal cancer (LYNCH1; 120435), Stella et al. (2007) identified a 32-kb deletion with identical breakpoints to that found by Barana et al. (2004) and van der Klift et al. (2005) in 2 branches of an unrelated 5-generation Italian family (family V+Va); both families and 2 unrelated patients with HNPCC carrying the 32-kb deletion were from the Veneto region of Italy. Haplotype analysis of the 2 families suggested that the MSH2 exon 1-6 deletion is probably a founder mutation. Stella et al. (2007) noted that skin cancers, including 4 keratoacanthomas, had been reported in 10 of the 19 affected members of family V+Va, and 1 patient from family C had a squamous cell acanthoma. Families V and Va, which had previously been described by Barana et al. (2004) and van der Klift et al. (2005) (family It1), respectively, were found to be branches of the same large Italian family described by Stella et al. (2007). 
+
+
+.0024 LYNCH SYNDROME 1
+MSH2, 3.5-KB DEL AND 15-BP INS   
+In 8 families of Sardinian ancestry with hereditary nonpolyposis colorectal cancer type 1(LYNCH1; 120435), Borelli et al. (2013) identified a heterozygous 3,516-bp deletion with a 15-bp insertion in exon 8 of the MSH2 gene. The breakpoints involved a nonrepetitive sequence in intron 7 and an inverted AluSp element in intron 8; the deletion was notated as 1277-1180_1386+2226del3516ins15. Haplotype analysis indicated a founder effect. One of the families was large and included 16 affected individuals spanning 3 generations. The 8 families belong to different villages in southwestern Sardinia. Borelli et al. (2013) developed a quick test for identification of the deletion. 
+
+
+.0025 LYNCH SYNDROME 1
+MSH2, 19.28-KB DEL   
+In 2 families of Sardinian ancestry with hereditary nonpolyposis colorectal cancer type 1 (LYNCH1; 120435), Borelli et al. (2013) identified a heterozygous 19.28-kb deletion in exon 8 of the MSH2 gene (1276+198_1386+3761del19280). One of the families (family M) was large and included 26 affected individuals in 4 generations. Haplotype analysis indicated a founder effect for the 2 families. The proband from family M was subsequently linked to family M reported by Stella et al. (2007), who identified the same exon 8 deletion. Borelli et al. (2013) developed a quick test for identification of the deletion. 
+
+
+.0026 LYNCH SYNDROME 1
+MSH2, 2-BP DEL, NT388    
+In affected members of 16 families from northern Portugal with hereditary nonpolyposis colorectal cancer type 1 (LYNCH1; 120435), Pinheiro et al. (2013) identified a heterozygous 2-bp deletion (c.388_389del) in the MSH2 gene. This mutation was found in 16% of 103 probands with HNPCC, and haplotype analysis indicated a relatively recent founder effect in this population. Haplotype analysis of 4 HNPCC1 families with this mutation from Germany, Scotland, England, and Argentina yielded different haplotype backgrounds, supporting the hypothesis that the mutation occurred de novo on multiple occasions. 
+
+-----------------------------------------------------------
+##ORPHANET##
+-----------------------------------------------------------
+MSH2 - mutS homolog 2
+Synonym(s): MSH-2, HNPCC, HNPCC1, DNA mismatch repair protein Msh2
+
+Previous symbol(s) and name(s): COCA1, mutS (E. coli) homolog 2 (colon cancer, nonpolyposis type 1), mutS homolog 2, colon cancer, nonpolyposis type 1 (E. coli)
+
+Type: gene with protein product
+
+Chromosomal location: 2p21-p16.3
+
+OMIM: 609309
+
+HGNC: 7325
+
+UniProtKB: P43246
+
+Genatlas: MSH2
+
+GenCC: MSH2
+
+ClinVar: MSH2
+
+Ensembl: ENSG00000095002
+
+Reactome: P43246
+
+LOVD: MSH2
+
+Diseases List
+ Disease-causing germline mutation(s) in Constitutional mismatch repair deficiency syndrome ORPHA:252202
+ Disease-causing germline mutation(s) in Lynch syndrome ORPHA:144
+
+-----------------------------------------------------------
+##GENEREVIEWS [SUMMARY]##
+-----------------------------------------------------------
+Clinical characteristics.
+Lynch syndrome is characterized by an increased risk for colorectal cancer (CRC) and cancers of the endometrium, ovary, stomach, small bowel, urinary tract, biliary tract, brain (usually glioblastoma), skin (sebaceous adenomas, sebaceous carcinomas, and keratoacanthomas), pancreas, and prostate. Cancer risks and age of onset vary depending on the associated gene. Several other cancer types have been reported to occur in individuals with Lynch syndrome (e.g., breast, sarcomas, adrenocortical carcinoma). However, the data are not sufficient to demonstrate that the risk of developing these cancers is increased in individuals with Lynch syndrome.
+
+Diagnosis/testing.
+The diagnosis of Lynch syndrome is established in a proband by identification on molecular genetic testing of a germline heterozygous pathogenic variant in MLH1, MSH2, MSH6, or PMS2 or of an EPCAM deletion.
+
+Management.
+Treatment of manifestations: Adenomas of colon: complete endoscopic polypectomy with follow-up colonoscopy every one to two years. For colon cancer, segmental or extended colonic resection is indicated depending on clinical scenario and factors such as age. For individuals with rectal adenocarcinoma, proctectomy or total proctocolectomy is indicated. Other tumors are managed as in the general population.
+
+Prevention of primary manifestations: Prophylactic hysterectomy and bilateral salpingo-oophorectomy can be considered after childbearing is completed. Prophylactic colectomy prior to the development of colon cancer is generally not recommended for individuals known to have Lynch syndrome because screening colonoscopy with polypectomy is an effective preventive measure. Aspirin therapy has been shown to decrease the risk for CRC in individuals with Lynch syndrome.
+
+Surveillance: Colonoscopy with removal of precancerous polyps every one to two years beginning between ages 20 and 25 years or two to five years before the earliest CRC diagnosis in the family, whichever is earlier. Annual education for females regarding the symptoms of endometrial and ovarian cancers. Consider transvaginal ultrasound examination and endometrial biopsy every one to two years. Consider upper endoscopy examination every three to five years beginning between ages 30 and 35 years particularly for individuals with a family history of gastric cancer and those of Asian ancestry. Biopsies should be evaluated for H pylori infections so that appropriate treatment can be given as needed. Consider capsule endoscopy and small bowel enterography for distal small bowel cancers. Consider urine analysis with urine cytology to identify microscopic hematuria in those with a family history of urothelial cancer. Consider pancreatic cancer screening in individuals with a family history of pancreatic cancer with alternating endoscopic ultrasound and/or MRI/magnetic resonance cholangiopancreatography.
+
+Agents/circumstances to avoid: High body mass, cigarette smoking, type 2 diabetes, and high cholesterol.
+
+Evaluation of relatives at risk: When a diagnosis of Lynch syndrome has been confirmed in a proband, molecular genetic testing for the Lynch syndrome-related pathogenic variant should be offered to first-degree relatives to identify those who would benefit from early surveillance and intervention. Although molecular genetic testing for Lynch syndrome is generally not recommended for at-risk individuals younger than age 18 years, a history of early cancers in the family may warrant predictive testing prior to age 18.
+
+Genetic counseling.
+Lynch syndrome caused by a heterozygous germline pathogenic variant in MLH1, MSH2, MSH6, or PMS2 or by an EPCAM deletion is inherited in an autosomal dominant manner. Individuals with Lynch syndrome caused by constitutional inactivation of MLH1 by methylation typically represent simplex cases but families with non-mendelian inheritance of hypermethylation have been reported. The majority of individuals with Lynch syndrome inherited a pathogenic variant from a parent; however, because of incomplete penetrance, variable age of cancer development, cancer risk reduction as a result of screening or prophylactic surgery, or early death, not all individuals with a pathogenic variant in one of the genes associated with Lynch syndrome have a parent who had cancer. Each child of an individual with Lynch syndrome has a 50% chance of inheriting the pathogenic variant. Prenatal testing for a pregnancy at increased risk is possible if the pathogenic variant in the family is known.

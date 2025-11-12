@@ -1,0 +1,232 @@
+##Experiment Metadata##
+
+GENE_NAME: CRYSTALLIN, ALPHA-B; CRYAB
+DATA_SOURCES: OMIM, Orphanet, GeneReviews
+DATA_URIS: https://www.omim.org/entry/123590?search=CRYAB&highlight=cryab, https://www.orpha.net/en/disease/gene/CRYAB?name=CRYAB&mode=gene
+DATE_RETRIEVED: 2025-11-12
+EXPERIMENT: LS_POC_EXPERIMENT
+
+-----------------------------------------------------------
+##OMIM##
+-----------------------------------------------------------
+* 123590
+CRYSTALLIN, ALPHA-B; CRYAB
+
+Alternative titles; symbols
+
+CRYSTALLIN, ALPHA-2; CRYA2
+HEAT-SHOCK PROTEIN BETA-5; HSPB5
+
+HGNC Approved Gene Symbol: CRYAB
+
+Cytogenetic location: 11q23.1   Genomic coordinates (GRCh38) : 11:111,908,564-111,923,740 (from NCBI)
+
+
+Gene-Phenotype Relationships
+Location	PhenotypeView Clinical Synopses	Phenotype
+MIM number	Inheritance	Phenotype
+mapping key
+11q23.1	Cardiomyopathy, dilated, 1II	615184	AD	3
+Cataract 16, multiple types	613763	AD, AR	3
+Myopathy, myofibrillar, 2A, adult-onset	608810	AD	3
+Myopathy, myofibrillar, 2B, infantile-onset	613869	AR	3
+ 
+
+TEXT
+▼ Description
+The crystallins compose approximately 90% of the soluble protein of the vertebrate eye lens and include 3 major families of ubiquitously expressed crystallins: alpha (e.g., CRYAA; 123580), beta (e.g., CRYBA1; 123610), and gamma (e.g., CRYGA; 123660). Alpha-B-crystallin (CRYAB) is a member of the small heat-shock protein family (Dubin et al., 1990). 
+
+
+▼ Cloning and Expression
+Dubin et al. (1990) presented the complete nucleotide sequence of the human CRYAB gene, which encodes a 175-amino acid protein with a molecular mass of 20 kD. 
+
+In the mouse, Dubin et al. (1989) found that the Cryab gene is expressed in the lens, heart, skeletal muscle, kidney, and lung. In the rat, Iwaki et al. (1990) found Cryab expression in lens, iris, heart, skeletal muscle, certain regions of the kidney, Schwann cells of peripheral nerves, glia in the central nervous system, and decidual cells of the placenta. 
+
+By functional analysis of a CRYAB promoter fragment fused to the bacterial chloramphenicol acetyltransferase (CAT) gene, Dubin et al. (1990) found that the fragment contains regulatory elements that function predominantly, but not exclusively, in lens. Although alpha-B-crystallin had been reported to accumulate in brain cells in Alexander disease (203450) (Iwaki et al., 1989), Dubin et al. (1990) found that the promoter fragment was insufficient to promote transcription in a glial cell line that synthesizes high levels of the endogenous CRYAB gene product. 
+
+
+▼ Gene Structure
+Dubin et al. (1990) determined that the CRYAB gene contains 3 exons. 
+
+
+▼ Mapping
+By use of a CRYA2 genomic probe in connection with mouse-human somatic cell hybrid DNA, Ngo et al. (1989) assigned the gene to chromosome 11; by in situ hybridization, they regionalized the locus to 11q22.3-q23.1. 
+
+By study of a panel of human/rodent hybrid cell lines using a probe consisting of the third exon of the hamster alpha-B-crystallin gene, Brakenhoff et al. (1990) assigned the CRYA2 gene to chromosome 11. Using cell hybrids containing translocated and/or partially deleted human chromosome 11, they localized the CRYA2 gene further to 11q12-q23. Jeanpierre et al. (1993) showed that the CRYA2 gene lies proximal to the 11q23.2 breakpoint defined by the constitutional t(11;22) and distal to the 11q22.1 breakpoint of a constitutional interstitial deletion. 
+
+
+▼ Biochemical Features
+Atomic Structure
+
+Laganowsky et al. (2012) identified a segment of the amyloid-forming protein alpha-B crystallin that forms an oligomeric complex exhibiting properties of other amyloid oligomers: beta-sheet-rich structure, cytotoxicity, and recognition by an oligomer-specific antibody. The x-ray-derived atomic structure of the oligomer revealed a cylindrical barrel, formed from 6 antiparallel protein strands, which Laganowsky et al. (2012) termed a cylindrin. The cylindrin structure is compatible with a sequence segment from the beta-amyloid protein of Alzheimer disease. Laganowsky et al. (2012) concluded that cylindrins offer models for the hitherto elusive structures of amyloid oligomers. 
+
+
+▼ Gene Function
+Van Noort et al. (1995) examined proliferative responses of human peripheral blood T cells to the complete collection of myelin proteins, including alpha-B-crystallin. They found that alpha-B-crystallin was a highly immunogenic protein to which T cells from multiple sclerosis (MS; 126200) patients and from healthy controls showed dominant responses. Immunohistochemical examination of MS lesions revealed the presence of oligodendrocytes and astrocytes with raised CRYA2 expression, which was not found in unaffected myelin, suggesting that the CRYA2 protein may be an autoantigen in MS. The authors noted that alpha-B-crystallin had been detected in brains of patients with other neurologic diseases, including Alzheimer (104300), Parkinson (168600, 168601), Pick (172700), and Huntington (143100) diseases. Steinman (1995) discussed the significance of the immune reaction against alpha-B-crystallin in the pathology of MS. 
+
+The alpha-crystallin subunits alpha-A and alpha-B each can form an oligomer by itself or with the other. Fu and Liang (2002) used a 2-hybrid system to study heterogeneous interactions among lens crystallins of different classes. They found interactions between alpha-A- (or alpha-B-) and beta-B2- or gamma-C- (123680)-crystallins, but the intensity of interaction was one-third that of alpha-A-alpha-B interactions. HSP27 (602195), a member of the small heat-shock protein family, showed similar interaction properties with alpha-B-crystallin. Experiments with N- and C-terminal domain-truncated mutants demonstrated that both N- and C-terminal domains were important in alpha-A-crystallin self-interaction, but that only the C-terminal domain was important in alpha-B-crystallin self-interaction. 
+
+Cataractogenesis (development of lens opacity) is believed to be a consequence of accumulation of insoluble aggregates and gross-linked products of alpha-, beta-, and gamma-crystallins. The insolubilization of crystallins is thought to be initiated by posttranslational modifications that change their structural and functional properties. Srivastava and Srivastava (2003) showed that the asparagine-146 residue (N146) of human alpha-B-crystallin undergoes in vivo deamidation, and several fragments containing this modification were found in both water-soluble and -insoluble protein fractions of normal and cataractous human lenses. Gupta and Srivastava (2004) showed that deamidation of N146 but not of N78 of CRYAB had profound effects on the structural and functional properties of alpha-B-crystallin. 
+
+By immunohistochemical analysis, Moyano et al. (2006) found that CRYAB was expressed in 18 (45%) of 40 basal-like breast tumors and predicted poor survival of breast cancer patients independently of other prognostic markers. Overexpression of CRYAB transformed immortalized human mammary epithelial cells (MECs) and conferred neoplastic-like changes, which were suppressed by MEK (see MAP2K1; 176872) inhibitors. Immortalized human MECs overexpressing CRYAB formed invasive mammary carcinomas in nude mice that recapitulated aspects of human basal-like breast tumors. 
+
+Wang et al. (2005) found that in SOD1 (147450)-mutant mouse cells alpha-B-crystallin suppressed aggregation of mutant SOD1 in somatodendritic compartments. In vivo, alpha-B-crystallin immunoreactivity was most abundant in oligodendrocytes and upregulated in astrocytes of symptomatic mice; neither of these cell types accumulated mutant SOD1 immunoreactivity. Wang et al. (2005) suggested that damage to motor neuron cell bodies and dendrites within the spinal cord may be sufficient to induce motor neuron disease, and that activities of chaperones may modulate the cellular specificity of mutant SOD1 accumulation. 
+
+Shao et al. (2013) showed that the astrocytic dopamine D2 receptor (DRD2; 126450) modulates innate immunity through CRYAB, which is known to suppress inflammation. Shao et al. (2013) demonstrated that knockout mice lacking Drd2 showed remarkable inflammatory response in multiple central nervous system regions and increased the vulnerability of nigral dopaminergic neurons to neurotoxin 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced neurotoxicity. Drd2-null astrocytes became hyperresponsive to immune stimuli, with a marked reduction in the level of CRYAB. Preferential ablation of Drd2 in astrocytes robustly activated astrocytes in the substantia nigra. Gain- or loss-of-function studies showed that CRYAB is critical for DRD2-mediated modulation of innate immune response in astrocytes. Furthermore, treatment of wildtype mice with the selective DRD2 agonist quinpirole increased resistance of the nigral dopaminergic neurons to MPTP through partial suppression of inflammation. Shao et al. (2013) concluded that their study indicated that astrocytic DRD2 activation normally suppresses neuroinflammation in the central nervous system through a CRYAB-dependent mechanism, and provided a strategy for targeting the astrocyte-mediated innate immune response in the central nervous system during aging and disease. 
+
+Yamashita et al. (2013) found that knockdown of the endoplasmic reticulum (ER) protein TMEM109 (619168) in HEK293T cells caused a 15% increase in apoptosis in response to ultraviolet C (UVC) irradiation compared with controls. Conversely, overexpression of mouse Tmem109 improved cell survival following UVC irradiation. The UVC sensitivity phenotype required the second cytoplasmic region (CP2) of TMEM109. Yeast 2-hybrid and coimmunoprecipitation assays showed that the CP2 region of mouse Tmem109 interacted with the C-terminal half of human CRYAB. The extent of UVC-induced cell death in TMEM109-knockdown, CRYAB-knockdown, and TMEM109/CRYAB dual-knockdown cells was equivalent, suggesting that TMEM109 and CRYAB function together rather than in parallel. A fusion protein of full-length human CRYAB and the first transmembrane domain of mouse Tmem109, which was predicted to anchor to the ER, also increased UVC resistance, suggesting that TMEM109 protects against UVC by accumulating CRYAB near the ER. 
+
+
+▼ Molecular Genetics
+Myofibrillar Myopathy 2A, Adult-Onset
+
+In affected members of a family with adult-onset myofibrillar myopathy-2A (MFM2A; 608810) reported by Fardeau et al. (1978), Vicart et al. (1998) identified a heterozygous mutation in the CRYAB gene (123590.0001). Affected individuals also exhibited clinical or electrocardiographic signs of hypertrophic cardiomyopathy and discrete lens opacities. 
+
+In 2 unrelated patients with adult-onset myofibrillar myopathy, Selcen and Engel (2003) identified 2 different heterozygous mutations in the CRYAB gene (123590.0003; 123590.0004). Expression studies of both mutations were consistent with a dominant-negative effect. 
+
+In all affected members of a family of North African origin with myofibrillar myopathy, posterior polar cataract, and dilated cardiomyopathy, Sacconi et al. (2012) identified heterozygosity for a missense mutation in the CRYAB gene (D109H; 123590.0011). The mutation was not found in unaffected family members or 50 ethnically matched controls. 
+
+Myofibrillar Myopathy 2B, Infantile-Onset
+
+In 8 patients with infantile-onset myofibrillar myopathy-2B (MFM2B; 613869), Del Bigio et al. (2011) identified the same homozygous 1-bp deletion in the CRYAB gene (60delC; 123590.0005). All patients were Canadian aboriginals of Cree descent, consistent with a founder effect. The phenotype was characterized by onset in the first weeks of life of rapidly progressive muscular rigidity of the trunk and limbs associated with increasing respiratory difficulty resulting in death before age 3 years. 
+
+Cataract 16, Multiple Types
+
+In a 4-generation family of English descent with autosomal dominant congenital posterior polar cataracts (CTRCT16; 613763), Berry et al. (2001) identified a deletion mutation in the CRYAB gene (123590.0002). 
+
+Fu and Liang (2003) studied the effect of crystallin gene mutations that result in congenital cataract on protein-protein interactions. Interactions between mutated crystallins alpha-A (R116C; 123580.0001), alpha-B (R120G; 123590.0001), and gamma-C (T5P; 123680.0001) and the corresponding wildtype proteins, as well as with wildtype beta-B2-crystallin (123620) and HSP27, were analyzed in a mammalian cell 2-hybrid system. For mutated alpha-A-crystallin, interactions with wildtype beta-B2-crystallin and gamma-C-crystallin decreased and those with wildtype alpha-B-crystallin and HSP27 increased. For mutated alpha-B-crystallin, interactions with wildtype alpha-A-crystallin and alpha-B-crystallin decreased, but those with wildtype beta-B2-crystallin and gamma-C-crystallin increased slightly. For mutated gamma-C-crystallin, most of the interactions were decreased. The results indicated that crystallin mutations involved in congenital cataracts altered protein-protein interactions, which might contribute to decreased protein solubility and formation of cataract. 
+
+In affected members of large 5-generation Chinese family with congenital lamellar cataract who were negative for mutation at known hotspots in 9 cataract-associated genes, Liu et al. (2006) identified heterozygosity for a missense mutation in CRYAB (D140N; 123590.0008) that segregated with disease and was not found in 100 controls. 
+
+In a 4-generation Chinese family with congenital posterior polar cataract mapping to 11q22, Liu et al. (2006) identified a heterozygous missense mutation in the CRYAB gene (P20S; 123590.0009) that segregated fully with disease in the family and was not found in 200 controls. 
+
+In an affected mother and 4 affected children from a consanguineous Saudi family with cataract mapping to 11q21-q23, Safieh et al. (2009) identified homozygosity for a missense mutation in the CRYAB gene (R56W; 123590.0010). The unaffected father was heterozygous for the mutation, which was not found in 150 Saudi controls. 
+
+Cardiomyopathy, Dilated, 1II
+
+Inagaki et al. (2006) analyzed the CRYAB gene in 130 unrelated Japanese patients with dilated cardiomyopathy (CMD1II; 615184) who were negative for mutations in known CMD genes, and identified a heterozygous missense mutation (R157H; 123590.0006) in a 71-year-old woman with mild, late-onset disease. 
+
+Pilotto et al. (2006) screened the CRYAB gene in 200 consecutive patients diagnosed with autosomal dominant or sporadic CMD, and identified a heterozygous missense mutation (G154S; 123590.0007) in a 48-year-old woman with recently diagnosed CMD. 
+
+Associations Pending Confirmation
+
+Van Veen et al. (2003) presented evidence suggesting that polymorphisms in the promoter region of the CRYAB gene may influence the clinical phenotype of multiple sclerosis (126200). 
+
+Studies of CRYAB Variants
+
+By in vitro experiments using different CRYAB mutants, Hayes et al. (2008) found that the C-terminal extension was important for oligomerization. The Q151X mutation (123590.0004) decreased oligomerization and even increased some chaperone activities, but it also significantly destabilized the protein and caused self-aggregation. The 450delA (123590.0002) and 464delCT (123590.0003) mutants could only be refolded and assayed as a complex with wildtype CRYAB. Hayes et al. (2008) concluded that mutations in the C-terminal extension destabilize the protein and increase its tendency to self-aggregate. It is this tendency, rather than a loss of chaperone activity, that is the major pathogenic factor. 
+
+
+▼ Animal Model
+Alpha-B-crystallin is the most abundant gene transcript present in early active multiple sclerosis lesions, whereas such transcripts are absent in normal brain tissue. This crystallin has antiapoptotic and neuroprotective functions. CRYAB is the major target of CD4+ T cell immunity to the myelin sheath from multiple sclerosis brain. Ousman et al. (2007) demonstrated that CRYAB is a potent negative regulator acting as a brake on several inflammatory pathways in both the immune system and central nervous system. Cryab-null mice showed worse experimental autoimmune encephalomyelitis at the acute and progressive phases, with higher Th1 and Th17 cytokine secretion from T cells and macrophages, and more intense central nervous system (CNS) inflammation, compared with their wildtype counterparts. Furthermore, Cryab-null astrocytes showed more cleaved caspase-3 (600636) and more TUNEL staining, indicating an antiapoptotic function of Cryab. 
+
+Alexander disease (203450) is a primary disorder of astrocytes caused by dominant mutations in the gene for glial fibrillary acidic protein (GFAP; 137780). These mutations lead to protein aggregation and formation of Rosenthal fibers, complex astrocytic inclusions that contain GFAP, vimentin (VIM; 193060), plectin (PLEC1; 601282), ubiquitin (UBB; 191339), Hsp27, and CRYAB. CRYAB regulates GFAP assembly, and elevation of CRYAB is a consistent feature of Alexander disease; however, its role in Rosenthal fibers and disease pathology is not known. In a mouse model of Alexander disease, Hagemann et al. (2009) showed that loss of Cryab resulted in increased mortality, whereas elevation of Cryab rescued animals from terminal seizures. When mice with Rosenthal fibers induced by overexpression of GFAP were crossed into a Cryab-null background, over half died at 1 month of age. Restoration of Cryab expression through the GFAP promoter reversed this outcome, showing the effect was astrocyte-specific. Conversely, in mice carrying an Alexander disease-associated mutation and in mice overexpressing wildtype GFAP, which, despite natural induction of Cryab also died at 1 month, transgenic overexpression of Cryab resulted in a markedly reduced CNS stress response, restored expression of the glutamate transporter Glt1 (SLC1A2; 600300), and protected these animals from death. 
+
+
+▼ ALLELIC VARIANTS ( 11 Selected Examples):
+
+   
+
+.0001 MYOPATHY, MYOFIBRILLAR, 2A, ADULT-ONSET
+CRYAB, ARG120GLY    
+In a multigeneration French family with adult-onset myofibrillar myopathy-2A (MFM2A; 608810) and cataracts reported by Fardeau et al. (1978), Vicart et al. (1998) identified a heterozygous 3787A-G transition in the CRYAB gene, resulting in an arg120-to-gly (R120G) substitution. Functional expression studies in muscle cells showed that the R120G mutation resulted in the presence of cytoplasmic or perinuclear alpha-beta-crystallin-labeled aggregates in 80 to 90% of the cells. Desmin-labeled aggregates were also detected. Ultrastructural analysis showed that each aggregate had an inner dense core surrounded by 10-nm intermediate filaments that appeared to engulf the dense deposit. 
+
+Fu and Liang (2003) observed that alpha-B-crystallin carrying the R120G mutation had decreased interactions with wildtype alpha-A- (123580) and alpha-B-crystallins, but slightly increased interactions with wildtype beta-B2- (123620) and gamma-C- (123680) crystallins. 
+
+Chavez Zobel et al. (2003) reported that the R120G mutant protein has impaired in vivo function and structure, as reflected by a highly reduced capacity to protect cells against heat shock and by an abnormal supramolecular organization even in cells not expressing desmin. In many cells, the mutant protein accumulated in inclusion bodies that had characteristics of aggresomes concentrating around the centrosome. Three distinct chaperone mechanisms could reduce or even prevent the formation of these aggresomes: wildtype alpha-B crystallin and HSP27 (602195) prevented aggresome formation by co-oligomerizing with the R120G mutant; HSP70 (see 140550) with its cochaperone HDJ1 or CHIP (607207) reduced the frequency of aggresome formation, likely by targeting the mutant protein for degradation; and HSPB8 (608014) interacted only transiently with alpha-B but nonetheless rescued the R120G protein oligomeric organization. Chavez Zobel et al. (2003) concluded that the formation of inclusion bodies in alpha-B crystallin R120G-mediated desmin-related myopathy may be due to the misfolding of the mutant protein per se and may be delayed or prevented by expression of the wildtype alpha-B allele or other molecular chaperones, which would explain the adult onset of the disease. 
+
+In transfected rat primary cardiomyocytes, Inagaki et al. (2006) observed intracellular aggregates of the R120G mutant protein. In mammalian-2-hybrid assays, the mutant showed decreased binding to the heart-specific N2B domain and the adjacent striated muscle-specific I26/I27 domains of titin (TTN; 188840) compared to wildtype. 
+
+Using a thermal stability assay, Makley et al. (2015) identified a class of molecules that bind alpha-crystallins (cryAA and cryAB) and reverse their aggregation in vitro. The most promising compound improved lens transparency in mouse models of R49C cryAA (123580.0003) and R120G cryAB hereditary cataract. It also partially restored protein solubility in the lenses of aged mice in vivo and in human lenses ex vivo. These findings suggest an approach to treating cataracts by stabilizing alpha-crystallins. 
+
+
+.0002 CATARACT 16, POSTERIOR POLAR
+CRYAB, 1-BP DEL, 450A    
+In a 4-generation family of English descent, Berry et al. (2001) showed that autosomal dominant posterior polar cataract (CTRCT16; 613763) was caused by heterozygosity for a 1-bp deletion, 450delA, in the CRYAB gene. The deletion caused a frameshift in codon 150 and produced an aberrant protein consisting of 184 residues. Berry et al. (2001) suggested that the cataract in this family resulted from an increased tendency of the mutant polypeptide to aggregate and/or from loss of chaperone-like activity. 
+
+
+.0003 MYOPATHY, MYOFIBRILLAR, 2A, ADULT-ONSET
+CRYAB, 2-BP DEL, 464CT    
+In a patient with adult-onset myofibrillar myopathy-2A (MFM2A; 608810), Selcen and Engel (2003) identified a 2-bp deletion (464delCT) in the C terminus of the CRYAB gene, resulting in a truncated protein of 162 amino acids instead of the normal 175. The mutation was predicted to impair the ability of CRYAB to inhibit heat-induced protein aggregation of unfolded and denatured proteins, resulting in aberrant accumulation of proteins in muscle fibers. Immunoblots under nondenaturing conditions showed that the mutant protein forms lower than normal molecular mass multimeric complexes with the wildtype protein and exerts a dominant-negative effect. The mutation was not found in 200 control chromosomes. 
+
+
+.0004 MYOPATHY, MYOFIBRILLAR, 2A, ADULT-ONSET
+CRYAB, GLN151TER    
+In a patient with adult-onset myofibrillar myopathy-2A (MFM2A; 608810), Selcen and Engel (2003) identified a 451C-T transition in the CRYAB gene, resulting in a gln151-to-ter (Q151X) mutation. The mutation results in a truncated protein of 150 amino acids instead of the normal 175. The mutation was predicted to impair the ability of CRYAB to inhibit heat-induced protein aggregation of unfolded and denatured proteins, resulting in aberrant accumulation of proteins in muscle fibers. Immunoblots under nondenaturing conditions showed that the mutant protein forms lower than normal molecular mass multimeric complexes with the wildtype protein and exerts a dominant-negative effect. The mutation was not found in 200 control chromosomes. 
+
+
+.0005 MYOPATHY, MYOFIBRILLAR, 2B, INFANTILE-ONSET
+CRYAB, 1-BP DEL, 60C    
+In 8 patients with infantile-onset myofibrillar myopathy-2B (MFM2B; 613869), including 3 reported by Lacson et al. (1994), Del Bigio et al. (2011) identified the same homozygous 1-bp deletion in the CRYAB gene, resulting in a ser21-to-ala (S21A) change and a stop codon after 23 missense residues. All patients were Canadian aboriginals of Cree descent, consistent with a founder effect. The phenotype was characterized by onset in the first weeks of life of rapidly progressive muscular rigidity of the trunk and limbs associated with increasing respiratory difficulty resulting in death before age 3 years. Muscle biopsies showed dystrophic changes, endomysial fibrosis, eosinophilic deposits, and Z-band streaming. Immunohistochemistry using an antibody against the full-length CRYAB protein showed absence of staining, but an antibody against the first 10 residues of the protein showed some residual staining. Heterozygous parents were unaffected, including 1 mother with mild myopathic symptoms but normal CK levels. Del Bigio et al. (2011) noted that late-onset myofibrillar myopathy (608810) is typically seen in heterozygous individuals; however, in this disease, the parental phenotype may be rescued by limited expression of the 44-amino acid truncated nonfunctional gene product. Del Bigio et al. (2011) postulated that a disruption of CRYAB interaction with titin (TTN; 188840) may contribute to reduced muscle elasticity. 
+
+
+.0006 CARDIOMYOPATHY, DILATED, 1II
+CRYAB, ARG157HIS    
+In a 71-year-old Japanese woman with mild, late-onset dilated cardiomyopathy (CMD1II; 615184), Inagaki et al. (2006) identified heterozygosity for a G-A transition in exon 3 of the CRYAB gene, resulting in an arg157-to-his (R157H) substitution at an evolutionarily conserved residue. The patient had 2 sibs with CMD and 2 other sibs who had sudden cardiac death, but DNA was not available for analysis from any family members. The mutation was not found in 400 control chromosomes. Functional analysis showed decreased binding of the R157H mutant to the heart-specific N2B domain of titin (TTN; 188840) compared to wildtype, without affecting distribution in cardiomyocytes. 
+
+
+.0007 CARDIOMYOPATHY, DILATED, 1II
+CRYAB, GLY154SER    
+In a 48-year-old woman with mild, late-onset dilated cardiomyopathy (CMD1II; 615184), Pilotto et al. (2006) identified heterozygosity for a G-A transition in the CRYAB gene, resulting in a gly154-to-ser (G154S) substitution at an evolutionarily conserved residue. DNA was unavailable from her father, who died at age 80 after a 20-year history of congestive heart failure due to CMD; the mutation was not found in 200 controls. The patient had a minimal increase in serum CPK, suggestive of possible subclinical muscle involvement. 
+
+
+.0008 CATARACT 16, CONGENITAL LAMELLAR
+CRYAB, ASP140ASN    
+In 4 affected members of a large 5-generation Chinese family with congenital lamellar cataract (CTRCT16; 613763), Liu et al. (2006) identified heterozygosity for a G-A transition in exon 3 of the CRYAB gene, resulting in an asp140-to-asn (D140N) substitution within the highly conserved alpha-crystallin domain. The mutation was not found in 5 unaffected members of the family or in 100 controls. In functional analyses, the mutant alpha-B crystallin showed abnormal oligomerization, reduced thermal stability, and abolished chaperone-like activity. In addition, the D140N mutant acted as a dominant negative, interfering with the chaperone-like activity of wildtype alpha-B crystallin. 
+
+
+.0009 CATARACT 16, POSTERIOR POLAR
+CRYAB, PRO20SER    
+In 13 affected members of a 4-generation Chinese family with congenital posterior polar cataract (CTRCT16; 613763), Liu et al. (2006) identified heterozygosity for a 58C-T transition in exon 1 of the CRYAB gene, resulting in a pro20-to-ser (P20S) substitution at a highly conserved residue in the N-terminal region of alpha-B crystallin. The mutation was not found in 8 unaffected family members or in 200 controls. 
+
+
+.0010 CATARACT, JUVENILE
+CRYAB, ARG56TRP    
+In an affected mother and her 4 affected children from a consanguineous Saudi Arabian family with juvenile cataract (CTRCT16; 613763), Safieh et al. (2009) identified homozygosity for a 166C-T transition in exon 1 of the CRYAB gene, resulting in an arg56-to-trp (R56W) substitution at a highly conserved residue. The unaffected father was heterozygous for the mutation, which was not found in 150 Saudi controls. The 35-year-old mother also had retinal dystrophic changes; Safieh et al. (2009) noted that it was unclear whether the retinal phenotype was related to the CRYAB mutation or due to another cause. 
+
+
+.0011 MYOPATHY, MYOFIBRILLAR, 2A, ADULT-ONSET
+CRYAB, ASP109HIS    
+In all affected members of a family of North African origin with adult-onset myofibrillar myopathy, posterior polar cataract, and dilated cardiomyopathy (MFM2A; 608810), Sacconi et al. (2012) identified heterozygosity for a 325G-C transversion in exon 3 of the CRYAB gene, resulting in an asp109-to-his (D109H) substitution at a conserved residue involved in dimerization of the protein. The mutation was not found in unaffected family members or in 50 ethnically matched controls. Molecular modeling indicated that D109 interacts with R120 on the opposite alpha-B crystallin monomer during dimerization; Sacconi et al. (2012) noted that R120 was previously found to be mutated in a French family with a similar phenotype involving myofibrillar myopathy, cardiomyopathy, and cataract (R120G; 123590.0001)
+
+-----------------------------------------------------------
+##ORPHANET##
+-----------------------------------------------------------
+CRYAB - crystallin alpha B
+Synonym(s): HSPB5
+
+Previous symbol(s) and name(s): CRYA2, crystallin, alpha B
+
+Type: gene with protein product
+
+Chromosomal location: 11q23.1
+
+OMIM: 123590
+
+HGNC: 2389
+
+UniProtKB: P02511
+
+Genatlas: CRYAB
+
+GenCC: CRYAB
+
+ClinVar: CRYAB
+
+Ensembl: ENSG00000109846
+
+Reactome: P02511
+
+LOVD: CRYAB
+
+Diseases List
+ Disease-causing germline mutation(s) in Early-onset nuclear cataract ORPHA:98991
+ Disease-causing germline mutation(s) in Early-onset posterior polar cataract ORPHA:98993
+ Disease-causing germline mutation(s) in Early-onset lamellar cataract ORPHA:441452
+ Disease-causing germline mutation(s) in Familial isolated dilated cardiomyopathy ORPHA:154
+ Disease-causing germline mutation(s) in Alpha-B crystallin-related late-onset myopathy ORPHA:399058
+ Disease-causing germline mutation(s) in Fatal infantile hypertonic myofibrillar myopathy ORPHA:280553
+
+-----------------------------------------------------------
+##GENEREVIEWS [SUMMARY]##
+-----------------------------------------------------------

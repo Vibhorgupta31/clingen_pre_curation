@@ -1,59 +1,615 @@
-OMIM
+##Experiment Metadata##
+
+GENE_NAME: RET PROTOONCOGENE; RET
+DATA_SOURCES: OMIM, Orphanet, GeneReviews
+DATA_URIS: https://www.omim.org/entry/164761?search=RET&highlight=%28ert%7Cret%29, https://www.orpha.net/en/disease/gene/RET?name=RET%20proto&mode=gene, https://www.ncbi.nlm.nih.gov/books/NBK1257/
+DATE_RETRIEVED: 2025-11-12
+EXPERIMENT: LS_POC_EXPERIMENT
+
+-----------------------------------------------------------
+##OMIM##
+-----------------------------------------------------------
+* 164761
 RET PROTOONCOGENE; RET
 
 Alternative titles; symbols
+
 REARRANGED DURING TRANSFECTION PROTOONCOGENE
 
 Other entities represented in this entry:
+
 RET/ELKS FUSION GENE, INCLUDED
 
 HGNC Approved Gene Symbol: RET
+
 Cytogenetic location: 10q11.21   Genomic coordinates (GRCh38) : 10:43,077,069-43,130,351 (from NCBI)
 
+
 Gene-Phenotype Relationships
-Location	PhenotypeView Clinical Synopses
-Phenotype
+Location	PhenotypeView Clinical Synopses	Phenotype
 MIM number	Inheritance	Phenotype
 mapping key
-10q11.21
-{Hirschsprung disease, protection against}	142623
-AD	3
-	{Hirschsprung disease, susceptibility to, 1}	142623
-AD	3
-	Medullary thyroid carcinoma	155240
-AD	3
-	Multiple endocrine neoplasia IIA	171400
-AD	3
-	Multiple endocrine neoplasia IIB	162300
-AD	3
-	Pheochromocytoma	171300
-AD	3
+10q11.21	{Hirschsprung disease, protection against}	142623	AD	3
+{Hirschsprung disease, susceptibility to, 1}	142623	AD	3
+Medullary thyroid carcinoma	155240	AD	3
+Multiple endocrine neoplasia IIA	171400	AD	3
+Multiple endocrine neoplasia IIB	162300	AD	3
+Pheochromocytoma	171300	AD	3
+ 
 
-
-
- Description
+TEXT
+▼ Description
 The RET protooncogene is one of the receptor tyrosine kinases, cell-surface molecules that transduce signals for cell growth and differentiation. The RET gene was defined as an oncogene by a classical transfection assay. RET can undergo oncogenic activation in vivo and in vitro by cytogenetic rearrangement (Grieco et al., 1990). Mutations in the RET gene are associated with multiple endocrine neoplasia, type IIA (MEN2A; 171400), multiple endocrine neoplasia, type IIB (MEN2B; 162300), Hirschsprung disease (HSCR; aganglionic megacolon; 142623), and medullary thyroid carcinoma (MTC; 155240). 
+
 Plaza-Menacho et al. (2006) reviewed the genetics and molecular mechanisms underlying the different inherited neural crest-related disorders involving RET dysfunction. 
 
 
+▼ Cloning and Expression
+Takahashi et al. (1985) cloned RET as a chimeric oncogene during a classic NIH-3T3 transformation assay. Takahashi et al. (1988) cloned a RET protooncogene cDNA from a human monocytic leukemia cell line. The lack of a polyadenylation signal suggested that the mRNA extends further 3-prime. The cDNA encodes a deduced 860-amino acid protein with 2 potential transmembrane domains that separate the protein into 3 domains: an N-terminal cytoplasmic domain, a cysteine-rich extracellular domain, and a C-terminal cytoplasmic tyrosine kinase domain. RET also has 9 N-glycosylation sites. The transforming form of RET has an N-terminal truncation of the protooncogene and the last 51 C-terminal amino acids of the protooncogene, including 2 tyrosine residues, are replaced with 9 unrelated amino acids. Northern blot analysis of a human monocytic leukemia cell line detected RET mRNAs of 3.9, 4.5, 6.0, and 7.0 kb. Northern blot analysis of normal mouse tissues detected a major 4.5-kb transcript and a minor 6.0-kb transcript only in spinal cord. 
 
-Orphanet
+RET splice variants contain the first 19 exons of the RET gene, followed by unique 3-prime ends. The variants produce 3 protein isoforms that have 9 (RET9), 51 (RET51), or 43 (RET43) distinct amino acids at their C termini. The final common amino acid in all 3 human isoforms is tyr1062, which is phosphorylated upon RET activation. Carter et al. (2001) noted that the 3 isoforms have different roles in development of the kidney and of neural crest-derived cells. They compared the 3 isoforms across vertebrate species and found that RET9 and RET51 are highly conserved, while RET43 shows higher divergence, even between mouse and human. 
 
+
+▼ Gene Function
+Iwashita et al. (1996) introduced 5 HSCR mutations into the extracellular domain of human RET cDNA. These mutations were introduced with or without a MEN2A mutation (cys634 to arg; 164761.0011). The 5 mutations in the RET extracellular domain inhibited the transport of the RET protein to the plasma membrane. Introduction of the extracellular domain RET mutation along with the MEN2A mutation led to significant reduction of the transforming activity of MEN2A-RET, for which cell surface expression is required. Iwashita et al. (1996) demonstrated that with the 5 HSCR extracellular domain RET mutations cell surface expression is low. The authors concluded that sufficient levels of RET expression on the cell surface are required for ganglia migration toward the distal portion of the colon or for full differentiation. 
+
+Pelet et al. (1998) investigated the effect on RET function of 7 HSCR-related missense mutations by introducing them into either a 114-amino acid wildtype RET isoform (RET51) or a constitutively activated form of RET51 (RET-MEN2A). Pelet et al. (1998) reported that 1 mutation affecting the extracytoplasmic cadherin domain (arg231 to his; R231H) and 2 mutations located in the tyrosine kinase domain (lys907 to glu, K907E; or glu921 to lys, E921K) impaired the biologic activity of RET-MEN2A when tested in cultured fibroblast and pheochromocytoma cells. However, the mechanisms resulting in RET inactivation differed since the receptor bearing the R231H extracellular mutation results in an absent RET protein at the cell surface, while the E921K mutation located within the catalytic domain abolished its enzymatic activity. In contrast, 3 mutations mapping to the intracytoplasmic domain neither modified the transforming capacity of RET-MEN2A nor stimulated the catalytic activity of RET in a ligand-independent system (ser767 to arg, pro1039 to leu, met1064 to thr). Finally, the cys609-to-trp HSCR mutation exerted a dual effect on RET since it led to a decrease of the receptor at the cell surface and converted RET51 into a constitutively activated kinase due to the formation of disulfide-linked homodimers. The data demonstrated that allelic heterogeneity at the RET locus in HSCR is associated with various molecular mechanisms responsible for RET dysfunction. 
+
+Attie-Bitach et al. (1998) reported on in situ hybridization studies of the pattern of RET expression during early development of human embryos between 23 and 42 days. They showed that the RET gene is expressed in the developing kidney (nephric duct, mesonephric tubules, and ureteric bud), the presumptive enteric neuroblasts of the developing enteric nervous system, cranial ganglia (VII+VIII, IX, and X), and in the presumptive motor neurons of the spinal cord. Yet, despite the high level of RET gene expression in the kidney and in the motor neurons of the developing central nervous system, only rare cases with renal agenesis have been reported in Hirschsprung disease patients, and no clinical evidence of spinal cord involvement has been shown in patients carrying RET germline mutations (i.e., multiple endocrine neoplasia syndromes and Hirschsprung disease). 
+
+Almost 1% of human infants are born with urogenital abnormalities, many of which involve irregular connections between the distal ureters and the bladder. During development, ureters migrate from their initial integration site in the wolffian ducts up to the base of the bladder in a process referred to by Batourina et al. (2002) as ureter maturation. Double-null knockout mice for the Rara (180240) and Rarb2 genes develop urinary tract abnormalities including renal hypoplasia, incorrectly positioned distal ureters, hydronephrosis, and megaureter (Mendelsohn et al., 1994). Batourina et al. (2001) showed that renal hypoplasia in double mutant mice is caused by impaired branching morphogenesis and that vitamin A normally regulates branching morphogenesis through the receptor tyrosine kinase RET, which Schuchardt et al. (1994) found to be required for ureteric bud growth and branching. Batourina et al. (2002) showed that ureter maturation depends on formation of the 'trigonal wedge,' an epithelial outgrowth from the base of the wolffian ducts, and that the distal ureter abnormalities seen in double mutant mice and Ret -/- mice are probably caused by a failure of this process. The studies of Batourina et al. (2001) and Batourina et al. (2002) indicated that formation of the trigonal wedge may be essential for correct insertion of the distal ureters into the bladder, and that these events are mediated by the vitamin A and Ret signaling pathways. 
+
+Salvatore et al. (2000) noted that oncogenic mutations cause constitutive activation of the kinase function of RET, which in turn results in the autophosphorylation of RET tyrosine residues critical for signaling. In vitro kinase assays had previously revealed 6 putative RET autophosphorylation sites. Salvatore et al. (2000) assessed the phosphorylation of 2 residues, tyrosines 1015 and 1062 (Y1015 and Y1062), in the in vivo signaling of RET and RET-derived oncogenes. Using phosphorylated RET-specific antibodies, they demonstrated that both Y1015 and Y1062 are rapidly phosphorylated upon ligand triggering of RET. Regardless of the nature of the underlying activating mutation, the concomitant phosphorylation of Y1015 and Y1062 was a common feature of the various oncogenic RET products (MEN2A, MEN2B, and PTC). 
+
+Carrasquillo et al. (2002) noted that although 8 genes with mutations that can be associated with Hirschsprung disease had been identified, mutations at individual loci are neither necessary nor sufficient to cause clinical disease. They conducted a genomewide association study in 43 Mennonite family trios (parents and affected child) using 2,083 microsatellites and SNPs and a new multipoint linkage disequilibrium method that searched for association arising from common ancestry. They identified susceptibility loci at 10q11, 13q22, and 16q23; they showed that the gene at 13q22 is EDNRB (131244) and the gene at 10q11 is RET. Statistically significant joint transmission of RET and EDNRB alleles in affected individuals and noncomplementation of aganglionosis in mouse intercrosses between Ret null and the Ednrb hypomorphic piebald allele were suggestive of epistasis between EDNRB and RET. Thus, genetic interaction between mutations in RET and EDNRB is an underlying mechanism for this complex disorder. 
+
+Japon et al. (2002) found GDNF (600837), GFRA1 (601496), and RET mRNA and protein expression in the human anterior pituitary gland. Double immunohistochemistry of anterior pituitary sections showed GDNF immunoreactivity in more than 95% of somatotrophs and to a lesser extent in corticotrophs (20%); it was almost absent in the remaining cell types. Also, although more than 95% of somatotrophs were stained for RET, no positive immunostaining could be detected in other cell types. Furthermore, they looked for GDNF and RET in human pituitary adenomas of various hormonal phenotypes. They found strong positive immunostaining for RET in all of the GH (139250)-secreting adenomas screened as well as in 50% of ACTH-producing adenomas. They found positive immunostaining for GDNF in all of the GH-secreting adenomas and in 10% of the corticotropinomas. Lastly, they found strong positive immunostaining for GFRA1 in 90% of the somatotropinomas and 50% of the corticotropinomas as well as in 1 of 8 prolactinomas and 1 of 13 nonfunctioning adenomas. The authors concluded that expression of RET in all of the somatotropinomas and in 50% of the ACTH-producing tumors implies that GDNF and RET could be involved in the pathogenesis of pituitary tumors. 
+
+Using gene expression profiling, Iwashita et al. (2003) determined that genes associated with Hirschsprung disease were highly upregulated in rat gut neural crest stem cells relative to whole-fetus RNA. The genes with highest expression were GDNF, SOX10 (602229), GFRA1, and EDNRB. The highest expression was seen in RET, which was found to be necessary for neural crest stem cell migration in the gut. GDNF promoted the migration of neural crest stem cells in culture but did not affect their survival or proliferation. The observations made by Iwashita et al. (2003) were confirmed by quantitative RT-PCR, flow cytometry, and functional analysis. 
+
+Bordeaux et al. (2000) found that expression of RET in human embryonic fibroblast and rat olfactory neuroblast cell lines induced apoptosis. The proapoptotic effect of RET was inhibited by its ligand, GDNF. RET induced apoptosis via its own cleavage by caspases, a phenomenon allowing the liberation or exposure of a proapoptotic domain of RET. Five Hirschsprung-associated RET mutations transformed RET into a constitutive inducer of apoptosis, independent of whether or not GDNF was present. 
+
+Melillo et al. (2001) presented evidence that FRS2 (607743) couples both ligand-regulated and oncogenic forms of RET9 with the MAP kinase signaling cascade under normal biologic conditions and pathologic conditions, such as multiple endocrine neoplasias and papillary thyroid carcinomas (PTCs; see NMTC1, 188550). 
+
+Kjaer and Ibanez (2003) investigated the processing and function of a series of missense mutations in the RET extracellular domain (RET(ECD)) causing Hirschsprung disease. All mutations examined prevented the maturation of RET(ECD) in the endoplasmic reticulum and abolished its ability to interact with the GDNF/GFRA1 ligand complex (see 601496), indicating defects in protein folding. Immature forms of RET(ECD) accumulating intracellularly associated with the endoplasmic reticulum chaperone GRP78/BIP (HSPA5; 138120) and showed different degrees of protein ubiquitination. Maturation of RET(ECD) mutants could be rescued by allowing protein expression to proceed at 30 degrees C, a condition known to facilitate protein folding. Analysis of autonomous folding subunits in the RET(ECD) indicated an intrinsic propensity to misfolding in 3 N-terminal cadherin-like domains, CLD1-3. Expression and maturation of these subdomains was specifically improved at 30 degrees C, identifying them as temperature-sensitive determinants in RET(ECD). 
+
+Schuetz et al. (2004) stated that Ret9, but not Ret51, is involved in kidney and enteric nervous system development. Using a 3-dimensional in vitro tubulogenesis assay with MDCK canine kidney cells, they showed that Ret9, but not Ret51, induced epithelial tubule formation and that Shank3 (606230) was crucial for Ret9 signaling. Yeast 2-hybrid and coimmunoprecipitation analyses revealed that the PDZ domain of mouse Shank3 interacted with the cytoplasmic domain of Ret9. Shank3 did not interact with Ret51. The proline-rich region of Shank3 interacted with the adaptor protein Grb2 (108355), and this interaction was required for sustained ERK/MAPK (see 176948) and PI3K (see 171834) signaling downstream of Ret9 and was essential for tubulogenesis. 
+
+Evolutionary sequence conservation is an accepted criterion to identify noncoding regulatory sequences. Fisher et al. (2006) used a transposon-based transgenic assay in zebrafish to evaluate noncoding sequences at the zebrafish ret locus, conserved among teleosts, and at the human RET locus, conserved among mammals. Most teleost sequences directed ret-specific reporter gene expression, with many displaying overlapping regulatory control. The majority of human RET noncoding sequences also directed ret-specific expression in zebrafish. Fisher et al. (2006) concluded that vast amounts of functional sequence information may exist that would not be detected by sequence similarity approaches. 
+
+Veiga-Fernandes et al. (2007) showed that the hematopoietic cells in the gut exhibit a random pattern of motility before aggregation into the primordia of Peyer patches, a major component of the gut-associated lymphoid tissue. They further showed that a hematopoietic population expressing lymphotoxin has an important role in the formation of Peyer patches. A subset of these cells expressed the receptor tyrosine kinase RET, which is essential for mammalian enteric nervous system formation. Veiga-Fernandes et al. (2007) demonstrated that RET signaling is also crucial for Peyer patch formation. Functional genetic analysis revealed that GFRA3 (605710) deficiency results in impairment of Peyer patch development, suggesting that the signaling axis RET/GFRA3/ARTN (603886) is involved in this process. To support this hypothesis, the authors showed that the RET ligand ARTN is a strong attractant of gut hematopoietic cells, inducing the formation of ectopic Peyer patch-like structures. Veiga-Fernandes et al. (2007) suggested that the RET signaling pathway, by regulating the development of both the nervous and lymphoid system in the gut, plays a key role in the molecular mechanisms that orchestrate intestine organogenesis. 
+
+Fusco et al. (2010) demonstrated that RET51 activation by both glial cell line-derived neurotrophic factor (GDNF; 600837) and NGF (162030) triggers the formation of a RET51-FKBP52 (600611) complex. Substitution of tyrosine-905 in RET51, a key residue phosphorylated by both GDNF and NGF, disrupted the RET51-FKBP52 complex. NGF and GDNF have a functional role in dopaminergic neurons, where RET51 and FKBP52 are expressed. To clarify the contribution of the RET51-FKBP52 complex in dopaminergic neurons, Fusco et al. (2010) screened both genes in 30 patients with Parkinson disease (PD; 168600), in which dopaminergic neurons are selectively lost. In 1 individual with early-onset PD, the authors found heterozygous mutations in each gene, which together were sufficient to disrupt the RET51-FKBP52 complex. 
+
+Fonseca-Pereira et al. (2014) showed that the neurotrophic factor receptor RET drives hematopoietic stem cell (HSC) survival, expansion, and function. The authors found that HSCs express RET and that its neurotrophic factor partners are produced in the HSC environment. Ablation of Ret in mice leads to impaired survival and reduced numbers of HSCs with normal differentiation potential but with loss of cell-autonomous stress response and reconstitution potential. Strikingly, RET signals provide HSCs with critical BCL2 (151430) and BCL2L1 (600039) surviving cues, downstream of p38 MAP kinase (MAPK14; 600289) and CREB (123810) activation. Accordingly, enforced expression of the RET downstream targets BCL2 or BCL2L1 is sufficient to restore the activity of RET-null progenitors in vivo. Activation of RET results in improved HSC survival, expansion, and in vivo transplantation efficiency. Human cord blood progenitor expansion and transplantation is also improved by neurotrophic factors, opening the way for exploration of RET agonists in human HSC transplantation. Fonseca-Pereira et al. (2014) concluded that their work showed that neurotrophic factors are novel components of the HSC microenvironment, revealing that hematopoietic stem cells and neurons are regulated by similar signals. 
+
+
+▼ Gene Structure
+Pasini et al. (1995) cloned the entire RET genomic sequence in a contig of cosmids and established the position of the 20 exons of the RET gene with respect to a detailed restriction map based on 8 endonucleases. A highly polymorphic CA repeat sequence was identified within intron 5. The estimated size of the gene is 55 kb. Intron 1 accounts for approximately 24 kb, while exons 2 to 20 are contained within a region of 31 kb. This overall gene structure of a large first intron with small exons interspersed at the 5-prime half and more clustered at the 3-prime half is reminiscent of that of PDGFRB (173410) and KIT (164920), genes that also encode tyrosine kinase receptors. No evidence of RET-related genes or RET pseudogenes in 10q11.2 or elsewhere in the genome was found. They could demonstrate that the orientation of the RET gene on 10q11.2 is 5-prime centromeric/3-prime telomeric. 
+
+
+▼ Mapping
+By fluorescence in situ hybridization, Ishizaka et al. (1989) assigned the RET oncogene to 10q11.2. Because of the location, they suggested that this might be a candidate gene for multiple endocrine neoplasia type IIA. Lairmore et al. (1993) developed a 1.5-Mb YAC contig containing 3 loci closely linked to the MEN2A locus. The orientation of the contig and order of the 3 markers were cen--RET--D10S94--D10S102--tel. A critical crossover event placed the MEN2A locus centromeric to D10S102. Lairmore et al. (1993) pointed out that no recombination events had been reported between MEN2A and either D10S94 or RET. Mulligan et al. (1993) and Donis-Keller et al. (1993) demonstrated mutations in the RET oncogene that are associated with MEN2A and medullary thyroid carcinoma. 
+
+
+▼ Molecular Genetics
+Hirschsprung Disease
+
+Attie et al. (1995) studied the 20 exons of the RET gene by a combination of denaturing gradient gel electrophoresis and SSCP in 45 sporadic cases and 35 familial cases of Hirschsprung disease (HSCR; 142623). They found mutations of the RET gene in 50% of familial HSCR, regardless of the length of the aganglionic segment. The mean penetrance of the mutant allele in familial HSCR was significantly higher in males (72%) than in females (51%). Mutations at the RET locus were scattered along the length of the gene and accounted for at least one-third of sporadic HSCR cases in this series. Among the mutations identified in sporadic cases (16/45), 7 proved to be de novo mutations. Taken together, the low penetrance of the mutant gene, the lack of genotype/phenotype correlation, the sex-dependent effect of RET mutations, and the variable clinical expression of the disease support the existence of one or more modifier genes in familial HSCR. 
+
+Angrist et al. (1995) analyzed the RET gene in 80 HSCR probands by PCR and identified 8 putative mutations. 
+
+Using the approach of SSCP analysis established for all 20 exons of the RET gene, Seri et al. (1997) identified 7 additional mutations among 39 sporadic and familial cases of Hirschsprung disease (detection rate 18%). They considered that the relatively low efficiency of detecting mutations of RET in Hirschsprung patients cannot be accounted for by genetic heterogeneity, which is not supported by the results of linkage analysis in pedigrees analyzed to date. Almost 74% of the point mutations in their series, as well as in other patient series, were identified among long-segment patients, who represented only 25% of the patient population. Seri et al. (1997) found a C620R substitution in a patient affected with total colonic aganglionosis; the same mutation had been found in medullary thyroid carcinoma. An R313Q mutation (164761.0026) was identified in homozygous state in a child born of consanguineous parents and was associated with the most severe Hirschsprung phenotype, namely, a total colonic aganglionosis with small bowel involvement. 
+
+Julies et al. (2001) studied 40 HSCR patients from a diverse South African population. The exons of the RET gene were analyzed by heteroduplex-SSCP analysis, and 6 potential disease-related mutations in 8 patients (20%) were identified. Five of the mutations were novel. No mutations were detected in the black patient group, which was either a consequence of the small number of patients studied (9) and limitations imposed by the screening method or a different genetic basis. 
+
+Gabriel et al. (2002) reviewed the evidence that RET is the major gene involved in HSCR: only 1 affected family unlinked to RET had been reported; coding sequence mutations occur in 50% of familial and 15 to 35% of sporadic cases; even when the major mutation is in EDNRB, RET variants make some contribution to susceptibility; and homozygous Ret-null mice have full sex-independent penetrance of aganglionosis. Yet, RET mutations are clearly not sufficient to lead to aganglionosis, as the penetrance of mutant alleles is 65% in males and 45% in females. RET is the major gene underlying HSCR primarily in families enriched for long-segment HSCR. To identify the genes critical for the complex inheritance of the much more common short-segment S-HSCR, Gabriel et al. (2002) conducted a genome screen in families with S-HSCR and identified susceptibility loci at 3p21 (HSCR6; 606874), 10q11, and 19q12 (HSCR7; 606875) that seem to be necessary and sufficient to explain recurrence risk and population incidence. The gene at 10q11 appeared to be RET, supporting its crucial role in all forms of HSCR; however, coding sequence mutations were present in only 40% of linked families, suggesting the importance of noncoding variation in RET. Thus they demonstrated oligogenic inheritance of S-HSCR. The 3p21 and 19q12 loci are RET-dependent modifiers of susceptibility. They also demonstrated a parent-of-origin effect at the RET locus. Previously described multiplex families had shown a greater than expected inheritance of HSCR through the maternal lineage. In the 49 families studied by Gabriel et al. (2002), 27 shared 1 allele identical by descent (IBD) at RET; although the shared allele was expected to be transmitted equally by either parent, they observed, instead, 21 maternal and 6 paternal transmissions. This effect was not gender-specific but a true parent-of-origin effect, as, within the 27 nuclear families with 1 allele IBD, there were 29 affected males and 25 affected females. Analysis of segregation at 3p21 and 19q12 showed no parent-of-origin effects. 
+
+Fitze et al. (2003) used a dual-luciferase assay to evaluate the activity of different RET promoter haplotypes identified among 80 HSCR patients. Variants of 2 RET promoter polymorphisms, -5G-A and -1C-A, from the transcription start site were associated with HSCR. The -5G-A polymorphism was in strong linkage disequilibrium with a 135G-A polymorphism (164761.0038). The promoter haplotype -5A/-1C associated with HSCR and had a significantly lower expression compared with those haplotypes identified in the majority of normal controls. Fitze et al. (2003) suggested a role for RET haplotypes containing the -5A promoter variant in the etiology of HSCR. 
+
+Garcia-Barcelo et al. (2005) found that HSCR-associated RET promoter SNPs, -5G-A and -1C-A, were in linkage disequilibrium with the main coding region RET haplotype among 172 sporadic Chinese HSCR patients. They determined that the promoter SNPs overlapped a predicted cis-acting TITF1 (600635)-binding site. Functional analysis of the RET promoter SNPs demonstrated that the HSCR-associated alleles decreased RET transcription. TITF1 expression activated transcription from the RET promoter, and TITF1-activated RET transcription was reduced by the HSCR-associated SNPs. 
+
+Burzynski et al. (2004) typed 13 markers within and flanking the RET gene in 117 Dutch patients with sporadic HSCR, 64 of whom had been screened for RET mutations and found negative, and their parents. There was a strong association between 6 markers in the 5-prime region of RET and HSCR, with significant transmission distortion of those markers. Homozygotes for this 6-marker haplotype had a highly increased risk of developing HSCR (OR greater than 20). Burzynski et al. (2004) concluded that RET may play a crucial role in HSCR even when no RET mutations are found, and that disease-associated variants are likely to be located between the promoter region and exon 2 of the RET gene. 
+
+Mutations in RET have been found in up to 50% of familial cases of HSCR. For the more common sporadic form of HSCR, RET coding mutations have been found in not more than 20% of patients. Several studies have shown, however, that the RET locus is linked to the disease in almost all familial cases, regardless of their mutation status and is also associated with HSCR in a large proportion of the patients with sporadic HSCR who do not have RET coding mutations. Similar haplotypes were found in the 5-prime region of the RET locus in patients from several European populations with HSCR (Borrego et al., 2003). Burzynski et al. (2004) found a haplotype of 6 SNPs that was transmitted to 55.6% of HSCR patients, whereas it was present in only 16.2% of the controls. Among the patients with that haplotype, 90.8% had it on both chromosomes, which led to a much higher risk of developing HSCR than when the haplotype occurred heterozygously. To define more precisely the HSCR-associated region and to identify candidate disease-associated variant(s), Burzynski et al. (2005) sequenced the shared common haplotype region from 10 kb upstream of the RET gene through intron 1 and exon 2 (in total, 33 kb) in a patient homozygous for the common risk haplotype and in a control individual homozygous for the most common nonrisk haplotype. A comparison of these sequences demonstrated 86 sequence differences. Of these 86 variations, 8 proved to be in regions highly conserved among different vertebrates and within putative transcription factor binding sites. Subsequent genotyping of these 8 variants revealed a strong disease association for 6 of the 8 markers. These 6 markers also showed the largest distortion in allele transmission. Interspecies comparison showed that only 1 of the 6 variations was located in a region also conserved in a nonmammalian species, making it the most likely candidate HSCR-associated variant. 
+
+Ruiz-Ferrer et al. (2006) screened the coding region of RET in 106 Spanish Hirschsprung disease patients. Statistical comparisons of the distribution of RET haplotypes between sporadic patients with and without a RET germline mutation were performed. Nine novel germline mutations and 1 previously described were identified. A significant overtransmission of the Hirschsprung disease -200A/-196C promoter haplotype (Fernandez et al., 2005) was detected when comparing transmitted versus nontransmitted alleles in the group of Hirschsprung disease triads without mutation. However, no distortion of the transmission of alleles was found in a group of mutated families. Ruiz-Ferrer et al. (2006) concluded that their results were concordant with a complex additive model of inheritance; the findings taken together seemed to suggest that low penetrance mutations would be necessary but not sufficient to produce the phenotype, and that the additional presence of the Hirschsprung disease haplotype could contribute to the manifestation of the disease. 
+
+Emison et al. (2005) used family-based association studies to identify a disease interval, and integrated this with comparative and functional genomic analysis to prioritize conserved and functional elements within which mutations in RET can be sought. Emison et al. (2005) showed that a common noncoding RET variant within a conserved enhancer-like sequence in intron 1 (IVS1C-T; 164761.0050) is significantly associated with HSCR susceptibility and makes a 20-fold greater contribution to risk than rare alleles do. This mutation reduces in vitro enhancer activity markedly, has low penetrance, and has different genetic effects in males and females, and explains several features of the complex inheritance pattern of HSCR. Thus, Emison et al. (2005) concluded that common low-penetrance variants identified by association studies can underlie both common and rare diseases. Emison et al. (2005) concluded that RET mutations, coding and/or noncoding, are probably a necessary feature in all cases of HSCR. However, RET mutations are not sufficient for HSCR because disease incidence also requires mutations at additional loci. 
+
+Emison et al. (2010) studied 882 probands with Hirschsprung disease and 1,478 first-degree relatives from U.S., European, and Chinese families and replicated their prior discovery of a common, noncoding enhancer mutation, rs2435357 (164761.0050), in European and Chinese patients. In this study, both rare and common mutations, individually and together, were found to contribute to the risk of HSCR. The distribution of RET variants in diverse HSCR patients suggested a 'cellular-recessive' genetic model in which both RET alleles' function is compromised. 
+
+Miao et al. (2010) examined the effects of 3 regulatory SNPs (-5G-A (rs10900296) and -1A-C (rs10900297) in the promoter, and C-T (rs2435357) in intron 1) on RET gene expression in 67 human ganglionic gut tissues using quantitative real-time PCR. They also genotyped for the 3 SNPs by PCR and direct sequencing in 315 Chinese HSCR patients and 325 ethnically matched controls. The expression of RET mRNA in human gut tissue correlated with the genotypes of the individuals. The lowest RET expression was found for those individuals homozygous for the 3 risk alleles (A-C-T/A-C-T), and the highest for those homozygous for the 'wildtype' counterpart (G-A-C/G-A-C). Alleles -5A, -1C, and IVS1T were associated with HSCR, as was the haplotype encompassing the 3 associated alleles (A-C-T) when compared with the wildtype counterpart G-A-C. 
+
+Multiple Endocrine Neoplasia, Type II
+
+Shirahama et al. (1998) investigated the spectrum of RET mutations among Japanese patients by screening the RET gene in 71 patients with thyroid carcinoma. They found mutations in 33 of 34 MEN2A patients and in 5 of 6 FMTC families studied. The met918-to-thr mutation (164761.0013) was found in 4 patients with MEN2B and in 2 of the 22 patients with sporadic medullary thyroid carcinoma. A total of 5 germline mutations were found among the 22 sporadic cases studied, 4 of which were found to be de novo mutations. The authors commented that the high frequency of germline mutations among patients with sporadic medullary thyroid carcinoma has important implications for the clinical management of family members of any patient with this malignancy. 
+
+Huang et al. (2000) and Koch et al. (2001) identified 2 second-hit mechanisms involved in the development of MEN2-associated tumors: trisomy 10 with duplication of the mutant RET allele and loss of the wildtype RET allele. However, some of the MEN2-associated tumors investigated did not demonstrate either mechanism. Huang et al. (2003) studied the TT cell line, derived from MEN2-associated medullary thyroid carcinoma with a RET germline mutation in codon 634, for alternative mechanisms of tumorigenesis. Although they observed a 2-to-1 ratio between mutant and wildtype RET at the genomic DNA level in this cell line, FISH analysis revealed neither trisomy 10 nor loss of the normal chromosome 10. Instead, a tandem duplication event was responsible for amplification of mutant RET. In further studies Huang et al. (2003) demonstrated for the first time that the genomic chromosome 10 abnormalities in this cell line cause an increased production of mutant RET mRNA. The authors concluded that these findings provided evidence for a third second-hit mechanism resulting in overrepresentation and overexpression of mutant RET in MEN2-associated tumors. 
+
+In a 3-generation family with MEN2A, Chen et al. (2023) identified a germline mutation in the RET gene (C634G; 164761.0003) in 4 family members. Three of them had been diagnosed with pheochromocytoma and medullary thyroid cancer, while the youngest, aged 18 years, had no evidence of disease. 
+
+Familial Medullary Thyroid Carcinoma
+
+Elisei et al. (2007) screened RET in 807 subjects, 481 with apparently sporadic MTC, 37 with clinical evidence of MEN2, and 289 relatives. Genomic DNA was extracted from the blood of all subjects, and exons 10, 11, 13, 14, 15, and 16 were analyzed by direct sequencing after PCR. The authors unexpectedly discovered a germline RET mutation in 35 of 481 (7.3%) apparently sporadic MTC patients. A germline RET mutation was also found in 36 of 37 patients with clinical evidence of hereditary medullary thyroid carcinoma. A total of 34 FMTC (75.5% of all FMTC) arrived with apparent sporadic MTC, with no familial history of other MTC cases. According to genetic screening and clinical data, Elisei et al. (2007) classified their 72 families as follows: 45 FMTC (62.5%), 22 MEN2A (30.5%), and 5 MEN2B (7%). 
+
+Elisei et al. (2008) studied 100 sporadic MTC patients with a 10.2-year mean follow-up. RET gene exons 10 and 11 and 13 through 16 were analyzed. The correlation between the presence/absence of a somatic RET mutation, clinical/pathologic features, and outcome of MTC patients was evaluated. A somatic RET mutation was found in 43 of 100 (43%) sporadic MTCs. The most frequent mutation (34 of 43, 79%) was M918T (164761.0013). RET mutation occurrence was more frequent in larger tumors (P = 0.03), and in MTC with node and distant metastases (P less than 0.0001 and P = 0.02, respectively); thus, a significant correlation was found with a more advanced stage at diagnosis (P = 0.004). A worse outcome was also significantly correlated with the presence of a somatic RET mutation (P = 0.002). Among all prognostic factors found to be correlated with a worse outcome, at multivariate analysis only the advanced stage at diagnosis and the presence of a RET mutation showed an independent correlation (P less than 0.0001 and P = 0.01, respectively). Finally, the survival curves of MTC patients showed a significantly lower percentage of surviving patients in the group with RET mutations (P = 0.006). 
+
+Pheochromocytoma
+
+In 5 of 48 apparently sporadic pheochromocytomas (171300), Eng et al. (1995) identified mutations in the RET gene (see, e.g., 164761.0003; 164761.0013). Of these, 1 was proven to be a germline mutation and 2 were proven to be somatic mutations. 
+
+In 13 (5%) of 271 unrelated patients with sporadic pheochromocytoma, Neumann et al. (2002) identified 7 different germline mutations in the RET gene (see, e.g., 164761.0003-164761.0006; 164761.0011; 164761.0012; 164761.0034). 
+
+McWhinney et al. (2003) sought to determine if RET might also be a low-penetrance gene for apparently sporadic pheochromocytoma. They analyzed 104 pheochromocytoma cases without germline mutations in RET, VHL (608537), SDHD (602690), or SDHB (185470) for their status at RET A45 (164761.0038), S836, 3 intron 1 SNPs (haplotype 0), and a novel upstream insertion/deletion variant. Pheochromocytoma cases were not associated with either A45A or S836S, but cases were associated with haplotype 0 (P = 0.032). However, unlike HSCR, this pheochromocytoma-associated haplotype 0 was not associated with A45A. The authors concluded that taken together with the strengthening of association with the addition of the 5-prime insertion/deletion variant data (P = 0.016), their observations suggested the presence of a low-penetrance pheochromocytoma susceptibility locus in a region upstream of the putative loci for HSCR and apparently sporadic MTC. 
+
+Reclassified Variants
+
+The R114H variant (164761.0045) in the RET gene that was identified in a patient with congenital central hypoventilation syndrome (CCHS; see 209880) by Kanai et al. (2002) has been reclassified as a variant of unknown significance. 
+
+The Y791F variant (164761.0034) in the RET gene that was identified in a patient with pheochromocytoma (171300) by Neumann et al. (2002) and in patients with familial medullary thyroid carcinoma (155240) by Baumgartner-Parzer et al. (2005) has been reclassified as a variant of unknown significance. 
+
+Bolk et al. (1996) stated that 16% of children with CCHS have Hirschsprung disease. Because RET mutations have been found in Hirschsprung disease, Bolk et al. (1996) used SSCP analysis to study mutations of the RET gene in 14 patients with CCHS. All detected nucleotide changes in the RET gene were classified as polymorphic variants. 
+
+Associations Pending Confirmation
+
+De Pontual et al. (2006) genotyped the RET locus in 143 patients with CCHS and in 30 patients with Mowat-Wilson syndrome (MWS; 235730) who were known to have mutations in the PHOX2B gene (603851) or the ZFHX1B gene (ZEB2; 605802), respectively. The odds ratios of HSCR for CCHS patients heterozygous and homozygous for the nonsyndromic HSCR-predisposing RET haplotype (ATA), which contained the intron 1 allele reported by Emison et al. (2005), were 2.39 and 4.74, respectively; 16 patients with a PHOX2B alanine expansion and no predisposing RET haplotype also had HSCR. No significant differences in SNP distribution were observed between MWS patients with or without HSCR. De Pontual et al. (2006) concluded that there are both RET-dependent and RET-independent HSCR cases, and suggested that at least one more modifier gene must be involved. 
+
+Renal Abnormalities
+
+Skinner et al. (2008) identified 10 different heterozygous mutations in the RET gene (see, e.g., 164761.0053 and 164761.0054) in paraffin-embedded tissue from 7 (37%) of 19 stillborn fetuses with bilateral renal agenesis and in 2 (20%) of 10 stillborn fetuses with unilateral renal agenesis. Two fetuses had 2 RET mutations. Parental DNA was not studied. In vitro functional expression studies showed that the mutations resulted in either constitutive RET phosphorylation or absent phosphorylation. Skinner et al. (2008) postulated a loss-of-function effect. The fetuses did not have evidence of Hirschsprung disease (142623), MEN2A (171400), MEN2B (162300), or familial medullary thyroid carcinoma (155240). However, Skinner et al. (2008) noted that these conditions generally present with clinical findings later in childhood; they may have been present in the fetuses and not detected by standard autopsy. 
+
+Yang et al. (2008) observed a significant association between primary vesicoureteral reflux (VUR; see 193000) and a nonsynonymous G-A transition in exon 11 (G691S; rs1799939) of the RET gene among French Canadian patients with the disorder. The rare A allele was identified in 83 of 118 unrelated probands with VUR; 2 affected sibs were homozygous for the variant. The frequency of the A allele was 0.145 in controls and 0.360 in patients. The G691S substitution occurs in the juxtamembrane region of the protein and is highly conserved among mammals. In vitro functional expression studies in COS-7 cells showed that the G691S variant had no direct effect on RET kinase activity, but indicated that it could be phosphorylated and interacted with a 75- to 80-kD cellular protein. Yang et al. (2008) hypothesized that the G691S variant may result in local conformational changes and altered phosphorylation status of RET. As Skinner et al. (2008) observed an association between variants in the RET gene and renal adysplasia, VUR may be a manifestation of that disorder. 
+
+Jeanpierre et al. (2011) identified heterozygous variations in the RET gene in 7 (6.6%) of 105 fetuses with severe kidney developmental defects leading to death or termination in utero. Four of the variants were also present in unaffected fathers. In vitro functional studies of most the variants were not performed, but at least 1 was likely a neutral polymorphism. Analysis of 171 additional cases with renal developmental defects showed that the frequency of RET variants was significantly higher in cases compared to controls, suggesting that variants may confer predisposition to a spectrum of renal developmental defects. However, Jeanpierre et al. (2011) concluded that genetic alteration of RET is not a major mechanism leading to renal agenesis or kidney developmental defects. 
+
+Hwang et al. (2014) identified 3 different heterozygous RET missense mutations in 3 of 650 different families with various congenital anomalies of the kidney and urinary tract (CAKUT) who were screened for mutations in the coding regions of 12 known dominant renal disease-causing genes. Although clinical details were sparse, the renal phenotype of these patients included renal hypodysplasia, unilateral renal agenesis, vesicoureteral reflux, ureteropelvic junction obstruction, duplex collecting system, and ureterocele. 
+
+
+▼ Genotype/Phenotype Correlations
+Decker et al. (1998) found that Hirschsprung disease cosegregated with MEN2A in 7 (16%) of 44 families ascertained through MEN2A. The predisposing RET mutations in all 7 families had previously been reported in MEN2A or FMTC and occurred in exon 10 at codons 609, 618, or 620: cys609-to-tyr (164761.0029), cys618-to-ser (164761.0008), cys620-to-arg (164761.0009), and cys620-to-trp (164761.0032). Borrego et al. (1999) studied polymorphic sequence variation in RET in 64 prospectively ascertained individuals with HSCR from the Andalusia region of Spain. For 2 polymorphic variants, A45A (c 135G-A) (164761.0038) and L769L (c 2307T-G), the rare allele was overrepresented in HSCR cases as compared to controls (p less than 0.0006), while the rare allele of the variants G691S (c 2071C-A) and S904S (c 2712C-G) was underrepresented in HSCR cases (p = 0.02). Borrego et al. (1999) concluded that RET polymorphisms predispose to HSCR in a complex low-penetrance manner and may modify phenotypic expression. 
+
+Because the exon 11 RET polymorphism determines an important amino acid variation (G691S), Elisei et al. (2004) studied its frequency in 212 subjects consisting of 106 sporadic MTC patients, and 106 normal controls matched for age, sex, race, and geographic origin. In 46 cases of sporadic MTCs, they also studied the cosegregation of somatic RET gene mutation and G691S polymorphism as well as linkage of the polymorphism with RET germline mutation in 60 members of 8 MEN2 families. They found a statistically significant (P = 0.029) higher allelic frequency of G691S polymorphism in MTCs (27.83%) than that found in normal controls (18.86%), at variance with the 3 neutral polymorphisms whose frequencies were not different in patients and controls. 
+
+Cebrian et al. (2005) confirmed the previously described association of sporadic medullary thyroid carcinoma with the G691S and S904S polymorphisms (for heterozygotes: odds ratio, 1.85; range, 1.22-2.82; P = 0.004), and also found a novel protective effect associated with a specific haplotype in RET, revealing the existence of different genetic variants in the RET oncogene that either increase or decrease risk of sporadic MTC. 
+
+Fitze et al. (1999) investigated the genotype distribution of polymorphisms of codons 45, 125, 432, 691, 769, 836, and 904 of the coding region of the RET gene in patients with HSCR but without a family history of the disease. The study involved 62 individuals with sporadic HSCR from 2 different areas of Germany, around the cities of Dresden (37 individuals) and Erlangen (25 individuals). The male-to-female ratio was 3.8 to 1. As control subjects, anonymous blood donors were used (117 individuals from Dresden and 39 individuals from Erlangen). The allele frequencies of all polymorphisms in the control population were similar to those reported by others, suggesting that the allele frequency is similar in the German, European, and American populations, but the study did not include data of an ethnically diverse, non-white population. The genotype distribution of each of the 7 polymorphic loci did not deviate significantly from Hardy-Weinberg equilibrium. Fitze et al. (1999) found a highly significant association of the codon 45 polymorphism (164761.0038) in the 2 independent populations with sporadic HSCR. 
+
+Machens et al. (2001) correlated the RET genotypes (exons 10, 11, 13, and 14) of 63 patients with hereditary medullary thyroid carcinoma (MTC; 155240) with age at diagnosis, sex, the TNM system, and basal calcitonin levels. Mutations in exons 10, 11, 13, and 14 were demonstrated in 22% (14/63), 54% (34/63), 21% (13/63), and 3% (2/63), respectively. The median ages at diagnosis differed significantly (38, 27, 52, and 62 years, respectively). When grouped by cysteine codons (exons 10 and 11 vs exons 13 and 14), this difference became even more evident (30 vs 56 years). Apart from age at diagnosis, no other significant associations were noted. Based on these data, Machens et al. (2001) they devised 3 MTC risk groups according to genotype: a high risk group (codons 634 and 618) with the youngest ages of 3 and 7 years at diagnosis, respectively; an intermediate risk group (codons 790, 620, and 611) with ages of 12, 34, and 42 years; and a low risk group (codons 768 and 804) with ages of 47 and 60 years. Age at diagnosis was unrelated to specific nucleotide and amino acid exchange within each codon. The authors concluded that there is a significant genotype-phenotype correlation, allowing for a more individualized approach to the timing and extent of prophylactic surgery. 
+
+Niccoli-Sire et al. (2001) analyzed 148 patients from 47 familial MTC-only families, and found noncysteine RET mutations in 59.5% of these families. Of the index cases with noncysteine mutations, 43.4% presented with a multinodular goiter and high basal calcitonin; they were older at diagnosis than those with mutation in exon 10 and had more multifocal MTC, but no difference in size, bilaterality, presence of C cell hyperplasia, or nodal metastases was found. Gene carriers with noncysteine RET mutations had a lower incidence of MTC (78.2% vs 94.1%) than those with mutation in exon 10; 20.2% had C cell hyperplasia only, although thyroidectomized at an older age. The authors concluded that familial MTC with noncysteine RET mutations is not infrequent and is overrepresented in presumed sporadic MTC, suggesting that RET analysis should routinely be extended to exons 13, 14, and 15. The phenotype is characterized by a late onset of the disease, suggesting a delayed appearance of C cell disease rather than a less aggressive form. In familial MTC gene carriers, the optimal timing for thyroidectomy remains controversial. Based on these data, they proposed that surgery should be performed before elevation of the basal calcitonin level, potentially as soon as the pentagastrin test becomes abnormal. 
+
+Germline mutations in RET are associated with both multiple endocrine neoplasia type II, which has MTC as a feature, and HSCR. In the former, gain-of-function mutations are found in a limited set of codons, whereas loss-of-function mutations are found in the latter. Germline RET mutation was associated with only 3% of a population-based series of isolated HSCR (Svensson et al., 1998). Borrego et al. (1999, 2000) found that specific haplotypes comprising RET coding SNPs, including the A45A SNP in exon 2, were strongly associated with HSCR, whereas haplotypes associated with a SNP at codon 836 in exon 14 were associated with MTC. Borrego et al. (2003) described 3 novel SNPs in intron 1, and, together with the coding SNP haplotypes, the data suggested the presence of distinct ancestral haplotypes for HSCR and sporadic MTC in linkage disequilibrium with a putative founding susceptibility locus or loci. The data were consistent with the presence of a very ancient, low-penetrance founder locus approximately 20 to 30 kb upstream of SNP A45A. 
+
+Punales et al. (2003) observed a wide spectrum of clinical presentation and natural course of medullary thyroid carcinoma even among genetically related individuals with MEN2A. Sixty-nine individuals from 12 different families presented a codon 634 mutation, the most prevailing missense mutation in their series. They identified C634Y (164761.0004) in 49 patients, C634R (164761.0011) in 13, and C634W (164761.0012) in 7. Individuals with the C634R mutation presented significantly more distant metastases at diagnosis than subjects with the C634Y or C634W mutations (54.5% vs 19.4% vs 14.3%, respectively, P = 0.03). Further analysis of the estimated cumulative frequency of lymph node and/or distant metastases by Kaplan-Meier curves showed that the appearance of lymph nodes and metastases occurred later in patients with C634Y than in those with C634R (P = 0.001). The authors concluded that specific nucleotide and amino acid exchanges at codon 634 might have a direct impact on tumor aggressiveness in MEN2A syndrome. 
+
+Cote and Gagel (2003) reviewed the distinct strategies that emerged from the study of familial medullary thyroid cancer that may help in managing genetic cancers. They diagrammed the earliest reported age at the onset of MTC according to specific RET mutation. 
+
+Kashuk et al. (2005) reported the alignment of the human RET protein sequence with the orthologous sequences of 12 nonhuman vertebrates, their comparative analysis, the evolutionary topology of the RET protein, and predicted tolerance for all published missense mutations. 
+
+Machens et al. (2005) studied the codon-specific, age-related development of MEN II-associated pheochromocytoma. Based on data from their study and other reports, they suggested that screening for pheochromocytoma may be warranted from age 10 years in carriers of RET mutations in codons 918, 634, and 630, and from age 20 in the remainder. 
+
+From an analysis of 3 patients homozygous for either V804L (164761.0044) or V804M (see 164761.0043), 6 other heterozygous cases from the same populations, and other homozygous and heterozygous subjects, Lesueur et al. (2005) concluded that codon 804 mutations have low penetrance, the developing of medullary thyroid carcinoma being associated with a second germline or somatic mutation. 
+
+
+▼ Cytogenetics
+Familial adenomatous polyposis (FAP; 175100) is caused by germline mutations of the adenomatous polyposis coli (APC; 611731) gene, and it is associated with an increased risk of developing papillary thyroid carcinomas. A significant fraction of sporadic human papillary thyroid carcinomas have RET protooncogene rearrangements. These rearrangements generate chimeric transforming oncogenes designated RET/PTC. See 188550. Cetta et al. (1998) used an immunohistochemical and RT-PCR approach to analyze for RET/PTC activation in papillary thyroid carcinomas in 2 FAP kindreds, both showing typical APC gene mutations. Kindred 1 had 7 members affected by FAP, and among these, 3 patients had papillary thyroid carcinomas. Kindred 2 had 2 patients, mother and daughter, who were affected by colonic polyposis; the daughter also had a papillary carcinoma. Cetta et al. (1998) found RET/PTC1 oncogene activation in 2 of 3 papillary carcinomas of FAP kindred 1 and in the papillary carcinoma of FAP kindred 2. These findings showed that loss of function of APC coexists with gain of function of RET in some papillary thyroid carcinomas, suggesting that RET/PTC1 oncogene activation could be a progression step in the development of FAP-associated thyroid tumors. 
+
+By RT-PCR screening of PTCs of 2 patients exposed to radioactive fallout after the Chernobyl nuclear power plant disaster, followed by 5-prime RACE, Klugbauer et al. (1998) identified a novel RET rearrangement, PTC5, involving fusion of the RET tyrosine kinase domain to RFG5 (GOLGA5; 606918). 
+
+Klugbauer and Rabes (1999) identified 2 novel types of RET rearrangements in papillary thyroid carcinoma, which they termed PTC6 and PTC7. In PTC6, RET is fused to the N-terminal part of transcriptional intermediary factor-1-alpha (TIF1A; 603406), and in PTC7, RET is fused to a C-terminal part of TIF1-gamma (TIF1G; 605769). 
+
+In a papillary thyroid carcinoma, Nakata et al. (1999) found fusion of the ELKS (607127) and RET genes due to the translocation t(10;12)(q11;p13). By PCR analysis of normal thyroid tissue and the papillary thyroid carcinoma, Nakata et al. (1999) found that the ELKS-RET fusion transcript was expressed only in the tumor. By sequence analysis, they determined that amino acid 691 of ELKS was fused to amino acid 713 of RET. Functionally, this fusion would juxtapose the kinase domain of RET to the coiled-coil structure of ELKS. Nakata et al. (1999) noted that since the RET gene is not expressed in the thyroid follicular cells from which papillary thyroid carcinoma develops, and because dimerization causes RET activation, the fusion of RET with ELKS would cause the kinase domain of RET to be expressed inappropriately in thyroid cancer tissue. They also confirmed dimerization of the fusion protein in vivo. 
+
+Klugbauer et al. (2001) identified 22 reciprocal and 4 nonreciprocal ELE1 (601984) and RET rearrangements, referred to as PTC3 rearrangements, in 26 post-Chernobyl PTC tumor samples. Breakpoints were distributed in the affected introns of both genes without significant clustering, and there was no accumulation of breakpoints at the 2 Alu elements in the ELE1 sequence. However, at least 1 topoisomerase I (126420) site was found at or near all breakpoints, indicating a potential role for this enzyme in the formation of DNA strand breaks and/or ELE1 and RET inversions. Due to the presence of short regions of sequence homology and short direct and inverted repeats at the majority of breakpoints, Klugbauer et al. (2001) concluded that chimeric ELE1/RET and RET/ELE1 genes are formed by a nonhomologous DNA end-joining mechanism. 
+
+
+▼ Animal Model
+Smith-Hicks et al. (2000) developed a mouse model of MEN2B by introducing a point mutation in the mouse Ret gene corresponding to the disease-associated met918-to-thr (M918T; 164761.0013) substitution in the human RET gene. Mutant mice displayed C-cell hyperplasia and chromaffin cell hyperplasia that progressed to pheochromocytoma. Homozygous mice did not develop gastrointestinal ganglioneuromas, but displayed ganglioneuromas of the adrenal medulla, enlargement of the associated sympathetic ganglia, and a male reproductive defect. There were no defects attributable to a loss-of-function mutation, and development of the kidneys and enteric nervous system was normal. 
+
+De Graaff et al. (2001) created transgenic mice that expressed the extracellular domain of mouse Ret fused in-frame to the intracellular segment of human RET9 or RET51. They called these alleles monoisoformic Ret9 (miRet9) and miRet51, respectively. Heterozygous (+/miRet9 or +/miRet51), heteroallelic (miRet9/miRet51), and homozygous miRet9 mice were viable and displayed no abnormalities. In contrast, the majority of homozygous miRet51 mice died as neonates, and less than 5% survived to 2 to 3 months of age, exhibiting severe growth retardation. Homozygous miRet51 mice also showed renal malformations and severe defects in innervation of the gut. 
+
+Tyr1062 of RET is a binding site for the phosphotyrosine-binding domains of several adaptor and effector proteins important for the activation of intracellular signaling pathways, such as the RAS (see 190020)/ERK (see 601795), PI3 kinase (see 601232)/AKT (see 164730), and JNK (see 601158) pathways. Jijiwa et al. (2004) examined the role of tyr1062 in organogenesis in transgenic mice carrying a knockin gene with a tyr1062-to-phe mutation. Homozygous knockin mice were born normally, but they showed growth retardation and died by day 27. Development of the enteric nervous system was severely impaired in homozygous mutant mice, and about 40% lacked enteric neurons in the whole intestinal tract, as observed in Ret-deficient mice. Other mutant mice developed enteric neurons in the intestine at various extents, although the size and number of ganglion cells were significantly reduced. Unlike Ret-deficient mice, a small kidney developed in all knockin mice, accompanied by a slight histologic change. The reduced kidney size was due to a decrease of ureteric bud branching during embryogenesis. Jijiwa et al. (2004) concluded that RET signaling via tyr1062 plays an important role in the development of the enteric nervous system and kidney. 
+
+
+▼ History
+Reviews
+
+Eng (1996) reviewed the role of the RET protooncogene in multiple endocrine neoplasia type II and in Hirschsprung disease. Hoppener and Lips (1996) also reviewed RET gene mutations from the point of view of the molecular biology and the clinical aspects. Eng and Mulligan (1997) tabulated mutations of the RET gene in MEN2, the related sporadic tumors medullary thyroid carcinoma and pheochromocytoma, and familial and sporadic Hirschsprung disease. Germline mutations in 1 of 8 codons within RET cause the 3 subtypes of MEN2, namely, MEN2A, MEN2B, and familial medullary thyroid carcinoma. They stated that a somatic M918T mutation accounts for the largest proportion of RET mutations detected in medullary thyroid carcinomas, most series showing a 30% to 50% range. It appeared that pheochromocytomas have a wider range of RET mutations. In contrast to MEN2, approximately 25% of patients with Hirschsprung disease have germline mutations scattered throughout the length of RET. 
+
+Fearon (1997) reviewed more than 20 different hereditary cancer syndromes that had been defined and attributed to specific germline mutations in various inherited cancer genes. In a useful diagram, he illustrated the roles of allelic variation ('1 gene - different syndromes') and genetic heterogeneity ('different genes - 1 syndrome') in inherited cancer syndromes. For example, some missense mutations, e.g., in codon 609, cause MEN2A and a familial medullary thyroid carcinoma; others, e.g., missense mutations in codon 918, cause MEN2B; yet other mutations cause Hirschsprung disease. 
+
+
+▼ ALLELIC VARIANTS ( 54 Selected Examples):
+
+   
+
+.0001 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+RET, CYS618GLY    
+Mulligan et al. (1993) identified constitutional missense mutations of the RET gene in 20 of 23 apparently distinct MEN2A families, but not in 23 normal controls. One of these involved codon 364 in which a T-to-G transversion in basepair 1783 changed TGC (cys) to GGC (gly) (CYS364GLY). Cys364 is 1 of 27 cysteine residues in the RET extracellular domain that is conserved between man and mouse; the other 19 mutations were in another conserved cysteine residue, cys380. (The codon numbered 364 on the basis of the partial RET sequence published by Takahashi et al. (1988) was later referred to as codon 618 on the basis of the full-length RET sequence (Mulligan et al., 1994).) 
+
+
+.0002 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+RET, GLU378ASP, LEU379VAL, CYS380ARG       
+In a study of sequence variations in the RET gene in RNA from tumors in patients with MEN2A by the chemical cleavage mismatch (CCM) method, Mulligan et al. (1993) identified an unusual altered sequence in several: GAGCTGTGC was changed to GACGTGCGC resulting in the substitution of amino acids at codons 378, 379, and 380. All cases were heterozygous for the mutant allele. This unusual mutation was found in a total of 12 families. Cys380 is 1 of 27 cysteine residues in the RET extracellular domain that are conserved between man and mouse. Four other mutations of this codon were found among other MEN2A families. (The codon numbered 380 on the basis of the partial RET sequence published by Takahashi et al. (1988) is numbered codon 634 on the basis of the full-length RET sequence (Mulligan et al., 1994).) 
+
+
+.0003 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+PHEOCHROMOCYTOMA, INCLUDED
+RET, CYS634GLY    
+In affected members of 3 families with MEN2A, Mulligan et al. (1993) found a TGC-to-GGC transversion at basepair 1831 of codon 380 in the RET gene, resulting in substitution of glycine for cysteine (C380G; 164761.0003). (The codon numbered 380 on the basis of the partial RET sequence published by Takahashi et al. (1988) is numbered codon 634 on the basis of the full-length RET sequence (Mulligan et al., 1994).) Robinson et al. (1994) and Seri et al. (1997) likewise identified the C634G mutation in families with MEN2A associated with cutaneous lichen amyloidosis (PLCA; see 105250). 
+
+In a 3-generation family with MEN2A, Chen et al. (2023) identified a germline C634G mutation in 4 family members. Three of them had been diagnosed with pheochromocytoma and medullary thyroid cancer, while the youngest, aged 18 years, had no evidence of disease. 
+
+In a patient and her father with pheochromocytoma (171300), Eng et al. (1995) identified a germline C634G mutation. 
+
+Neumann et al. (2002) identified the C634G substitution in the germline of a patient with pheochromocytoma. The mutation was not identified in 600 control chromosomes. 
+
+
+.0004 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+PHEOCHROMOCYTOMA, INCLUDED
+RET, CYS634TYR    
+In affected members of 2 families with MEN2A, Mulligan et al. (1993) found a TGC-to-TAC transition at basepair 1832 of codon 380 resulting in substitution of cysteine to tyrosine (CYS380TYR). (The codon numbered 380 on the basis of the partial RET sequence published by Takahashi et al. (1988) is numbered codon 634 on the basis of the full-length RET sequence (Mulligan et al., 1994).) 
+
+Ceccherini et al. (1994) found the cys634-to-tyr (C634Y) mutation in a family with MEN2A associated with primary localized cutaneous lichen amyloidosis (PLCA; see 105250). 
+
+Santoro et al. (1995) showed that this mutation is a transforming gene in NIH 3T3 cells as a consequence of constitutive activation of the RET kinase. In MEN2A and familial medullary thyroid carcinoma, point mutations result in the substitution of 1 of the 5 cysteine residues in the extracellular domain of RET. This causes RET dimerization at steady state. 
+
+Neumann et al. (2002) identified the C634Y substitution in the germlines of 3 unrelated patients with sporadic pheochromocytoma (171300). The mutation was not identified in 600 control chromosomes. 
+
+
+.0005 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+PHEOCHROMOCYTOMA, INCLUDED
+RET, CYS634SER    
+In affected members of 1 family with MEN2A, Mulligan et al. (1993) found a TGC-to-TCC transversion at basepair 1832 of codon 380 resulting in a cysteine-to-serine substitution (CYS380SER). (The codon numbered 380 on the basis of the partial RET sequence published by Takahashi et al. (1988) is numbered codon 634 on the basis of the full-length RET sequence (Mulligan et al., 1994).) 
+
+Neumann et al. (2002) identified the C634S substitution in the germline of a patient with sporadic pheochromocytoma (171300). The mutation was not identified in 600 control chromosomes. 
+
+
+.0006 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+THYROID CARCINOMA, FAMILIAL MEDULLARY, INCLUDED
+PHEOCHROMOCYTOMA, INCLUDED
+RET, CYS634PHE    
+In a family with MEN2A, Mulligan et al. (1993) found that affected members had a TGC-to-TTC transversion of basepair 1832 resulting in a substitution of phenylalanine for cysteine-380 (CYS380PHE). (The codon numbered 380 on the basis of the partial RET sequence published by Takahashi et al. (1988) is numbered codon 634 on the basis of the full-length RET sequence (Mulligan et al., 1994).) 
+
+Xue et al. (1994) found the same cys634-to-phe (C634F) mutation, caused by a TGC-to-TTC transversion at nucleotide 1832, in affected members of a family with medullary thyroid carcinoma (155240). 
+
+Neumann et al. (2002) identified the C634F substitution in the germline of a patient with sporadic pheochromocytoma (171300). The mutation was not identified in 600 control chromosomes. 
+
+
+.0007 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+RET, CYS611TRP    
+Donis-Keller et al. (1993) described a total of 5 point mutations in the RET gene in unrelated patients with MEN2A. All involved substitutions of cysteine residues. Exon 7 was the site of four of these and exon 8 the site of one. Using the numbering scheme of Mulligan et al. (1994), the 5 mutations were cys611-to-trp, cys618-to-ser, cys620-to-arg, cys620-to-tyr, and cys634-to-arg. The second of these mutations occurred in the same codon as the cys618-to-gly mutation (164761.0001). 
+
+
+.0008 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+THYROID CARCINOMA, FAMILIAL MEDULLARY, INCLUDED
+RET, CYS618SER    
+See 164761.0007.
+
+Xue et al. (1994) found a cys364-to-ser mutation (CYS364SER), caused by a TGC-to-TCC transversion in the RET gene, in affected members of a family with medullary thyroid carcinoma (155240). Based on the full-length sequence of the RET gene, this mutation is cys618 to ser. 
+
+
+.0009 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+RET, CYS620ARG    
+See 164761.0007. Based on the partial sequence of the RET gene, this mutation was known as CYS366ARG.
+
+
+.0010 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+RET, CYS620TYR    
+See 164761.0007. Based on the partial sequence of the RET gene, this mutation was known as CYS366TYR.
+
+
+.0011 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+PHEOCHROMOCYTOMA, INCLUDED
+RET, CYS634ARG    
+See 164761.0007. This mutation had been denoted CYS380ARG based on the partial RET sequence published by Takahashi et al. (1988); based on the full-length sequence, the mutation is cys634 to arg. Mulligan et al. (1994) found that the cys634-to-arg mutation represented 54% of all disease mutations in MEN2A families and 65% of all changes in codon 634. It appears that the mutation occurred independently many times, since the families came from widely separated geographic areas and showed different haplotype associations. This mutation is due to change of codon 634 from TGC to CGC. Mulligan et al. (1994) found an unexpected correlation between the occurrence of the cys634-to-arg mutation in families with MEN2A and the probability that one or more family members would show parathyroid abnormality as part of the syndrome. By haplotype analysis in 30 apparently separate MEN2A families, Gardner et al. (1994) showed that the correlation is not explained by a single founder chromosome that carries both the cys634-to-arg mutation and a separate allele conferring susceptibility to parathyroid abnormality, but is probably due to the cys634-to-arg mutation itself. 
+
+Hofstra et al. (1996) found the cys634-to-arg mutation, due to a T-to-C transition at nucleotide 1900, in 2 presumably unrelated MEN2A families with associated skin amyloidosis. No RET mutation was found in familial cutaneous lichen amyloidosis (105250), a presumably distinct disorder. 
+
+In a 26-year-old female with MEN2A, Tessitore et al. (1999) identified 2 mutations in the RET gene: a cys634-to-arg substitution, and an ala640-to-gly substitution (164761.0040) in the transmembrane region. The 2 mutations were present on the same allele and were detected in germline and tumor DNA. Both mutations were de novo, i.e., they were not found in the DNA of the parents or relatives. Immunohistochemical and RT-PCR analysis showed that the pheochromocytoma expressed calcitonin as well as both RET alleles. A cell line established from the tumor and propagated in culture sustained the expression of RET and calcitonin, as did the original pheochromocytoma. 
+
+Mendonca et al. (1988) reported a MEN2A kindred in which the father presented with a rare phenotype consisting of bilateral ACTH-producing pheochromocytoma and medullary thyroid carcinoma. Nunes et al. (2002) performed mutation analysis of the father and his 4 children using DGGE and PCR-amplified genomic DNA, followed by direct sequencing or RFLP testing. All 4 children showed a RET sequence variation. The common exon 11 C634R mutation was present in 2 of the children, who had undergone thyroidectomy for C cell disease. The other 2, who did not harbor the C634R mutation and were negative for C cell and adrenal disease, carried a novel val648-to-ile change (V648I; 164761.0047) in exon 11 of the RET gene. Both variants were present in the father, which the authors speculated may have modified and contributed to his rare MEN2A phenotype. 
+
+Neumann et al. (2002) identified the C634R substitution in the germlines of 4 unrelated patients with sporadic pheochromocytoma (171300). The mutation was not identified in 600 control chromosomes. 
+
+
+.0012 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+PHEOCHROMOCYTOMA, INCLUDED
+RET, CYS634TRP    
+In 2 out of 57 families with MEN2A, Mulligan et al. (1994) found a C-to-G transversion in the RET gene, resulting in a cys634-to-trp (C634W) substitution. 
+
+Neumann et al. (2002) identified the C634W substitution in the germlines of 2 unrelated patients with sporadic pheochromocytoma (171300). The mutation was not identified in 600 control chromosomes. 
+
+Neumann et al. (2007) traced out relatives of the patient thought to have been the first described with what was subsequently known as pheochromocytoma: a woman named Minna Roll, 18 years of age at death in 1884 (Frankel, 1886). At autopsy, she was found to have bilateral adrenal tumors, diagnosed as sarcoma in 1 and angiosarcoma in the other. She also had a smaller nodule within the right adrenal medulla consistent with a nonmalignant pheochromocytoma. The autopsy described a 'goiter,' which was not pursued histologically. Family lineage tracing and pedigree construction revealed not only that 4 descendants had medullary thyroid carcinoma but also that 4 living affected family members had a germline C634W mutation in the RET gene, thus establishing a clinical and molecular diagnosis of MEN2A. It was considered unusual for pheochromocytoma to present before medullary thyroid carcinoma in the disorder. 
+
+
+.0013 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIB
+THYROID CARCINOMA, SPORADIC MEDULLARY, INCLUDED
+PHEOCHROMOCYTOMA, SOMATIC, INCLUDED
+RET, MET918THR    
+In all 9 unrelated MEN2B patients studied, Hofstra et al. (1994) found a mutation in codon 918 of the RET gene, causing the substitution of a threonine for a methionine in the tyrosine kinase domain of the protein. They found the same mutation in 6 of 18 sporadic medullary thyroid carcinomas (155240). This conclusively demonstrates that MEN2A and MEN2B are related as allelic disorders; there is thus no justification for calling MEN2B MEN3. This identical point mutation in the catalytic core of the tyrosine kinase domain of RET was also found in association with both inherited and de novo MEN2B by Carlson et al. (1994) and Eng et al. (1994). The ATG-to-ACG mutation results in the substitution of threonine for methionine at codon 918 in the codon designation of Takahashi et al. (1988, 1989). Carlson et al. (1994) proposed that this amino acid replacement affects substrate interactions and results in oncogenic action by the RET protein. It is noteworthy that most mutations identified in cases of MEN2A and familial medullary thyroid carcinoma have been contained within the extracellular ligand-binding domain of the RET protooncogene and have resulted in nonconservative substitutions for 4 different cysteines. MEN2B has shown mainly noncysteine substitutions. 
+
+The existence of polymorphic markers tightly linked to MEN2B and the fact that the M918T mutation accounts for almost all cases of MEN2B enabled Carlson et al. (1994) to determine unequivocally whether mutations occurred on the maternal or paternal chromosome. Strikingly, all 25 of the mutations they analyzed occurred in the paternal allele. Therefore, MEN2B can be added to the list of neoplastic diseases, which already includes Wilms tumor, bilateral retinoblastoma, osteosarcoma, embryonal rhabdomyosarcoma, and neurofibromatosis type I, for which the relevant genetic alteration occurs either predominantly or exclusively on the paternally derived chromosome. Carlson et al. (1994) also observed a paternal age effect. 
+
+Santoro et al. (1995) demonstrated that this RET allele is a transforming gene in NIH 3T3 cells as a consequence of constitutive activation of the RET kinase. The mutation alters RET catalytic properties both quantitatively and qualitatively. 
+
+Eng et al. (1995) analyzed 71 sporadic medullary thyroid carcinomas (68 primary tumors and 3 cell lines) for mutations in RET exons 10, 11, and 16. They found that 23% of sporadic MTC had RET codon 918 mutations (located in exon 16), while only 3% had exon 10 mutations and none had mutations in exon 11. They found no exon 16 mutations in MTC from 14 MEN2A cases. Thus, exon 10 and 11 mutations, commonly found in familial MTC and MEN2A, rarely occur in sporadic MTC; somatic mutation of RET codon 918 appears to play a role in the tumorigenesis of a significant minority of sporadic MTC but not in MEN2A tumors. In addition to their biologic interest, these findings may have clinical application in determining whether a case presenting with isolated MTC is truly sporadic or is part of an inherited cancer syndrome. The codon 918 mutation altered methionine (ATG) to threonine (ACG). In all instances in which germline DNA was available for analysis, it was found to be wildtype. This mutation was previously designated MET664THR. 
+
+Eng et al. (1995) identified the M918T substitution in pheochromocytoma (171300) tumor tissue from 2 unrelated patients. The mutation was not identified in the germline of these patients. 
+
+In MEN2A, mutations affecting cysteine residues in the extracellular domain of the receptor tyrosine kinase cause constitutive activation of the tyrosine kinase by the formation of disulfide-bonded homodimers. In MEN2B, only the met918-to-thr mutation in the tyrosine kinase domain has been identified. This mutation does not lead to dimer formation, but has been shown both biologically and biochemically to cause ligand-independent activation of the RET protein, but to a lesser extent than MEN2A mutations. Bongarzone et al. (1998) showed that the activity of the MEN2B RET mutation could be increased by stable dimerization of the receptor. Dimerization was achieved experimentally by constructing a double mutant receptor with a MEN2A mutation (cys634 to arg; 164761.0011) in addition to the MEN2B mutation, and by chronic exposure of the cells expressing the met918-to-thr mutation of RET to the RET ligand glial cell line-derived neurotrophic factor (GDNF; 600837). In both cases, full activation of the RET-MEN2B mutant protein, measured by in vitro transfection assays and biochemical parameters, was seen. These results indicated that the MEN2B phenotype could be influenced by the tissue distribution or concentration of RET ligand(s). 
+
+
+.0014 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, 1-BP DEL, G1120   
+As reviewed in 142623, an autosomal dominant gene causing Hirschsprung disease (142623) was mapped to 10q11.2 by observations in a case of interstitial deletion of this region and by family linkage studies. The gene was subsequently localized to a 250-kb interval that contains the RET gene (Luo et al., 1993). Using flanking intronic sequences as primers to amplify 12 of the 20 exons of RET from genomic DNA of 27 Hirschsprung disease patients, Romeo et al. (1994) identified 1 frameshift and 3 missense mutations that totally disrupt or partially change the structure of the tyrosine kinase domain of the RET protein. The mutations in RET that cause multiple endocrine neoplasia (see 171400) are located in the extracellular cysteine-rich domain. On the other hand, a targeted mutation in the tyrosine kinase domain of the RET gene was found to produce intestinal aganglionosis and kidney agenesis in homozygous transgenic mice (Schuchardt et al., 1994). The frameshift mutation consisted of deletion of nucleotide 1120, a G, in exon 6 causing frameshift after the first 373 amino acids. One parent was a silent carrier of the mutation which caused early termination of translation at nucleotide 1355 where a new stop codon had arisen. 
+
+
+.0015 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, SER765PRO    
+In a sporadic case of Hirschsprung disease (142623), Romeo et al. (1994) found a T-to-C transition at nucleotide 2293, causing substitution of proline for serine-765. 
+
+
+.0016 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, ARG897GLN    
+In a sporadic case of Hirschsprung disease (142623), Romeo et al. (1994) found a G-to-A transition at nucleotide 2690 in exon 15 resulting in substitution of glutamine for arginine-897. 
+
+
+.0017 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, ARG972GLY    
+In a familial case of Hirschsprung disease (142623), Romeo et al. (1994) found an A-to-G transition at nucleotide 2914 in exon 17 of the RET gene causing substitution of glycine for arginine-972. 
+
+
+.0018 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, SER32LEU    
+Edery et al. (1994) reported 4 missense mutations and 2 nonsense mutations in the RET gene causing Hirschsprung disease (142623). One of them was a C-to-T transition in codon 32 of exon 2 leading to substitution of leucine for serine in the RET protein. 
+
+
+.0019 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, PRO64LEU    
+In a case of Hirschsprung disease (142623), Edery et al. (1994) found a C-to-T transition in codon 64 of exon 2, leading to substitution of leucine for proline. 
+
+
+.0020 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, GLU136TER    
+In a patient with Hirschsprung disease (142623), Edery et al. (1994) found a G-to-T transversion in codon 136 of exon 3, converting glu to a stop codon. 
+
+
+.0021 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, ARG180TER    
+In a patient with Hirschsprung disease (142623), Edery et al. (1994) described a C-to-T transition in codon 180 of exon 3, converting arginine to a stop codon. 
+
+
+.0022 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, ARG330GLN    
+In a patient with Hirschsprung disease (142623), Edery et al. (1994) found a G-to-A transition in codon 330 of exon 5, leading to substitution of glutamine for arginine. 
+
+
+.0023 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, PHE393LEU    
+In a patient with Hirschsprung disease (142623), Edery et al. (1994) found a C-to-A transversion in codon 393 of exon 6, leading to substitution of leucine for phenylalanine in the RET protein. 
+
+
+.0024 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+RET, CYS620PHE    
+In a family with MEN2A, Xue et al. (1994) found that affected members had a TGC-to-TTC transversion resulting in a substitution of phenylalanine for cysteine-366 (CYS366PHE). Based on the full-length sequence of the RET gene, this mutation is cys620 to phe. 
+
+
+.0025 THYROID CARCINOMA, FAMILIAL MEDULLARY
+MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA, INCLUDED
+RET, CYS618ARG    
+In a family with familial MTC (155240), Xue et al. (1994) found that affected members had a TGC-to-CGC transversion resulting in a substitution of arginine for cysteine-364 (CYS364ARG). Based on the full-length sequence of the RET gene, this mutation is cys618 to arg. 
+
+Hibi et al. (2014) reported a family with MEN2A (171400) associated with a heterozygous C618R mutation. The female proband had MTC and pheochromocytoma, and her brother died of MTC at age 45 years. The proband had 3 asymptomatic sons, all of whom carried the C618R mutation. Two of the sons were found to have unilateral renal agenesis, and 1 had Hirschsprung disease (HSCR1; 142623). Hibi et al. (2014) noted that knockout of Ret in mice results in loss of enteric neurons as well as renal agenesis or severe dysgenesis (Schuchardt et al., 1994). The findings in the family reported by Hibi et al. (2014) supported the hypothesis that a constitutively active RET mutation might partially impair RET function and thereby cause loss of function phenotypes, such as renal agenesis or HSCR. However, Hibi et al. (2014) concluded that renal agenesis/dysgenesis is probably extremely rare in patients with RET mutations. 
+
+
+.0026 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA, WITHOUT PHEOCHROMOCYTOMA
+RET, 12-BP DUP    
+Missense mutations in 5 cysteine codons encoded in exon 10 of the RET gene (codons 609, 611, 618, and 620) and exon 11 (codon 634) have been found in more than 92% of families with medullary thyroid carcinoma only (FMTC) or MEN2A (MTC and pheochromocytoma and/or hyperparathyroidism). The RET protooncogene encodes a receptor tyrosine kinase that is involved in the normal development of neural crest lineage. Glial cell-derived neurotrophic factor (GDNF; 600837), a member of the transforming growth factor (TGF)-beta superfamily, is a ligand for RET. Mutated RET (C634W; 164761.0012) transfected into NIH 3T3 cells confers the transformed phenotype, and the mutated receptors dimerize through intermolecular disulfide bridges and undergo autophosphorylation at tyrosine residues. Hoppner and Ritter (1997) noted that the mutation of a single cysteine residue into any other amino acid enables the formation of intermolecular disulfide bridges and changes the conformation to activate the intracellular tyrosine kinase domain without the presence of the ligand. This appears to be the crucial event in the stimulation of neoplastic growth. It appears that disappearance of any of the cysteine residues in the cysteine-rich domain is fundamental to the progression of MEN2A. Hoppner and Ritter (1997) described a novel class of germline mutation in a MEN2A family. Duplication of 12 bp in exon 11 created an additional cysteine codon in the cysteine-rich domain and resulted in a distinct clinical phenotype of the MEN2 syndrome. The duplication resulted in the insertion of 4 amino acids between codons 634 (cys) and 635 (arg), thus creating an additional cysteine residue. The family had 14 affected and 11 unaffected living members. Hypercalcemia was diagnosed in 8 patients and histologic evaluation revealed parathyroid hyperplasia in all 10 cases examined. No member of the family showed evidence of pheochromocytoma. The authors stated that this was the first documentation of a family without pheochromocytoma but with a high incidence of parathyroid disease. Approximately 85% of MEN2A families show a mutation of cysteine-634, and as a rule, the presence of both pheochromocytoma and parathyroidism is associated with mutation at that codon. 
+
+
+.0027 THYROID CARCINOMA, FAMILIAL MEDULLARY
+RET, GLU768ASP    
+In a large multigenerational family with multiple cases of medullary thyroid carcinoma (155240) or C-cell hyperplasia and 2 individuals with isolated adrenal medullary hyperplasia, Boccia et al. (1997) identified a glu768-to-asp (E768D) mutation in exon 13 of the RET gene. The mutation segregated with the FMTC phenotype in this family but not with the adrenal medullary hyperplasia phenotype. The mutation had previously been described in 3 unrelated families with FMTC by Eng et al. (1995) and Bolino et al. (1995). 
+
+The E768D mutation is caused by a G-to-C transition at position 2304. In one patient with an isolated case of medullary thyroid carcinoma, Antinolo et al. (2002) found, as a germline mutation, the same amino acid change caused by a G-to-T transversion in the same nucleotide. 
+
+
+.0028 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, ARG313GLN    
+In a child born of consanguineous parents, Seri et al. (1997) found homozygosity for an R313Q mutation of the RET gene as the cause of the most severe Hirschsprung disease (142623) phenotype, namely, total colonic aganglionosis with small bowel involvement. 
+
+
+.0029 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA, WITH HIRSCHSPRUNG DISEASE
+RET, CYS609TYR    
+Decker et al. (1998) found that Hirschsprung disease (142623) cosegregated with MEN2A (171400) in 7 (16%) of 44 families ascertained through MEN2A. The predisposing RET mutations in all 7 families had previously been reported in MEN2A or FMTC and occurred in exon 10 at codons 609, 618, or 620: C609Y, C618S, C620R, and C620W. MEN2A families with RET exon 10 cys mutations had a subsequently greater risk of developing HSCR1 than those with the more common RET exon 11 cys634 or exon 14 mutations. These findings suggested that expression of HSCR1 in MEN2A may be particular to RET exon 10 cys mutations. It appeared that oncogenic activation of RET alone was insufficient to account for coexpression of the diseases. 
+
+
+.0030 MOVED TO 164761.0008
+
+.0031 MOVED TO 164761.0009
+
+.0032 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA, WITH HIRSCHSPRUNG DISEASE
+RET, CYS620TRP    
+See (164761.0029) and Decker et al. (1998). 
+
+
+.0033 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+THYROID CARCINOMA, FAMILIAL MEDULLARY, INCLUDED
+RET, LEU790PHE    
+Berndt et al. (1998) studied 181 German families with MEN2A or FMTC (155240) for mutations in the RET protooncogene. In 8 families with MEN2A or FMTC, no mutation could be detected in the cysteine-rich domain encoded in exons 10 and 11. DNA sequencing of exons 13 to 15 revealed rare noncysteine mutations in 3 families (codons 631, 768, and 844). In contrast to these rare events, heterozygous missense mutations in exon 13, codons 790 and 791, were found in 5 families (4 with MTC only; 1 family with MTC and pheochromocytoma) and 11 patients with apparently sporadic tumors. Two different leu790-to-phe mutations (TTG to TTT, TTG to TTC) and 1 tyr791-to-phe mutation (TAT to TTT) (164761.0034) were found. They concluded that codons 790 and 791 of the RET protooncogene represent a new hotspot for mutations causing MEN2A/FMTC and that 100% of the German MEN2A/FMTC families could be characterized by a mutation in the RET protooncogene. 
+
+
+.0034 RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+RET, TYR791PHE    
+This variant, formerly titled THYROID CARCINOMA, FAMILIAL MEDULLARY, with an included title of PHEOCHROMOCYTOMA, has been reclassified as a variant of unknown significance based on the reports of Toledo et al. (2015) and Hoxbroe Michaelsen et al. (2019) and a review of the gnomAD database by Hamosh (2024). 
+
+In a patient with sporadic pheochromocytoma (171300), Neumann et al. (2002) identified the tyr791-to-phe (Y791F) substitution resulting from a 2372A-T transversion in exon 13 of the RET gene. The mutation was not identified in 600 control chromosomes. 
+
+Baumgartner-Parzer et al. (2005) found that in patients with familial medullary thyroid carcinoma, the Y791F mutation (which the authors referred to as PHE791TYR, F791Y) was associated with the nearby L769L SNP. All 12 individuals carrying Y791F (9 unrelated individuals and 3 descendants) were homozygous or heterozygous for the L769L polymorphism. 
+
+Frank-Raue et al. (2005) found this mutation coincident with a splice site mutation in MEN1 (131100.0034) in 3 members of a family with a multiple endocrine neoplasia phenotype. The RET Y791F mutation was carried in isolation by the father, who at 65 years of age had no thyroid or parathyroid disease and no pheochromocytoma, and no family history of medullary thyroid carcinoma, pheochromocytoma, or primary hyperparathyroidism. The authors concluded that the RET Y791F mutation and the MEN1 mutation did not interact. 
+
+Toledo et al. (2015) detected the Y791F variant in a cohort of 2,904 cancer-free elderly individuals. In addition, the variant traveled in cis with the C634Y variant (164761.0001), which is known to cause aggressive medullary thyroid carcinoma. 
+
+Hoxbroe Michaelsen et al. (2019) followed a cohort of 20 Danish RET Y791F carriers, none of whom had any evidence of MEN2A at ages 7 to 87 years. 
+
+Hamosh (2024) noted that the Y279F variant had an overall population frequency of 0.001409 and 10 times that among Ashkenazi Jews in the gnomAD database (v4.0), far exceeding the frequency of the condition.
+
+
+.0035 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, ARG231HIS    
+In a nonconsanguineous French family with Hirschsprung disease (142623) characterized by aganglionosis extending up to the small intestine in 4 of 8 sibs, Attie et al. (1995) detected heterozygosity for an arg231-to-his (R231H) mutation in the RET gene. Pelet et al. (1998) showed that the RET mutation resulted in haploinsufficiency via a significant reduction of the RET protein at the cell surface, as demonstrated in vitro. 
+
+In the family reported by Attie et al. (1995), Doray et al. (1998) detected a heterozygous missense variation (A96S) in the neurturin gene (NRTN; 602018) in each of 3 affected children who were tested as well as in their unaffected father and 2 unaffected sibs. Doray et al. (1998) suggested that the NRTN mutation was not sufficient to result in HSCR by itself but may modulate the expression of the disease, which was severe in this family. They noted, however, that the father was also heterozygous for the RET R231H mutation. 
+
+
+.0036 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, ARG982CYS    
+Svensson et al. (1998) described a family with missense mutations in both the RET gene (arg982 to cys; R982C) and the EDNRB gene (gly57 to ser; 131244.0005). In this family, 3 of 5 members had both mutations, but only 1, a boy, had the Hirschsprung disease phenotype (142623). 
+
+
+.0037 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, ILE647ILE, 1941C-T    
+Auricchio et al. (1999) described a patient with Hirschsprung disease (142623) who had a C-to-T transition at nucleotide 1941, causing no change in codon 647 (I647I) but producing an effect on splicing. The mutation was present in heterozygous state in combination with a heterozygous missense mutation at the EDNRB locus, S305N (131244.0006). The same I647I change had been described in another patient by Ceccherini et al. (1994). Both in vivo and in vitro, they showed that in 2 different patients the silent RET mutation interfered with correct transcription, possibly leading to a reduced level of the RET protein. The coexistence, reported for the first time, in the same patient of 2 functionally significant EDNRB and RET mutations suggested a direct genetic interaction between these 2 distinct transmembrane receptors in polygenic HSCR disease. 
+
+
+.0038 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, ALA45ALA    
+Fitze et al. (1999) found a highly significant association of the codon 45 polymorphism of the RET gene in 2 independent populations with sporadic Hirschsprung disease (HSCR; 142623) (37 individuals from Dresden, Germany and 25 individuals from Erlangen, Germany). The polymorphism consisted of a change of codon GCG to GCA, which produced no alteration in the amino acid. They pointed out that Puffenberger et al. (1994) described a significant excess of this polymorphism on the HSCR haplotype that was transmitted to affected members of Mennonite families with HSCR. However, the predominant mutation identified in that kindred was a founder homozygous W276C mutation of the EDNRB gene (131244.0001). The association supported the polygenic, complex inheritance of HSCR. In addition, Auricchio et al. (1999) reported a patient with both an EDNRB mutation (131244.0006) and a RET mutation (164761.0037) that apparently resulted in aberrant RET RNA splicing. Fitze et al. (1999) speculated as to the possible mechanism by which the silent codon 45 polymorphism might act in the genesis of HSCR. 
+
+Borrego et al. (2000) identified 12 haplotypes using 7 loci across RET in individuals with Hirschsprung disease, their unaffected parents, and region-matched controls. Four specific genotypes containing the ala45-to-ala variant were found in more than 35% of cases, while genotypes which did not contain this variant accounted for 43% of control genotypes, but were never seen in the Hirschsprung cases. Borrego et al. (2000) concluded that Hirschsprung genotypes containing this variant predispose to Hirschsprung disease either in a simple autosomal recessive manner or in an additive, dose-dependent fashion, even in isolated cases of Hirschsprung disease. 
+
+
+.0039 THYROID CARCINOMA, FAMILIAL MEDULLARY
+RET, 9-BP DUP, EX8    
+Pigny et al. (1999) studied 4 affected members of a family with familial medullary thyroid carcinoma (MTC; 155240) and a history of fatal neonatal intestinal obstruction in the sister of the proband. Genetic analysis demonstrated the absence of a usual MTC mutation and heterozygosity for a germline 9-bp duplication in exon 8 of the RET gene in all patients with MTC. This 9-bp duplication created an additional cysteine residue in the extracellular cysteine-rich domain of RET. Pigny et al. (1999) suggested that further studies are warranted to confirm whether this mutation causes MTC only or if it is also associated with Hirschsprung disease (142623). 
+
+
+.0040 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+RET, ALA640GLY    
+In a 26-year-old female with type IIA multiple endocrine neoplasia (171400), Tessitore et al. (1999) identified 2 mutations in the RET gene: a cys634-to-arg substitution (164761.0011), and an ala640-to-gly substitution in the transmembrane region. The 2 mutations were present on the same allele and were detected in germline and tumor DNA. Both mutations were de novo, i.e., they were not found in the DNA of the parents or relatives. Immunohistochemical and RT-PCR analysis showed that the pheochromocytoma expressed calcitonin as well as both RET alleles. A cell line established from the tumor and propagated in culture sustained the expression of RET and calcitonin, as did the original pheochromocytoma. 
+
+
+.0041 THYROID CARCINOMA, FAMILIAL MEDULLARY
+RET, CYS620SER    
+Lore et al. (2000, 2001) described a family in which a cys620-to-ser (C620S) mutation of the RET gene was identified in members of 3 generations and by inference a fourth and was found to be associated with medullary thyroid carcinoma (155240) in several members. One of these individuals was found to have absence of the left kidney. Her son was found to have Hirschsprung disease (142623) at a few months of age and had undergone surgical resection of the involved intestinal segment. Subsequently, he was found to have the RET mutation and at the age of 15 years underwent total thyroidectomy, which revealed medullary thyroid carcinoma. Abnormal ultrasonography revealed the absence of the left kidney in the son also. No renal abnormalities were found on abdominal ultrasonography of the other living members. Lore et al. (2001) concluded that MEN2 syndromes may be associated with renal malformations. 
+
+
+.0042 THYROID CARCINOMA, FAMILIAL MEDULLARY
+RET, CYS609ARG    
+Munnes et al. (2000) analyzed the RET gene in patients with Hirschsprung disease (142623) in 6 different families. In 1 family with a joint occurrence of HSCR and familial medullary thyroid carcinoma (155240), they identified a cys609-to-arg (C609R) point mutation involving 1 of the 6 cysteine residues encoded in exon 10. The authors suggested that the position of the substitution in the tyrosine kinase domain of the RET receptor made it likely that the mutation was causative for HSCR as well as for the thyroid carcinoma. They noted that a C609Y mutation (164761.0029) in the RET gene caused a combination of MEN IIA (171400) with Hirschsprung disease. 
+
+
+.0043 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIB
+RET, VAL804MET, SER904CYS     
+Menko et al. (2002) reported a kindred with atypical multiple endocrine neoplasia type 2B (162300) characterized by medullary thyroid carcinoma (155240) and mucosal neurilemmomas in multiple family members. Mutation analysis revealed a double germline mutation in the RET gene not involving codon 918 (val804 to met and ser904 to cys) in affected individuals. 
+
+
+.0044 THYROID CARCINOMA, FAMILIAL MEDULLARY
+RET, VAL804LEU    
+A codon 804 mutation in the RET gene leading to the substitution of valine by leucine (V804L) was first identified in 2 unrelated French families with familial medullary thyroid carcinoma (MTC; 155240) (Farndon et al., 1986; Bolino et al., 1995). Lombardo et al. (2002) studied 61 heterozygotes harboring the germline V804L mutation of the RET protooncogene in 5 independent families, including one reported by Bolino et al. (1995). A total of 31 subjects underwent surgery. Histology identified C-cell hyperplasia in 30 cases, isolated in 12 and associated with MTC in 18. Six patients with MTC had lymph node metastases. Among the 14 patients with basal detectable calcitonin (114130) level, 12 had MTC and 2 had isolated C cell hyperplasia. In most individuals carrying the V804L RET mutation, C cell disease displayed late onset and an indolent course; a pentagastrin test was negative in the majority of heterozygotes during the first 2 decades and was positive in only half of them during the third and fourth decades of life. The authors concluded that in these gene carriers, surgery may be postponed to the fourth decade of life or until the pentagastrin stimulation test becomes positive. They also suggested that their data be confirmed on a larger series of V804L carriers, but that it may offer a balanced strategy to keep under control and prevent development of the full disease phenotype. 
+
+Ruiz et al. (2001), among others, had found a germline variant, ser836 to ser (S836S) (due to a nucleotide change in exon 14 of the RET gene which does not change the amino acid), that occurred at a significantly higher frequency in patients with sporadic MTC than in control subjects without sporadic MTC. Based on this observation, it had been postulated that the S836S polymorphism reacts as a low-penetrance allele in MTC and, perhaps, in FMTC families with a small number of affected members who have no typical RET gene mutations. In an extended Hungarian FMTC kindred whose members had a germline V804L mutation and a germline S836S polymorphism in separate alleles in exon 14 of the RET gene, Patocs et al. (2003) analyzed the clinical associations. The observations suggested that the coexistence of the V804L mutation and the S836S polymorphism in separate alleles did not aggravate the relatively low-risk disease phenotype characteristic in most patients with codon 804 mutations of exon 14 of the RET gene. Three of the family members who had the V804L mutation and 1 member who could not be tested for mutation were operated on for nonmetastatic MTC, while 1 member with MTC who had the V804L mutation refused surgery. In all patients affected with MTC, the disease developed relatively late in life and never caused death. 
+
+Lesueur et al. (2005) compared the clinical data and age of diagnosis among 3 patients homozygous for either V804L or V804M (see 164761.0043), 6 other heterozygous cases from the same populations, and other homozygous and heterozygous subjects reported previously. The data were consistent with a model in which codon 804 mutations have low penetrance, the developing of medullary thyroid carcinoma being associated with a second germline or somatic mutation. The authors concluded that the activity and (in the case of somatic mutations) timing of these other genetic alterations in the RET gene may explain the wide clinical variability associated with germline mutations at codon 804. 
+
+
+.0045 RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+RET, ARG114HIS    
+This variant, formerly titled CENTRAL HYPOVENTILATION SYNDROME, CONGENITAL, has been reclassified based on its allele frequency in the gnomAD database (v.2.1.1) (Hamosh, 2021).
+
+In a patient with congenital central hypoventilation syndrome (CCHS; 209880), an 8-year-old girl, Kanai et al. (2002) found a 341G-A transition in exon 3 of the RET gene resulting in an arg114-to-his (R114H) amino acid substitution. The mutation was inherited from her healthy father and was absent in 50 healthy Japanese controls. The patient required home ventilation therapy only during sleep and presented normal psychomotor development. She was born at term and showed hypoventilation and/or apnea soon after birth, especially during sleep, and required endotracheal intubation and mechanical ventilation within a few hours after birth. Respiratory function tests performed during sleep showed extremely low or no response to hypercapnia. There was no increase in minute ventilation, even when blood carbon dioxide levels increased, although results of the respiratory function test during the awake state were normal. Screening tests for neuroblastoma were negative and symptoms suggesting Hirschsprung disease (142623) or tumors of neural crest origin were not detected. The patient had very mild constipation (treatment was not needed), strabismus, and incomplete right bundle branch block. Kanai (2002) claimed that this was the first report of a RET gene mutation in a patient with isolated CCHS. 
+
+Hamosh (2021) noted that the R114H variant has a frequency of 0.01022 among East Asians (204/19,952) and was identified in one homozygote in gnomAD. This is too high a frequency to account for a severe pediatric disorder.
+
+
+.0046 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, PRO1039LEU    
+In a patient Hirschsprung disease (142623), Amiel et al. (1998) found a C-to-T transition at the second nucleotide of codon 1039 in exon 19 of the RET gene, changing a proline to a leucine in the protein (P1039L). The patient also had congenital central hypoventilation syndrome (CCHS; 209880) and carried a polyalanine expansion in the PHOX2B gene (603851.0001), the predominant cause of CCHS. 
+
+
+.0047 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+RET, VAL648ILE    
+In 2 of 4 children with type IIA multiple endocrine neoplasia (171400) whose father had a rare MEN2A phenotype consisting of bilateral ACTH-producing pheochromocytoma and medullary thyroid carcinoma, Nunes et al. (2002) identified a novel 648G-A transition in exon 11 of the RET gene, resulting in a val648-to-ile (V648I) mutation. This novel substitution was not found in the unaffected mother or in 200 control alleles. Both the V648I and cys634-to-arg (C364R; 164761.0011) variants were present in the father, which the authors speculated may have modified and contributed to his rare MEN2A phenotype. 
+
+
+.0048 THYROID CARCINOMA, FAMILIAL MEDULLARY
+RET, GLY533CYS    
+In 76 patients with familial medullary thyroid carcinoma (FMTC; 155240) from a 6-generation Brazilian family with 229 subjects, with ascendants from Spain, Da Silva et al. (2003) detected a novel point mutation in exon 8 of the RET gene (1597G-T) corresponding to a gly533-to-cys (G533C) substitution in the cysteine-rich domain of RET protein. Histologic analysis of 35 cases submitted to thyroidectomy revealed that 21 patients had MTC after the age of 40 years and 8 before the age of 40 years, 4 presented MTC or C cell hyperplasia (CCH) before the age of 18 years, 2 died from MTC at the age of 53 and 60 years, and 1 patient had CCH at 5 years of age, suggesting clinical heterogeneity. The authors concluded that to improve the diagnosis of FMTC, analysis of exon 8 of RET should be considered in families with no identified classical RET mutations. 
+
+
+.0049 MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
+THYROID CARCINOMA, FAMILIAL MEDULLARY, INCLUDED
+RET, SER891ALA    
+In a family in which medullary thyroid carcinoma and pheochromocytoma occurred as features of MEN2A (171400), Jimenez et al. (2004) found a change of serine to alanine at codon 891 of the RET gene (S891A). This mutation arises from a T-to-G transversion at nucleotide 2671 in exon 15. It had been thought that carriers of this mutation develop only hereditary medullary thyroid carcinoma without evidence of other manifestations of MEN2 (Hofstra et al., 1997; Dang et al., 1999). 
+
+
+.0050 HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
+RET, IVS1, C-T, +9.7 KB (rs2435357)    
+Emison et al. (2005) identified a single-nucleotide polymorphism (SNP) within a 27.6-kb region of intron 1 of the RET gene associated with susceptibility to Hirschsprung disease (142623). The variant, designated SNP RET+3 (rs2435357), is located within a multispecies conserved sequence, MCS+9.7 (identified by distance in kilobases from the RET start site), that demonstrated a minimum identity of 72.5% with all mammalian species examined. The RET+3:C allele was highly conserved in all 9 mammalian species examined; the T allele was associated with Hirschsprung disease. Transient transfection assays demonstrated that MCS+9.7 acts as an enhancer in vitro, and MCS+9.7 with the RET+3 mutant allele showed a 6.3-fold reduction in enhancer function. 
+
+Emison et al. (2005) showed that the RET+3:T allele is a derived allele that is virtually absent in Africa but rose to a frequency of 0.25 in Europe and 0.45 in Asia in 100,000 years or less, suggesting positive selective pressure in the maintenance of this allele. Hirschsprung disease shows marked gender difference in expression and incidence; Emison et al. (2005) observed that transmission frequency of the associated allele in the RET region was always smaller to affected daughters than to affected sons, with rare exceptions at nonsignificant SNPs. Two other features of the RET+3 mutation displayed sex differences consistent with the greater incidence in males than females. The transmission frequency to affected sons and daughters led to a 5.7-fold and 2.1-fold increase in susceptibility in males and in females, respectively, assuming a multiplicative model for penetrance. Second, genotype frequencies of affected individuals could be used to estimate the penetrance, which varied between 6.2 x 10(5) and 1.8 x 10(3), considerably smaller than that for long-segment Hirschsprung disease. 
+
+Emison et al. (2010) studied 882 probands with Hirschsprung disease and 1,478 first-degree relatives from U.S., European, and Chinese families, and demonstrated the ubiquity of a greater than 4-fold increase in susceptibility from the rs2435357 T allele. In vitro assays showed that the T variant disrupts a SOX10 (602229) binding site within MCS+9.7 that compromises RET transactivation. Emison et al. (2010) found that the T allele was involved in all forms of HSCR, and was significantly associated with length of aganglionosis (p = 7.6 x 10(-5)) and familiality (p = 6.2 x 10(-4)), with the enhancer variant being more frequent in the common forms of male, short-segment, and simplex families. In addition, the T variant increased penetrance in patients with rare RET coding mutations. 
+
+
+.0051 THYROID CARCINOMA, FAMILIAL MEDULLARY
+RET, ARG912PRO    
+Jimenez et al. (2004) reported an arg912-to-pro (R912P) mutation of the intracellular tyrosine kinase domain of RET in a family with medullary thyroid carcinoma (MTC; 155240). The index patient presented with medullary thyroid carcinoma at age 14 years. Although the initial routine analysis of commonly mutated codons failed to reveal a germline RET mutation, the early onset of disease and multifocality of the tumor prompted further analysis. Direct DNA sequencing revealed a G-to-C transversion in exon 16 that resulted in the R912P substitution. Eleven of 68 family members carried the same heterozygous mutation. The index patient was the only individual carrying the mutation who presented with clinically overt and metastatic disease in the second decade of life. Following total thyroidectomy and modified radical neck dissection, she presented no radiologic evidence of disease for approximately 40 years, to the time of the report. 
+
+
+.0052 HIRSCHSPRUNG DISEASE, PROTECTION AGAINST
+RET, 128496T-C    
+Griseri et al. (2007) identified a 128496T-C polymorphism (rs3026785) in the 3-prime untranslated region of the RET gene located in the AU-rich tract between the third and fourth polyadenylation sites. In vitro and cell culture studies showed that the rare 128496C variant resulted in increased expression of the RET gene by interfering with physiologic mRNA turnover mediated by AU-rich sequences. The 128496T-C SNP was found to be in complete linkage disequilibrium with a haplotype (previously associated with a 2508C-T SNP) found to be protective against Hirschsprung disease (142623) (Griseri et al. (2000, 2002)). Due to its location, the effect of the 128496T-C SNP is expected to be limited to transcripts encoding RET51. However, Griseri et al. (2007) noted that the protective effect of the SNP may not be sufficient to counteract strong HSCR-predisposing factors, such as karyotypic abnormalities. 
+
+
+.0053 RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+RET, VAL778ILE    
+This variant, previously titled RENAL AGENESIS, has been reclassified as a variant of unknown significance because its contribution to renal agenesis (see 191830) has not been confirmed.
+
+In paraffin-embedded tissue samples from 2 unrelated stillborn fetuses with bilateral renal agenesis, Skinner et al. (2008) identified a heterozygous G-to-A transition in exon 13 of the RET gene, resulting in a val778-to-ile (V778I) substitution. One of the fetuses also carried a RET M918T mutation (164761.0013). Parental DNA was not studied. In vitro functional expression studies showed that the V788I mutant protein was constitutively phosphorylated at tyrosine 1062. Skinner et al. (2008) postulated a RET signaling defect resulting in loss of function. The fetuses did not have evidence of Hirschsprung disease (142623), MEN2A (171400), MEN2B (162300), or familial medullary thyroid carcinoma (155240). However, Skinner et al. (2008) noted that these conditions generally present with clinical findings later in childhood; they may have been present in the fetus and not detected by standard autopsy. 
+
+
+.0054 RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+RET, PRO198THR    
+This variant, previously titled RENAL AGENESIS, has been reclassified as a variant of unknown significance because its contribution to renal agenesis (see 191830) has not been confirmed.
+
+In paraffin-embedded tissue samples from a stillborn fetus with bilateral renal agenesis, Skinner et al. (2008) identified a heterozygous C-to-A transversion in exon 3 of the RET gene, resulting in a pro198-to-thr (P198T) substitution. Parental DNA was not studied. In vitro functional expression studies showed that the P198T mutant protein was inactivated. The fetus did not have evidence of Hirschsprung disease (142623), MEN2A (171400), MEN2B (162300), or familial medullary thyroid carcinoma (155240). However, Skinner et al. (2008) noted that these conditions generally present with clinical findings later in childhood; they may have been present in the fetus and not detected by standard autopsy. 
+
+-----------------------------------------------------------
+##ORPHANET##
+-----------------------------------------------------------
 RET - ret proto-oncogene
 Synonym(s): CDHF12, CDHR16, PTC, RET receptor tyrosine kinase, RET51, cadherin-related family member 16, rearranged during transfection
+
 Previous symbol(s) and name(s): HSCR1, Hirschsprung disease 1, MEN2A, MEN2B, MTC1, multiple endocrine neoplasia and medullary thyroid carcinoma 1
+
 Type: gene with protein product
+
 Chromosomal location: 10q11.21
+
 OMIM: 164761
+
 HGNC: 9967
+
 UniProtKB: P07949
+
 Genatlas: RET
+
 GenCC: RET
+
 ClinVar: RET
+
 Ensembl: ENSG00000165731
+
 IUPHAR-DB: 2185
+
 Reactome: P07949
+
 LOVD: RET
+
 Diseases List
  Disease-causing germline mutation(s) in Hirschsprung disease ORPHA:388
  Disease-causing germline mutation(s) in Isolated familial medullary thyroid carcinoma ORPHA:99361
@@ -66,17 +622,27 @@ Diseases List
  Major susceptibility factor in Sporadic pheochromocytoma/secreting paraganglioma ORPHA:276621
  Candidate gene tested in Hereditary pheochromocytoma-paraganglioma ORPHA:29072
 
+-----------------------------------------------------------
+##GENEREVIEWS [SUMMARY]##
+-----------------------------------------------------------
+Clinical characteristics.
+Multiple endocrine neoplasia type 2 (MEN2) includes the following phenotypes: MEN2A, familial medullary thyroid carcinoma (FMTC, which may be a variant of MEN2A), and MEN2B. All three phenotypes involve high risk for development of medullary carcinoma of the thyroid (MTC); MEN2A and MEN2B involve an increased risk for pheochromocytoma; MEN2A involves an increased risk for parathyroid adenoma or hyperplasia. Additional features of MEN2B include mucosal neuromas of the lips and tongue, distinctive facies with enlarged lips, ganglioneuromatosis of the gastrointestinal tract, and a marfanoid habitus. MTC typically occurs in early childhood in MEN2B, early adulthood in MEN2A, and middle age in FMTC.
 
+Diagnosis/testing.
+The diagnosis of MEN2 is established in a proband who fulfills existing clinical diagnostic criteria or by identification of a heterozygous germline gain-of-function variant in RET on molecular genetic testing. Molecular genetic testing is recommended in all individuals with a clinical diagnosis due to genotype-specific surveillance and treatment recommendations and to allow family studies.
 
+Management.
+Targeted therapy: Prophylactic thyroidectomy for individuals with an identified germline RET pathogenic variant.
 
+Supportive care: Measurement of plasma free metanephrines or 24-hour urine for fractionated metanephrines to evaluate for functioning pheochromocytoma prior to any surgery in individuals with MEN2A, MEN2B, or FMTC. Adrenalectomy prior to thyroidectomy in any individual with pheochromocytoma identified. Treatment for MTC is surgical removal of the thyroid gland and lymph node dissection. External beam radiation therapy or intensity-modulated radiation therapy can be considered for incomplete tumor resection or extrathyroidal extension with positive margins. Kinase inhibitors may be considered in those with metastatic MTC. Standard treatment for hypothyroidism following thyroidectomy. Treatment of hypertension prior to adrenalectomy or management of hypertension during surgery. Resection of pheochromocytomas by adrenalectomy. Primary hyperparathyroidism is treated with surgery to remove one or more parathyroid glands or, more rarely, with medications to reduce parathyroid hormone secretion.
 
+Surveillance: Annual measurement of serum calcitonin concentration in those who have not had prophylactic thyroidectomy and to detect residual or recurrent MTC after thyroidectomy, even if thyroidectomy was performed prior to biochemical evidence of disease. Annual plasma free metanephrines or 24-hour urine for fractionated metanephrines for those with a germline RET pathogenic variant whose initial screening results are negative for pheochromocytoma. Annual albumin-corrected calcium or ionized calcium for individuals with MEN2A/FMTC whose initial screening results are negative for hyperparathyroidism. Age of initiation of surveillance for pheochromocytoma and hyperparathyroidism is determined by the specific germline RET pathogenic variant identified.
 
+Agents/circumstances to avoid: Dopamine D2 receptor antagonists and beta-adrenergic receptor antagonists present a high risk for adverse reactions in individuals with pheochromocytoma.
 
+Evaluation of relatives at risk: RET molecular genetic testing should be offered to all at-risk members of kindreds in which a germline RET pathogenic variant has been identified. When an individual with MEN2 refuses to notify at-risk family members, the physician should consider consulting a clinical ethicist to determine if the physician has the ethical obligation to warn the at-risk family members.
 
+Pregnancy management: Women with MEN2 should be screened for pheochromocytoma prior to a planned pregnancy or as early as possible during an unplanned pregnancy.
 
-
-
-Metadata:
-
-Retrieved nov 2025 from OMIM and Orphanet
-
+Genetic counseling.
+All MEN2 phenotypes are inherited in an autosomal dominant manner. Up to 95% of individuals diagnosed with MEN2A and 50% of individuals diagnosed with MEN2B have an affected parent. (By definition, individuals with FMTC have multiple family members who are affected.) Approximately 5%-9% of individuals with MEN2A and 50% of individuals with MEN2B have the disorder as the result of a de novo germline pathogenic variant. Each child of an individual with MEN2 has a 50% chance of inheriting the RET pathogenic variant. Once the RET pathogenic variant has been identified in an affected family member, molecular genetic testing of at-risk asymptomatic family members and prenatal and preimplantation genetic testing for MEN2 are possible.

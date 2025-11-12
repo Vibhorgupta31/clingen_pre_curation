@@ -1,0 +1,87 @@
+{
+  "gene": "RET",
+  "phenotype_entities": [
+    {"name": "Multiple endocrine neoplasia IIA", "source_mentions": ["OMIM", "ORPHANET", "GENEREVIEWS"]},
+    {"name": "Multiple endocrine neoplasia IIB", "source_mentions": ["OMIM", "ORPHANET", "GENEREVIEWS"]},
+    {"name": "Thyroid carcinoma, familial medullary", "source_mentions": ["OMIM", "ORPHANET", "GENEREVIEWS"]},
+    {"name": "Hirschsprung disease, susceptibility to, 1", "source_mentions": ["OMIM", "ORPHANET"]},
+    {"name": "Hirschsprung disease, protection against", "source_mentions": ["OMIM"]},
+    {"name": "Pheochromocytoma", "source_mentions": ["OMIM", "ORPHANET"]},
+    {"name": "Renal agenesis, unilateral", "source_mentions": ["ORPHANET"]},
+    {"name": "Renal agenesis, bilateral", "source_mentions": ["ORPHANET"]},
+    {"name": "Haddad syndrome", "source_mentions": ["ORPHANET"]}
+  ],
+  "criteria_reasoning": {
+    "assertions_made": {
+      "verdict": "Multiple entities",
+      "justification": "OMIM lists MEN2A, MEN2B, familial medullary thyroid carcinoma (FMTC), Hirschsprung disease, and pheochromocytoma as RET-related entities. GeneReviews states FMTC may be a variant of MEN2A, while treating MEN2B as a distinct phenotype."
+    },
+    "molecular_mechanism": {
+      "verdict": "Distinct",
+      "justification": "OMIM describes gain-of-function RET mutations causing MEN2A/MEN2B/FMTC, versus loss-of-function or reduced expression variants underlying Hirschsprung disease. These opposing mechanisms support splitting HSCR from MEN2, while MEN2A and FMTC share activating mechanisms."
+    },
+    "phenotypic_variability": {
+      "verdict": "Distinct phenotypes",
+      "justification": "GeneReviews delineates MEN2A/FMTC versus MEN2B by different clinical features and ages of onset. OMIM notes occasional co-occurrence of HSCR with MEN2A exon 10 mutations, but overall HSCR presents a different clinical spectrum."
+    },
+    "mode_of_inheritance": {
+      "verdict": "Same",
+      "justification": "All germline RET-related entities listed (MEN2A, MEN2B, FMTC, HSCR susceptibility) are reported with autosomal dominant inheritance in OMIM/Orphanet. Differences in phenotype are not due to inheritance pattern changes."
+    }
+  },
+  "entity_decisions": [
+    {"name": "Multiple endocrine neoplasia IIA", "decision": "LUMP", "confidence": 0.95},
+    {"name": "Thyroid carcinoma, familial medullary", "decision": "LUMP", "confidence": 0.95},
+    {"name": "Multiple endocrine neoplasia IIB", "decision": "SPLIT", "confidence": 0.95},
+    {"name": "Hirschsprung disease, susceptibility to, 1", "decision": "SPLIT", "confidence": 0.95},
+    {"name": "Pheochromocytoma", "decision": "LUMP", "confidence": 0.8},
+    {"name": "Hirschsprung disease, protection against", "decision": "Unclear", "confidence": 0.5},
+    {"name": "Renal agenesis, unilateral", "decision": "Unclear", "confidence": 0.5},
+    {"name": "Renal agenesis, bilateral", "decision": "Unclear", "confidence": 0.5},
+    {"name": "Haddad syndrome", "decision": "Unclear", "confidence": 0.4}
+  ],
+  "proposed_groupings": [
+    {
+      "group_id": 1,
+      "entities": ["Multiple endocrine neoplasia IIA", "Thyroid carcinoma, familial medullary", "Pheochromocytoma"],
+      "proposed_label": "Multiple endocrine neoplasia type 2A",
+      "mode_of_inheritance": "Autosomal dominant",
+      "criteria_met": ["assertions", "molecular_mechanism", "mode_of_inheritance"],
+      "reasoning": "GeneReviews considers FMTC a variant of MEN2A; OMIM shows shared gain-of-function RET mechanisms and overlapping management, with pheochromocytoma as a MEN2A feature.",
+      "decision": "LUMP"
+    },
+    {
+      "group_id": 2,
+      "entities": ["Multiple endocrine neoplasia IIB"],
+      "proposed_label": "Multiple endocrine neoplasia IIB",
+      "mode_of_inheritance": "Autosomal dominant",
+      "criteria_met": ["assertions", "phenotypic_variability", "molecular_mechanism"],
+      "reasoning": "Treated as a distinct MEN2 phenotype in GeneReviews with characteristic features and predominant M918T activating variant; clinical course and management differ from MEN2A/FMTC.",
+      "decision": "SPLIT"
+    },
+    {
+      "group_id": 3,
+      "entities": ["Hirschsprung disease, susceptibility to, 1"],
+      "proposed_label": "Hirschsprung disease, susceptibility to, 1",
+      "mode_of_inheritance": "Autosomal dominant",
+      "criteria_met": ["molecular_mechanism", "phenotypic_variability"],
+      "reasoning": "Loss-of-function/reduced RET expression and complex susceptibility model contrast with MEN2 gain-of-function; distinct clinical phenotype and management.",
+      "decision": "SPLIT"
+    }
+  ],
+  "overall_decision": {
+    "verdict": "SPLIT",
+    "summary_reasoning": "Based on source assertions, mechanisms, and phenotype, RET-related MEN2A and FMTC should be lumped as a single entity (MEN2A spectrum), MEN2B should be split as a distinct entity, and Hirschsprung disease susceptibility should be split due to opposite (loss-of-function) mechanisms and different clinical presentation. Pheochromocytoma is best considered within the MEN2 entities rather than a separate RET germline disorder. Evidence for renal agenesis and Haddad syndrome as primary RET germline disorders is inconsistent in OMIM/Orphanet and thus remains unclear.",
+    "confidence": 0.9
+  },
+  "top_supporting_evidence": [
+    "GeneReviews: \"Multiple endocrine neoplasia type 2 (MEN2) includes... MEN2A, familial medullary thyroid carcinoma (FMTC... variant of MEN2A), and MEN2B.\"",
+    "OMIM (164761): \"Mutations in the RET gene are associated with multiple endocrine neoplasia, type IIA (MEN2A), multiple endocrine neoplasia, type IIB (MEN2B), Hirschsprung disease (HSCR)...\" and notes MEN2 involves oncogenic activation while HSCR alleles reduce function/trafficking.",
+    "OMIM (Molecular Genetics/Function): HSCR variants impair cell surface expression or kinase activity (loss-of-function), whereas MEN2 variants cause constitutive activation of RET kinase (gain-of-function)."
+  ],
+  "suggested_action_for_curator": [
+    "Confirm adoption of the convention to lump FMTC with MEN2A for this gene-disease curation.",
+    "Document that isolated pheochromocytoma due to germline RET should be curated under MEN2 entities rather than as a separate disorder.",
+    "Reassess Orphanet-listed renal agenesis and Haddad syndrome with current OMIM text (notes VUS/uncertain) before including as distinct RET germline entities."
+  ]
+}

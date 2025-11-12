@@ -1,0 +1,341 @@
+##Experiment Metadata##
+
+GENE_NAME: CAVEOLIN 3; CAV3
+DATA_SOURCES: OMIM, Orphanet, GeneReviews
+DATA_URIS: https://www.omim.org/entry/601253?search=CAV3&highlight=cav3, https://www.orpha.net/en/disease/gene/CAV3?name=CAV3&mode=gene
+DATE_RETRIEVED: 2025-11-12
+EXPERIMENT: LS_POC_EXPERIMENT
+
+-----------------------------------------------------------
+##OMIM##
+-----------------------------------------------------------
+* 601253
+CAVEOLIN 3; CAV3
+
+Alternative titles; symbols
+
+M-CAVEOLIN
+
+HGNC Approved Gene Symbol: CAV3
+
+Cytogenetic location: 3p25.3   Genomic coordinates (GRCh38) : 3:8,733,802-8,746,758 (from NCBI)
+
+
+Gene-Phenotype Relationships
+Location	PhenotypeView Clinical Synopses	Phenotype
+MIM number	Inheritance	Phenotype
+mapping key
+3p25.3	Cardiomyopathy, familial hypertrophic	192600	AD, DD	3
+Creatine phosphokinase, elevated serum	123320	AD	3
+Long QT syndrome 9	611818	AD	3
+Myopathy, distal, Tateyama type	614321	AD	3
+Rippling muscle disease 2	606072	AD	3
+ 
+
+TEXT
+▼ Description
+Caveolin-3 (M-caveolin) is the muscle-specific form of the caveolin protein family, which also includes caveolin-1 (CAV1; 601047) and caveolin-2 (CAV2; 601048). Caveolins are the principal protein components of caveolae ('little caves'), 50 to 100 nm invaginations found in most cell types which represent appendages or subcompartments of plasma membranes (Minetti et al., 1998). 
+
+Caveolin-3 plays a role in muscle development and physiology. In adult muscle, it is present throughout the T tubule system, but is clustered in subsarcolemmal areas critical for the electrical transmission of the contractile impulse. In the sarcolemma, caveolin-3 belongs to the dystrophin-glycoprotein complex and confers stability to the muscle cell membrane. In addition to these structural roles, caveolin-3 has functional roles in signaling pathways and energy metabolism (review by Gazzerro et al., 2010). 
+
+
+▼ Cloning and Expression
+To identify other putative members of the G protein-associated caveolin gene family, Tang et al. (1996) searched existing databases for genomic sequences related to the protein sequence of caveolin-1. They identified a rat sequence that appeared to encode a novel caveolin-like gene and designed oligonucleotide primers with which to amplify purified rat genomic DNA. They designated the new gene caveolin-3 (CAV3). Rat caveolin-3 is approximately 65% identical and 85% similar to rat caveolin-1. The authors noted that a single stretch of amino acids (FEDVIAEP) is identical in caveolin-1, -2, and -3, and may represent a 'caveolin signature sequence' characteristic of this family. Tang et al. (1996) further characterized the biochemistry, cellular localization, and tissue specificity of caveolin-3. They detected the CAV3 transcript only in rat skeletal muscle, diaphragm, and heart tissues, but noted that CAV3 expression was specific to the endothelial cells surrounding the muscle fibers. Additionally, they observed that a caveolin-3-derived polypeptide conserved in caveolin-1 either suppresses or stimulates the basal GTPase activity of purified heterotrimeric G proteins (see 600239) in a concentration-dependent manner. 
+
+McNally et al. (1998) cloned the CAV3 gene and found that the cDNA encodes an open reading frame of 150 amino acids with 96% homology to the rat and mouse sequences. CAV3 mRNA was expressed exclusively in cardiac and skeletal muscle. 
+
+Minetti et al. (1998) stated that caveolin-3 contains a 20-amino acid scaffolding domain (residues 54 to 73) that is critical for homo-oligomerization and for interaction with several caveolin-associated signaling molecules. A 33-amino acid hydrophobic domain (residues 74 to 106) of caveolin-3, which spans the membrane, is thought to form a hairpin loop within the cell membrane, allowing both the amino- and carboxy-terminal domains to face the cytoplasm. Comparison of caveolins-1, -2, and -3 with caveolins-1 and -2 of Caenorhabditis elegans showed that only 12 amino acid residues are invariant between worms and man. Nixon et al. (2005) noted that CAV3 shares 72% identity with its zebrafish homolog. 
+
+
+▼ Gene Structure
+McNally et al. (1998) determined that the CAV3 gene contains 2 exons. 
+
+
+▼ Mapping
+By fluorescence in situ hybridization, Minetti et al. (1998) and McNally et al. (1998) mapped the CAV3 gene to chromosome 3p25. 
+
+To map the CAV3 gene more precisely, Sotgia et al. (1999) isolated 3 independent BAC clones containing the human CAV3 gene. Using a PCR-based approach, they determined that these clones contained both exons 1 and 2 of the CAV3 gene. In addition, they performed microsatellite marker analysis of these BAC clones, using a panel of 13 markers that are known to map within the 3p25 region. They identified 3 markers within these BAC clones, one of which, D3S18, is a marker for 2 known human diseases, von Hippel-Lindau disease (VHL; 193300) and 3p- syndrome. Two of the markers were known to map in the vicinity of the 3-prime end of the oxytocin receptor gene (OXTR; 167055). Sotgia et al. (1999) showed that these BACs contained all 4 exons of the oxytocin receptor gene, and that the genes encoding CAV3 and OXTR are located approximately 7 to 10 kb apart and are transcribed in opposite orientation. 
+
+
+▼ Gene Function
+McNally et al. (1998) showed that caveolin-3 copurifies with dystrophin (300377) in rat skeletal muscle membrane, suggesting a role in muscular dystrophy. The authors noted, however, that a significant fraction of the caveolin present in the rat skeletal muscle did not copurify with dystrophin, suggesting that caveolin is not associated exclusively with the dystrophin-glycoprotein complex (DGC) in muscle. 
+
+Dysferlin (DYSF; 603009) is a surface membrane protein in skeletal muscle whose deficiency causes distal and proximal, recessively inherited forms of muscular dystrophy designated Miyoshi myopathy (MM; 254130) and limb-girdle muscular dystrophy type 2B (LGMDR2; 253601), respectively. Matsuda et al. (2001) reported that dysferlin coimmunoprecipitates with caveolin-3 from biopsied normal human skeletal muscles. Amino acid sequence analysis of the dysferlin protein revealed 7 sites that correspond to caveolin-3 scaffold-binding motifs, and 1 site that is a potential target to bind the WW domain of the caveolin-3 protein. The authors hypothesized that one function of dysferlin may be to interact with caveolin-3 to subserve signaling functions of caveolae. Abnormal localization of dysferlin was seen in muscles from patients diagnosed with limb-girdle muscular dystrophy type 1C (LGMD1C), reclassified as rippling muscle disease (RMD2; 606072) by Straub et al. (2018), including one with a novel missense mutation in CAV3. 
+
+The 3p- syndrome results from a hemizygous deletion of 3pter-p25 and is characterized by growth retardation, specific craniofacial features (microcephaly, ptosis, micrognathia), mental retardation, and cardiac septal defects (Drumheller et al., 1996). Sotgia et al. (1999) suggested that the CAV3 gene may be deleted in 3p- syndrome. 
+
+
+▼ Molecular Genetics
+Skeletal Muscle Phenotypes
+
+Mutations in the CAV3 gene can cause different skeletal muscle phenotypes, including rippling muscle disease-2 (RMD2; 606072); isolated hyperCKemia (123320); and distal myopathy (MPDT; 614321). A form of limb-girdle muscular dystrophy (LGMD1C) caused by mutation in the CAV3 gene was reclassified by Straub et al. (2018) as RMD2. Many patients show an overlap of these skeletal muscle entities, and some authors have suggested that the caveolinopathies constitute a clinical continuum. Moreover, there are no genotype/phenotype correlations, the same mutation can cause heterogeneous phenotypes, and there is intrafamilial variability. Most of the mutations cause a loss of caveolin-3 in skeletal muscle biopsy (review by Gazzerro et al., 2010). 
+
+In 2 families diagnosed with LGMD1C, Minetti et al. (1998) identified heterozygous mutations in the CAV3 gene: a missense mutation in the membrane-spanning region (P105L; 601253.0001) and a microdeletion in the scaffolding domain (601253.0002). The mutations altered conserved invariant amino acid residues. Minetti et al. (1998) predicted that these mutations may interfere with caveolin-3 oligomerization and disrupt caveolae formation at the muscle cell plasma membrane. 
+
+Among 82 patients with muscular dystrophy of unknown genetic etiology, McNally et al. (1998) identified 1 female with a homozygous missense change in the CAV3 gene (G56S; 601253.0003). A second patient was identified with a heterozygous change on 1 allele (C72W; 601253.0004). Both mutations fall within a cytoplasmic region of caveolin-3 that had been implicated directly in inhibiting activity of neuronal nitric oxide synthase (NOS1; 163731). NOS1 is part of the dystrophin-glycoprotein complex, and its association with the muscle membrane is altered in Duchenne muscular dystrophy (DMD; 310200). Among 100 Brazilian normal control subjects without LGMD, de Paula et al. (2001) found 4 subjects who were heterozygous for the G55S change and 1 subject who was heterozygous for the C72W change. The authors concluded that the G56S and C72W changes are rare polymorphisms and do not cause the abnormal phenotype when present in just one allele. 
+
+Herrmann et al. (2000) reported a 4-year-old girl presenting with myalgia and muscle cramps due to a heterozygous substitution in the caveolin-3 gene (A46T; 601253.0005) that prevented the localization of caveolin-3 to the plasma membrane in a dominant-negative fashion. Similar to dystrophin-deficient Duchenne muscular dystrophy, a secondary decrease in neuronal nitric oxide synthase and alpha-dystroglycan (DAG1; 128239) expression was detected in the caveolin-3-deficient patient. The authors hypothesized common mechanisms in the pathogenesis of dystrophin-glycoprotein complex-associated muscular dystrophies and caveolin-3-deficient limb-girdle muscular dystrophy. 
+
+Carbone et al. (2000) identified a de novo recurrent sporadic mutation in the CAV3 gene (R27Q; 601253.0007) in 2 unrelated children with persistent elevated levels of serum creatine kinase (hyperCKemia; 123320) without muscle weakness. Immunohistochemistry and quantitative immunoblot analysis of caveolin-3 showed reduced expression of the protein in muscle fibers. Carbone et al. (2000) concluded that partial caveolin-3 deficiency should be considered in the differential diagnosis of idiopathic hyperCKemia. 
+
+In 5 families with autosomal dominant rippling muscle disease, Betz et al. (2001) identified 4 missense mutations in the CAV3 gene (see, e.g., 601253.0001). They found that the same mutations in the CAV3 gene can give rise to rippling muscle disease and sporadic hyperCKemia. 
+
+Fulizio et al. (2005) screened 663 patients with various phenotypes of unknown etiology (primarily clinical diagnoses of unclassified limb-girdle muscular dystrophy, hyperCKemia, and proximal myopathy), for caveolin-3 protein deficiency, and identified 8 caveolin-deficient patients from 7 families with CAV3 mutations. Four of the patients had the A46T mutation (601253.0005). The authors noted the wide phenotypic and histologic variations in patients with the same mutation or from the same families, precluding a clear genotype/phenotype correlation. Fulizio et al. (2005) estimated that caveolinopathies represent 1% of both unclassified LGMD and other phenotypes, and demonstrated that caveolin-3 protein deficiencies are a highly sensitive and specific marker of primary caveolinopathy. 
+
+Hypertrophic Cardiomyopathy and Long QT Syndrome
+
+Hayashi et al. (2004) examined the CAV3 gene for mutation in patients with hypertrophic cardiomyopathy (CMH; 192600) or dilated cardiomyopathy. They found a thr64-to-ser mutation (601253.0013) in 2 brothers with hypertrophic cardiomyopathy but not in their mother, who did not show left ventricular hypertrophy. Thus, it was suggested that the mutation had been inherited from their father, but this could not be confirmed since the father, who was also affected with hypertrophic cardiomyopathy, had died suddenly at the age of 41 years. 
+
+Vatta et al. (2006) analyzed the CAV3 gene in 905 unrelated patients with long QT syndrome who had previously been tested for mutations in known LQT genes and identified 4 heterozygous missense mutations in 6 patients (601253.0016-601253.0019, respectively) with LQT9 (611818). The mutations were not found in more than 1,000 control alleles. Electrophysiologic analysis of transiently transfected HEK293 cells stably expressing the cardiac sodium channel demonstrated that the mutant caveolin-3 resulted in a 2- to 3-fold increase in the late sodium current compared with wildtype caveolin-3. One patient had biallelic digenic mutations, with a missense mutation in the LQT2 (613688)-associated KCNH2 gene (152427) as well as in the CAV3 gene (see 601253.0018 and 152427.0024) 
+
+Sudden Infant Death Syndrome
+
+Cronk et al. (2007) analyzed the CAV3 gene in necropsy tissue from 134 unrelated cases of sudden infant death syndrome (SIDS; 272120) and identified 3 missense mutations in 3 of 50 black infants (601253.0018; 601253.0020; and 601253.0021). No mutations were detected in 1 Hispanic or 83 white infants. Voltage-clamp studies demonstrated a gain-of-function phenotype for all 3 CAV3 mutations, with a 5-fold increase in late sodium current compared to controls. 
+
+
+▼ Animal Model
+Hagiwara et al. (2000) developed caveolin-3-deficient mice for use as animal models of caveolinopathy. Caveolin-3 mRNA and its protein were absent in homozygous mutant mice. Muscle degeneration was recognized in soleus muscle at 8 weeks of age and in the diaphragm from 8 to 30 weeks, although there was no difference in growth and movement between wildtype and mutant mice. No apparent muscle degeneration was observed in heterozygous mutant mice, consistent with autosomal recessive transmission of the phenotype. This is in contrast to the dominant-negative acting missense mutations found in human LGMD1C. Note that LGMD1C has been reclassified as RMD2. 
+
+Duchenne muscular dystrophy patients and mdx mice show elevated levels of caveolin-3 expression in skeletal muscle. To investigate whether increased caveolin-3 levels in DMD patients contribute to the pathogenesis of the disorder, Galbiati et al. (2000) overexpressed wildtype caveolin-3 as a transgene in mice. Analysis of skeletal muscle tissue from caveolin-3-overexpressing transgenic mice showed a dramatic increase in the number of sarcolemmal muscle cell caveolae; a preponderance of hypertrophic, necrotic, and immature/regenerating skeletal muscle fibers with characteristic central nuclei; and downregulation of dystrophin and beta-dystroglycan protein expression. In addition, the mice showed elevated serum creatine kinase levels, consistent with the myonecrosis observed morphologically. 
+
+Sunada et al. (2001) generated transgenic mice expressing the pro105-to-leu mutant caveolin-3 (P105L; 601253.0001). Mice showed severe myopathy accompanied by the deficiency of caveolin-3 in the sarcolemma, suggesting a dominant-negative effect of mutant caveolin-3. Caveolin-3 had been shown to interact with neuronal nitric oxide synthase (nNOS; 163731) and inhibit its catalytic activity (Garcia-Cardena et al., 1997). Sunada et al. (2001) found a great increase of nNOS activity in the transgenic skeletal muscle, suggesting a role for nitric oxide synthase in muscle fiber degeneration in caveolin-3 deficiency. 
+
+Aravamudan et al. (2003) showed that Cav3-overexpressing transgenic mice had severe cardiac tissue degeneration, fibrosis, and a reduction in cardiac functions. Dystrophin and its associated glycoproteins were downregulated in Cav3 transgenic hearts. In addition, the activity of nitric oxide synthase was downregulated by high levels of caveolin-3 in the heart. 
+
+Caveolin-3 binds to eNOS (NOS3; 163729) in cardiac myocytes and nNOS in skeletal myocytes. Ohsawa et al. (2004) characterized the biochemical and cardiac parameters of P105L mutant mice, a model of LGMD1C (RMD2). Transgenic mouse hearts demonstrated hypertrophic cardiomyopathy, enhanced basal contractility, decreased left ventricular end diastolic diameter, and loss and cytoplasmic mislocalization of Cav3 protein. Cardiac muscle showed activation of eNOS catalytic activity without increased expression of all NOS isoforms. Ohsawa et al. (2004) suggested that a moderate increase in eNOS activity associated with loss of Cav3 may result in hypertrophic cardiomyopathy. 
+
+Oshikawa et al. (2004) examined the role of Cav3 in insulin signaling in a strain of Cav3 knockout mice originally developed as a model of DMD. They found Cav3 knockout led to the development of insulin resistance, as shown by decreased glucose uptake in skeletal muscles, impaired glucose tolerance, and increased serum lipids. Impairments were augmented in the presence of streptozotocin, a pancreatic beta cell toxin, suggesting that the mice were susceptible to severe diabetes in the presence of an additional risk factor. Insulin-stimulated activation of insulin receptors (INSR; 147670) and downstream molecules, such as Irs1 (147545) and Akt (see AKT1; 164730), was attenuated in the skeletal muscle of Cav3-null mice, but not in liver, without affecting Insr expression or subcellular localization. Cav3 gene transfer restored insulin signaling in skeletal muscles. Oshikawa et al. (2004) concluded that CAV3 is an enhancer of insulin signaling in skeletal muscle but it does not act as a scaffolding molecule for INSR. 
+
+Nixon et al. (2005) showed that in zebrafish embryonic development Cav3 and caveolae were located along the entire sarcolemma of late stage embryonic muscle fibers, whereas beta-dystroglycan (DAG1; 128239) was restricted to the muscle fiber ends. Downregulation of Cav3 expression caused gross muscle abnormalities and uncoordinated movement. Ultrastructural analysis of isolated muscle fibers revealed defects in myoblast fusion and disorganized myofibril and membrane systems. Expression of the zebrafish equivalent to a human muscular dystrophy mutant, CAV3 P105L (601253.0001), caused severe disruption of muscle differentiation. Knockdown of Cav3 resulted in a dramatic upregulation of Eng1a (see EN1; 131290) expression resulting in an increase in the number of muscle pioneer-like cells adjacent to the notochord. Nixon et al. (2005) concluded that Cav3 is essential to muscle development, particularly for correct intracellular organization and myoblast fusion. 
+
+In COS-7 cells, Ohsawa et al. (2006) found that caveolin-3 inhibited signaling of myostatin (MSTN; 601788), a molecule that negatively regulates skeletal muscle volume by direct interaction with and inhibition of the type I myostatin receptors ALK4 (601300) and ALK5 (190181). Doubly transgenic mice with both Cav3 deficiency and myostatin inhibition showed increased numbers and size of myofibers compared to singly Cav3-deficient mice, effectively reversing the muscle atrophy induced by Cav3 deficiency. In addition, intraperitoneal injection of a myostatin inhibitor improved functional muscle weakness in Cav3-deficient mice. Ohsawa et al. (2006) suggested that caveolin-3 normally suppresses myostatin signaling and that hyperactivation of myostatin signaling participates in the pathogenesis of muscular atrophy in this mouse model of LGMD1C (RMD2). 
+
+Kuga et al. (2011) found that Cav3(P104L) accumulated in the Golgi apparatus of transgenic mice and in transfected COS-7 cells. Use of wildtype and hemizygous and homozygous Cav3(P104L) mutant mice revealed a dose-dependent induction of the endoplasmic reticulum stress response by Cav3(P104L), including upregulation of the molecular chaperone Gpr78 (HSPA5; 138120) and a mild apoptotic skeletal muscle phenotype. 
+
+
+▼ ALLELIC VARIANTS ( 21 Selected Examples):
+
+   
+
+.0001 RIPPLING MUSCLE DISEASE 2
+CAV3, PRO105LEU    
+The numbering of this CAV3 mutation is based on the numbering system used by Fulizio et al. (2005). Early reports designated this mutation PRO104LEU. 
+
+In 4 members over 2 generations of an Italian family diagnosed with limb-girdle muscular dystrophy (LGMD1C), which was reclassified by Straub et al. (2018) as rippling muscle disease (RMD2; 606072), Minetti et al. (1998) identified a heterozygous 311C-to-T transition in the CAV3 gene, resulting in a pro104-to-leu (P104L) substitution. 
+
+In family A with rippling muscle disease described by Ricker et al. (1989), Betz et al. (2001) identified the P105L mutation. 
+
+Variant Function
+
+Galbiati et al. (1999) stated that P104 resides in the membrane-spanning domain of CAV3. They found that rat Cav3 with the P104L mutation was excluded from caveolae-enriched membranes, accumulated in the Golgi apparatus, and formed oligomers of much larger size than wildtype Cav3. Mutant Cav3 behaved in a dominant-negative fashion, causing retention of wildtype Cav3 in the Golgi. 
+
+
+.0002 RIPPLING MUSCLE DISEASE 2
+CAV3, 9-BP DEL, NT186     
+Minetti et al. (1998) demonstrated that 4 affected members in 3 generations of an Italian family diagnosed with autosomal dominant limb-girdle muscular dystrophy (LGMD1C), which was reclassified by Straub et al. (2018) as rippling muscle disease (RMD2; 606072), had a 9-bp deletion beginning at nucleotide 186 of the CAV3 gene, which resulted in the loss of 3 amino acids (residues 63-65) without changing the open reading frame. 
+
+Variant Function
+
+Galbiati et al. (1999) stated that the residues lost in this deletion (TFT) reside within the caveolin scaffolding domain. They found that rat Cav3 with the TFT deletion was excluded from caveolae-enriched membranes, accumulated in the Golgi apparatus, and formed oligomers of much larger size than wildtype Cav3. Mutant Cav3 behaved in a dominant-negative fashion, causing retention of wildtype Cav3 in the Golgi. 
+
+
+.0003 RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+CAV3, GLY56SER    
+This variant, formerly titled MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1C, AUTOSOMAL RECESSIVE, has been reclassified as a variant of unknown significance based on the findings by de Paula et al. (2001) and Hamosh (2018). Note that limb-girdle muscular dystrophy (LGMD1C) was reclassified by Straub et al. (2018) as rippling muscle disease (RMD2; 606072). 
+
+The numbering of this CAV3 mutation (G56S) is based on the numbering system used by Fulizio et al. (2005). Early reports designated this mutation GLY55SER. 
+
+McNally et al. (1998) found homozygosity for a gly55-to-ser change (G55S) in 1 of 82 patients with muscular dystrophy screened for mutations in the CAV3 gene. This patient was the only affected member of her family, and developed proximal muscle weakness in the first decade. The mutation was not identified in 200 control chromosomes. Expression of dystrophin, the sarcoglycans, and caveolin-3 was grossly normal in a skeletal muscle biopsy from the patient, and the authors suggested that the G55S change may not alter the intracellular location of the protein, yet may interfere with the normal function of the protein in the membrane. 
+
+Among 61 Brazilian patients diagnosed with LGMD, de Paula et al. (2001) identified 2 patients with a heterozygous G55S mutation. Both patients had onset in adulthood, calf hypertrophy, elevated creatine kinase, and difficulty walking. Muscle protein analyses from both patients were normal. Screening of 200 normal Brazilian chromosomes revealed heterozygosity for the G55S change in 4 subjects and for a C71W change (601253.0004) in 1 subject. The authors concluded that the G55S and C71W changes are rare polymorphisms and do not cause the abnormal phenotype when present in just one allele. The abnormal phenotype in the 2 patients is likely caused by mutation in another LGMD gene. 
+
+Hamosh (2018) found that the G55S variant was present in heterozygous state in 3,142 of 277,064 alleles and in 184 homozygotes in the gnomAD database (January 24, 2018), calling into question the pathogenicity of the variant.
+
+
+.0004 RIPPLING MUSCLE DISEASE 2
+CAV3, CYS72TRP    
+The numbering of this CAV3 mutation (C72W) is based on the numbering system used by Fulizio et al. (2005). Early reports designated this mutation CYS71TRP. 
+
+In 1 of 82 patients with muscular dystrophy (see RMD2; 606072), McNally et al. (1998) identified a heterozygous C-to-G change in the CAV3 gene, resulting in a cys71-to-trp (C71W) substitution. The patient had progressive proximal muscle weakness beginning in the first decade, but remained ambulatory in the mid-second decade. Her mother and 2 siblings had the identical missense change, but did not have symptoms of muscular dystrophy, suggesting that a single abnormal allele is not sufficient to cause the phenotype and that the likely inheritance is autosomal recessive. The authors were unable to determine the nature of the second allele in the proband. The mutation was not identified in 200 control chromosomes. McNally (1998) suspected that the phenotype was the result of either loss-of-function mutations or dominant-negative mutations; she doubted that haploinsufficiency leads to the disease. The family was lost to follow-up. 
+
+Among 100 normal Brazilian control subjects, de Paula et al. (2001) identified heterozygosity for the C71W change in 1 subject. They concluded that C71W is a rare polymorphism that does not cause an abnormal phenotype when present in just one allele. 
+
+
+.0005 RIPPLING MUSCLE DISEASE 2
+CREATINE PHOSPHOKINASE, ELEVATED SERUM, INCLUDED
+CAV3, ALA46THR    
+The numbering of this CAV3 mutation (A46T) is based on the numbering system used by Fulizio et al. (2005). Early reports designated this mutation ALA45THR. 
+
+In a 4-year-old girl presenting with myalgia and muscle cramps diagnosed as limb-girdle muscular dystrophy (LGMD1C), which was reclassified by Straub et al. (2018) as rippling muscle disease (RMD2; 606072), Herrmann et al. (2000) identified a heterozygous 136G-to-A change, resulting in an ala46-to-thr substitution. The mutation prevented the localization of caveolin-3 to the plasma membrane in a dominant-negative fashion. 
+
+In 2 unrelated families with rippling muscle disease from Germany, reported by Vorgerd et al. (1999), and the first-described RMD family from Norway, reported by Torbergsen (1975), Betz et al. (2001) identified a heterozygous mutation in the CAV3 gene, resulting in an ala45-to-thr substitution (A45T). A muscle biopsy from a patient carrying the mutation showed decreased surface expression of the caveolin-3 protein. 
+
+Fulizio et al. (2005) identified the A46T mutation in 4 unrelated patients with decreased caveolin-3 on muscle biopsy. Three patients had myalgia and/or mild proximal muscle weakness, whereas 1 was diagnosed with LGMD1C. Three of the patients had a positive family history of muscle-related disorders. The father and 2 paternal uncles of 1 patient with mild muscle weakness were reportedly asymptomatic with elevated serum creatine kinase (123320). Skeletal muscle caveolin-3 protein in the 4 probands ranged from less than 5 to 10%. 
+
+
+.0006 RIPPLING MUSCLE DISEASE 2
+CAV3, ALA46VAL    
+The numbering of this CAV3 mutation (A46V) is based on the numbering system used by Fulizio et al. (2005). Early reports designated this mutation ALA45VAL. 
+
+In family B with rippling muscle disease (RMD2; 606072) described by Ricker et al. (1989), Betz et al. (2001) identified a mutation in the CAV3 gene, resulting in an ala45-to-val (A45V) substitution. 
+
+
+.0007 RIPPLING MUSCLE DISEASE 2
+CREATINE PHOSPHOKINASE, ELEVATED SERUM, INCLUDED
+MYOPATHY, DISTAL, TATEYAMA TYPE, INCLUDED
+CAV3, ARG27GLN    
+The numbering of this CAV3 mutation (R27Q) is based on the numbering system used by Fulizio et al. (2005). Early reports designated this mutation ARG26GLN. 
+
+In kindred B with autosomal dominant rippling muscle disease (RMD2; 606072) described by Vorgerd et al. (1999), Betz et al. (2001) identified an arg26-to-gln (R26Q) substitution in the CAV3 gene. 
+
+In a patient with sporadic rippling muscle disease, Vorgerd et al. (2001) identified a heterozygous R26Q mutation in exon 1 of the CAV3 gene, which was not found in either parent. Muscle biopsy of the patient showed reduced sarcolemmal caveolin-3 with punctated cytosolic staining, consistent with intracellular retention of an unstable protein. Neuronal nitric oxide synthase (nNOS) expression was normal. Vorgerd et al. (2001) suggested that increased inducibility of nNOS, caused by lack of inhibition by normal caveolin, may contribute to muscle hyperexcitability in rippling muscle disease. 
+
+In a 71-year-old woman with a diagnosis of limb-girdle muscular dystrophy (LGMD1C), which was reclassified by Straub et al. (2018) as rippling muscle disease (RMD2; 606072), Figarella-Branger et al. (2003) identified a heterozygous R26Q mutation, which they referred to as ARG27GLN. Muscle biopsy showed fibers of various sizes, centrally located nuclei, occasional necrotic and regenerative fibers, decreased dysferlin immunoreactivity, and near absence of caveolin-3. Although this was a late presentation, the authors could not rule out a very slow but myopathic evolution of a putative hyperCKemia in infancy. Figarella-Branger et al. (2003) emphasized the heterogeneous clinical phenotypes that had been reported in association with this CAV3 mutation. 
+
+Carbone et al. (2000) identified a de novo recurrent sporadic mutation, R26Q, in the CAV3 gene in 2 unrelated children with persistent elevated levels of serum creatine kinase (hyperCKemia; 123320) without muscle weakness. Immunohistochemistry and quantitative immunoblot analysis of caveolin-3 showed reduced expression of the protein in muscle fibers. Carbone et al. (2000) concluded that partial caveolin-3 deficiency should be considered in the differential diagnosis of idiopathic hyperCKemia. 
+
+In a Japanese woman with a relatively mild nonspecific sporadic distal myopathy (MPDT; 614321), Tateyama et al. (2002) identified the R26Q mutation. Muscle atrophy and weakness was limited to the small muscles of the hands and feet. She also showed increased creatine kinase, myopathic changes on biopsy and EMG, and decreased caveolin-3 and dysferlin (603009) immunoreactivity. Tateyama et al. (2002) noted the unusual clinical phenotype of the patient. 
+
+Gonzalez-Perez et al. (2009) identified the R27Q mutation in a Spanish family with autosomal dominant inheritance of distal myopathy and increased serum creatine kinase. The proband was a 77-year-old man who had onset in his mid-forties of distal muscle weakness and atrophy, particularly affecting the thenar and hypothenar muscles in both hands, as well as the intrinsic finger muscles. Other features included calf hypertrophy, pes cavus, and percussion-induced rapid contractions, predominantly in distal muscles of upper limbs. He had 4 affected sons, 3 of whom presented in their twenties with increased serum creatine kinase, calf hypertrophy, and pes cavus; 1 had percussion-induced rapid contractions. All later developed distal muscle weakness and atrophy affecting the hands. The fourth son, aged 33 years, had increased serum creatine kinase and pes cavus, but no evidence of motor deficit. Two granddaughters of the proband had pes cavus and increased serum creatine kinase, but no motor deficit. One had percussion-induced rapid contractions and the other had myalgias. Muscle biopsy of the proband showed slight variation in fiber size and increased number of internal nuclei, but no dystrophic changes. Caveolin-3 expression was greatly reduced in the sarcolemma, and there was a moderate reduction of dysferlin immunolabeling. Electron microscopy revealed focal loss of sarcolemma, abnormal sarcolemmal folding, absence of normal caveolae, and enlarged subsarcolemmal space with large vacuoles. Gonzalez-Perez et al. (2009) noted the variable phenotypic features in this family. 
+
+
+.0008 RIPPLING MUSCLE DISEASE 2
+CAV3, ASP28GLU    
+The numbering of this CAV3 mutation (D28E) is based on the numbering system used by Fulizio et al. (2005). Early reports designated this mutation ASP27GLU. 
+
+In 9 affected members of a large German family with autosomal dominant rippling muscle disease (RMD2; 606072), Fischer et al. (2003) identified a heterozygous C-A change in exon 1 of the CAV3 gene, resulting in an asp27-to-glu (D27E) substitution within the N terminus of the protein. The mutation was not detected in 10 unaffected family members or in 200 normal control chromosomes. Five of the 9 patients had additional signs of a distal myopathy with ankle and hand weakness and atrophy. Two other patients had predominantly proximal muscle weakness and were diagnosed with limb-girdle muscular dystrophy (LGMD1C), which was reclassified by Straub et al. (2018) as rippling muscle disease. The 2 youngest patients showed only isolated signs of rippling muscle disease without muscle weakness or atrophy. Immunohistochemical and Western blot analysis showed a severe reduction of CAV3 protein expression in skeletal muscle from the index patient, supporting a dominant-negative effect of the mutation. The authors commented on the marked intrafamilial clinical variability caused by the mutation. 
+
+
+.0009 RIPPLING MUSCLE DISEASE 2
+CAV3, LEU87PRO    
+The numbering of this CAV3 mutation (L87P) is based on the numbering system used by Fulizio et al. (2005). Early reports designated this mutation LEU86PRO. 
+
+In a Colombian patient with severe rippling muscle disease (RMD2; 606072), Kubisch et al. (2003) identified a homozygous 215T-C transition in the CAV3 gene, resulting in a leu86-to-pro substitution (L86P) in the membrane-associated domain of the protein. The patient had muscle stiffness in his legs since the age of 3 years and contractures of the Achilles tendon leading to gait disturbances. At age 20, he had elevated creatine kinase levels, hypertrophic skeletal muscles, and generalized rapid muscle contractions. Muscle biopsy showed almost complete loss of caveolin-3 expression and reduced dysferlin (603009). The patient did not have family members available for further study, so it could not be determined if the mutation represented autosomal recessive RMD. Kubisch et al. (2003) noted that the patient was more severely clinically affected than those with heterozygous mutations and suggested that caveolinopathies are part of a clinical continuum. 
+
+
+.0010 RIPPLING MUSCLE DISEASE 2, AUTOSOMAL RECESSIVE
+CAV3, ALA93THR    
+The numbering of this CAV3 mutation (A93T) is based on the numbering system used by Fulizio et al. (2005). Early reports designated this mutation ALA92THR. 
+
+In an Italian patient with severe rippling muscle disease (RMD2; 606072), Kubisch et al. (2003) identified a homozygous 232G-A transition in the CAV3 gene, resulting in an ala92-to-thr substitution (A92T) in the membrane-associated domain of the protein. The patient had slowly progressive muscle weakness beginning in early adulthood, elevated creatine kinase, and rapid muscle contractions. Muscle biopsy showed almost complete loss of caveolin-3 expression and reduced dysferlin (603009). Kubisch et al. (2003) noted that the patient was more severely clinically affected than those with heterozygous mutations and suggested that caveolinopathies are part of a clinical continuum. 
+
+Kubisch et al. (2005) identified homozygosity for the A92T mutation in 2 German sibs with childhood-onset of rippling muscle disease. Both unaffected parents were heterozygous for the mutation. The findings indicated that there is a form of autosomal recessive RMD in which heterozygous carriers do not manifest the disease. Haplotype analysis indicated that the mutation arose independently from the mutation observed in the Italian patient reported by Kubisch et al. (2003), suggesting that A92T is a mutation hotspot. 
+
+
+.0011 CREATINE PHOSPHOKINASE, ELEVATED SERUM
+RIPPLING MUSCLE DISEASE 2, INCLUDED
+CAV3, 3-BP DEL, PHE98DEL     
+The numbering of this CAV3 mutation is based on the numbering system used by Fulizio et al. (2005). Early reports designated this mutation PHE97DEL. 
+
+Cagliani et al. (2003) reported a multigenerational Italian family with deletion of nucleotides 328-330 in the CAV3 gene, resulting in deletion of phenylalanine at codon 97. All members with the mutation had elevated serum creatine kinase (123320), but there was remarkable intrafamilial variation in other features, including rippling muscle disease (RMD2; 606072), proximal limb weakness, distal limb weakness, and what was considered to be a more severe limb-girdle muscular dystrophy (LGMD1C), which was reclassified by Straub et al. (2018) as rippling muscle disease. Muscle biopsy of 3 affected patients showed myopathic changes and a deficiency of caveolin-3 by immunostaining and Western blot analysis. A heart biopsy in 1 patient showed that caveolin-3 was present at approximately 60% of the normal level. Cagliani et al. (2003) noted that the findings provided an explanation of why heart involvement is not a feature of caveolinopathies, and suggested that the molecular network acting with caveolin-3 in skeletal muscle and heart may differ. 
+
+
+.0012 CREATINE PHOSPHOKINASE, ELEVATED SERUM
+CAV3, PRO29LEU    
+The numbering of this CAV3 mutation (P29L) is based on the numbering system used by Fulizio et al. (2005). Early reports designated this mutation PRO28LEU. 
+
+In an 18-year-old man and his mother with isolated persistent hyperCKemia (123320), Merlini et al. (2002) identified a heterozygous 83C-T transition in exon 1 of the CAV3 gene, resulting in a pro28-to-leu (P28L) substitution. Muscle biopsy showed partial CAV3 deficiency, but neither patient had any signs or symptoms of myopathy. The mutation was not found in 50 patients with different myopathies or in 100 normal controls. 
+
+
+.0013 CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC
+CAV3, THR64SER     
+The numbering of this CAV3 mutation (T64S) is based on the numbering system used by Fulizio et al. (2005). Early reports designated this mutation THR63SER. 
+
+In 2 Japanese brothers with hypertrophic cardiomyopathy (CMH1; 192600) whose father had hypertrophic cardiomyopathy and had died suddenly at the age of 41 years, Hayashi et al. (2004) identified a thr63-to-ser (T63S) mutation in the CAV3 gene. The threonine at codon 63 is evolutionarily conserved in the scaffolding domain of caveolin-3. Two mutations involving codon 63 had earlier been reported, T63P and deletion of 3 amino acids at positions 63-65 (601253.0002), in patients diagnosed with LGMD1C. Hayashi et al. (2004) stated that the clinical findings of the index patient with the T63S mutation was mild. At the age of 16, he showed marginal concentric left ventricular hypertrophy and his left ventricular end-diastolic pressure was high in catheterization studies. His electrocardiogram showed high voltage. After 9 years' follow-up, left ventricular wall thickness was not changed markedly, but dilatation of the left ventricular and systolic dimension were increased. Similar phenotypes were found in his brother. Both of them as well as their father had no symptoms of skeletal muscle disorder and no elevation of serum creatine kinase, suggesting that they were not affected with LGMD, rippling muscle disease, or hyperCKemia. 
+
+
+.0014 MYOPATHY, DISTAL, TATEYAMA TYPE
+CAV3, ASN33LYS    
+In a mother and daughter with distal myopathy and absence of caveolin-3 protein (MPDT; 614321) on skeletal muscle biopsy, Fulizio et al. (2005) identified a heterozygous 99C-G transversion in exon 1 of the CAV3 gene, resulting in an asn33-to-lys (N33K) substitution in the N-terminal domain of the protein. Ages at onset were 30 and 27 years, respectively. 
+
+
+.0015 RIPPLING MUSCLE DISEASE 2
+CAV3, GLU47LYS    
+The numbering of this CAV3 mutation (E47K) is based on the numbering system used by Fulizio et al. (2005). Other reports designated this mutation GLU46LYS. 
+
+In a father and son with rippling muscle disease (RMD2; 606072), Madrid et al. (2005) identified a heterozygous 136G-A transition in exon 2 of the CAV3 gene, resulting in a glu46-to-lys (E46K) substitution. Muscle biopsy from the father showed absence of caveolin-3 immunostaining. Unusual features in both these patients included congenital pes equinus deformity and early toe walking, which resolved after orthopedic surgical correction. In addition, the father had nonprogressive mild proximal muscle weakness, and the son demonstrated percussion-induced rapid contractions of the thenar muscles without overt rippling of other muscles. 
+
+
+.0016 LONG QT SYNDROME 9
+CAV3, SER141ARG    
+The numbering of this CAV3 mutation is based on the numbering system used by Fulizio et al. (2005). 
+
+In a 16-year-old white male with nonexertional dyspnea and a QTc of 480 ms (LQT9; 611818) who was negative for mutations in known LQT genes, Vatta et al. (2006) identified heterozygosity for a de novo 423C-G transversion in the CAV3 gene, resulting in a ser141-to-arg (S141R) substitution at a conserved residue in the functional C-terminal domain. Consistent with his negative family history and normal screening ECGs among first-degree relatives, genetic testing confirmed that neither parent carried the mutation, which was also not found in more than 1,000 control alleles. Functional studies demonstrated that S141R-mutant caveolin-3 resulted in a 2- to 3-fold increase in late sodium current compared to wildtype. 
+
+
+.0017 LONG QT SYNDROME 9, ACQUIRED, SUSCEPTIBILITY TO
+CAV3, PHE97CYS    
+The numbering of this CAV3 mutation is based on the numbering system used by Fulizio et al. (2005). 
+
+In a 13-year-old asthmatic girl with long QT syndrome (LQT9; 611818) who was negative for mutations in known LQT genes, Vatta et al. (2006) identified heterozygosity for a de novo 290T-G transversion in the CAV3 gene, resulting in a phe97-to-cys (F97C) substitution at a highly conserved residue in the transmembrane domain. The patient presented with shortness of breath and chest pain; ECG showed marked QT prolongation with a QTc of 532 ms, which was present only, but reproducibly, on beta-agonist inhaler therapy for her asthma. The family history was unremarkable, and screening ECGs in all first-degree relatives showed normal QTc. The mutation was not found in either of her parents or in more than 1,000 control alleles. Functional studies demonstrated that F97C-mutant caveolin-3 resulted in a 2- to 3-fold increase in late sodium current compared to wildtype. 
+
+
+.0018 LONG QT SYNDROME 9
+LONG QT SYNDROME 2/9, DIGENIC, INCLUDED
+CAV3, THR78MET    
+The numbering of this CAV3 mutation is based on the numbering system used by Fulizio et al. (2005). 
+
+In 3 unrelated individuals with long QT syndrome (LQT9; 611818), Vatta et al. (2006) identified heterozygosity for a 233C-T transition in the CAV3 gene, resulting in a thr78-to-met (T78M) substitution at a highly conserved residue. All 3 patients had a positive family history, but family members declined further genotyping. One patient had biallelic digenic mutations: she was a 14-year-old girl with nonexertional syncope and a 'seizure-like' presentation, who had U waves, sinus bradycardia, and a QTc of 405 ms on ECG, and was found to carry a A913V mutation in the LQT2-associated KCNH2 gene (152427.0024) as well as the T78M mutation. The other 2 patients, who were negative for mutations in other known LQTS genes, were an 8-year-old boy with nonexertional syncope and marked sinus bradycardia with a QTc of 433 ms and an asymptomatic 40-year-old male who had a QTc of 456 ms. The T78M mutation was not found in more than 1,000 control alleles. 
+
+In frozen necropsy tissue from a 2-month-old black female infant who died of sudden infant death syndrome (SIDS; 272120), Cronk et al. (2007) identified the T78M mutation in the CAV3 gene. Voltage-clamp studies in HEK293 cells demonstrated that the mutant caused a 5-fold increase in late sodium current compared to wildtype. The mutation was not found in 400 reference alleles, of which 200 were ethnically matched. 
+
+
+.0019 LONG QT SYNDROME 9
+CAV3, ALA85THR    
+The numbering of this CAV3 mutation is based on the numbering system used by Fulizio et al. (2005). 
+
+In a 36-year-old female who suffered a cardiac arrest while sleeping (LQT9; 611818), Vatta et al. (2006) identified heterozygosity for a 253G-A transition in the CAV3 gene, resulting in an ala85-to-thr (A85T) substitution at a conserved residue. The mutation was not found in more than 1,000 control alleles. 
+
+
+.0020 LONG QT SYNDROME 9
+CAV3, VAL14LEU    
+The numbering of this CAV3 mutation is based on the numbering system used by Fulizio et al. (2005). 
+
+In frozen necropsy tissue from a 6-month-old black male infant who died of sudden infant death syndrome (SIDS; 272120), Cronk et al. (2007) identified a 40G-C transversion in the CAV3 gene, resulting in a val14-to-leu (V14L) substitution at a highly conserved residue. Voltage-clamp studies in HEK293 cells demonstrated that the mutant caused a 5-fold increase in late sodium current compared to wildtype. The mutation was not found in 400 reference alleles, of which 200 were ethnically matched. 
+
+
+.0021 LONG QT SYNDROME 9
+CAV3, LEU79ARG    
+The numbering of this CAV3 mutation is based on the numbering system used by Fulizio et al. (2005). 
+
+In frozen necropsy tissue from an 8-month-old black female infant who died of sudden infant death syndrome (SIDS; 272120), Cronk et al. (2007) identified a 236T-G transversion in the CAV3 gene, resulting in a leu79-to-arg (L79R) substitution at a highly conserved residue. Voltage-clamp studies in HEK293 cells demonstrated that the mutant caused a 5-fold increase in late sodium current compared to wildtype. The mutation was not found in 400 reference alleles, of which 200 were ethnically matched. 
+
+-----------------------------------------------------------
+##ORPHANET##
+-----------------------------------------------------------
+CAV3 - caveolin 3
+Synonym(s): LGMD1C, LQT9, M-caveolin, VIP-21, VIP21
+
+Previous symbol(s) and name(s):
+
+Type: gene with protein product
+
+Chromosomal location: 3p25.3
+
+OMIM: 601253
+
+HGNC: 1529
+
+UniProtKB: P56539
+
+Genatlas: CAV3
+
+GenCC: CAV3
+
+ClinVar: CAV3
+
+Ensembl: ENSG00000182533
+
+Reactome: P56539
+
+LOVD: CAV3
+
+Diseases List
+ Disease-causing germline mutation(s) in Distal myopathy, Tateyama type ORPHA:488650
+ Disease-causing germline mutation(s) in Isolated asymptomatic elevation of creatine phosphokinase ORPHA:206599
+ Disease-causing germline mutation(s) in Rippling muscle disease ORPHA:97238
+ Disease-causing germline mutation(s) (gain of function) in Romano-Ward syndrome ORPHA:101016
+
+-----------------------------------------------------------
+##GENEREVIEWS [SUMMARY]##
+-----------------------------------------------------------

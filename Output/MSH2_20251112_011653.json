@@ -1,0 +1,69 @@
+{
+  "gene": "MSH2",
+  "phenotype_entities": [
+    {"name": "Lynch syndrome 1", "source_mentions": ["OMIM", "GENEREVIEWS", "ORPHANET"]},
+    {"name": "Muir-Torre syndrome", "source_mentions": ["OMIM"]},
+    {"name": "Mismatch repair cancer syndrome 2", "source_mentions": ["OMIM"]},
+    {"name": "Constitutional mismatch repair deficiency syndrome", "source_mentions": ["ORPHANET"]},
+    {"name": "Lynch syndrome", "source_mentions": ["GENEREVIEWS", "ORPHANET"]}
+  ],
+  "criteria_reasoning": {
+    "assertions_made": {
+      "verdict": "Multiple entities",
+      "justification": "OMIM lists Lynch syndrome 1, Muir-Torre syndrome, and Mismatch repair cancer syndrome 2 as separate entities. GeneReviews treats Muir-Torre features within the Lynch syndrome spectrum, while Orphanet lists Lynch syndrome and Constitutional mismatch repair deficiency syndrome as distinct diseases."
+    },
+    "molecular_mechanism": {
+      "verdict": "Distinct",
+      "justification": "Lynch syndrome (including Muir-Torre features) results from heterozygous loss-of-function in MSH2 (autosomal dominant). Constitutional mismatch repair deficiency/MMRCS2 results from biallelic pathogenic variants causing a severe childhood-onset phenotype (autosomal recessive)."
+    },
+    "phenotypic_variability": {
+      "verdict": "Variable expressivity",
+      "justification": "Muir-Torre manifestations (sebaceous neoplasms) are presented as part of the Lynch spectrum and are enriched in some MSH2 families, indicating intrafamilial/interfamilial variability. In contrast, the AR condition shows a clearly different, childhood-onset tumor spectrum, supporting separation from AD Lynch syndrome."
+    },
+    "mode_of_inheritance": {
+      "verdict": "Different",
+      "justification": "Lynch syndrome is autosomal dominant due to heterozygous MSH2 pathogenic variants. Constitutional mismatch repair deficiency/MMRCS2 is autosomal recessive with biallelic variants and markedly different clinical course and management."
+    }
+  },
+  "entity_decisions": [
+    {"name": "Lynch syndrome 1", "decision": "LUMP", "confidence": 0.9},
+    {"name": "Muir-Torre syndrome", "decision": "LUMP", "confidence": 0.9},
+    {"name": "Lynch syndrome", "decision": "LUMP", "confidence": 0.9},
+    {"name": "Mismatch repair cancer syndrome 2", "decision": "LUMP", "confidence": 0.9},
+    {"name": "Constitutional mismatch repair deficiency syndrome", "decision": "LUMP", "confidence": 0.9}
+  ],
+  "proposed_groupings": [
+    {
+      "group_id": 1,
+      "entities": ["Lynch syndrome 1", "Muir-Torre syndrome", "Lynch syndrome"],
+      "proposed_label": "Lynch syndrome",
+      "mode_of_inheritance": "Autosomal dominant",
+      "criteria_met": ["assertions", "phenotypic_variability", "mode_of_inheritance"],
+      "reasoning": "GeneReviews includes sebaceous tumors and glioblastoma within Lynch syndrome; OMIM shows Muir-Torre largely due to heterozygous MSH2 variants. Same mechanism (heterozygous LoF) and AD inheritance with variable expressivity support lumping.",
+      "decision": "LUMP"
+    },
+    {
+      "group_id": 2,
+      "entities": ["Mismatch repair cancer syndrome 2", "Constitutional mismatch repair deficiency syndrome"],
+      "proposed_label": "Constitutional mismatch repair deficiency syndrome",
+      "mode_of_inheritance": "Autosomal recessive",
+      "criteria_met": ["assertions", "mode_of_inheritance", "molecular_mechanism"],
+      "reasoning": "OMIM MMRCS2 and Orphanet CMMRD describe the same AR, biallelic MSH2 loss-of-function disorder with early-onset malignancies; these should be unified under a single AR entity.",
+      "decision": "LUMP"
+    }
+  ],
+  "overall_decision": {
+    "verdict": "SPLIT",
+    "summary_reasoning": "Evidence supports two distinct germline disease entities for MSH2: an autosomal dominant Lynch syndrome spectrum (including Muir-Torre features) and an autosomal recessive constitutional mismatch repair deficiency/MMRCS2. They differ in inheritance, age of onset, and clinical management, while variability within the AD spectrum explains Muir-Torre as part of Lynch syndrome.",
+    "confidence": 0.95
+  },
+  "top_supporting_evidence": [
+    "OMIM: Gene-Phenotype table lists 'Lynch syndrome 1 (AD)', 'Muir-Torre syndrome (AD)', and 'Mismatch repair cancer syndrome 2 (AR)'.",
+    "GeneReviews: 'Lynch syndrome is characterized by an increased risk for colorectal cancer ... brain (usually glioblastoma), skin (sebaceous adenomas, sebaceous carcinomas, and keratoacanthomas)...' indicating Muir-Torre features within LS.",
+    "Orphanet: Diseases List shows 'Disease-causing germline mutation(s) in Lynch syndrome' and 'Disease-causing germline mutation(s) in Constitutional mismatch repair deficiency syndrome' as separate conditions for MSH2."
+  ],
+  "suggested_action_for_curator": [
+    "Confirm that Muir-Torre manifestations are captured under the curated Lynch syndrome entity label for MSH2.",
+    "Ensure the AR biallelic condition is curated separately under 'Constitutional mismatch repair deficiency syndrome' and not merged with the AD Lynch syndrome spectrum."
+  ]
+}

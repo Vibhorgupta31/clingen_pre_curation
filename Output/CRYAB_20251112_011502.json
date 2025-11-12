@@ -1,0 +1,97 @@
+{
+  "gene": "CRYAB",
+  "phenotype_entities": [
+    {"name": "Cataract 16, multiple types", "source_mentions": ["OMIM"]},
+    {"name": "Myopathy, myofibrillar, 2A, adult-onset", "source_mentions": ["OMIM"]},
+    {"name": "Myopathy, myofibrillar, 2B, infantile-onset", "source_mentions": ["OMIM"]},
+    {"name": "Cardiomyopathy, dilated, 1II", "source_mentions": ["OMIM"]},
+    {"name": "Early-onset nuclear cataract", "source_mentions": ["ORPHANET"]},
+    {"name": "Early-onset posterior polar cataract", "source_mentions": ["ORPHANET"]},
+    {"name": "Early-onset lamellar cataract", "source_mentions": ["ORPHANET"]},
+    {"name": "Familial isolated dilated cardiomyopathy", "source_mentions": ["ORPHANET"]},
+    {"name": "Alpha-B crystallin-related late-onset myopathy", "source_mentions": ["ORPHANET"]},
+    {"name": "Fatal infantile hypertonic myofibrillar myopathy", "source_mentions": ["ORPHANET"]}
+  ],
+  "criteria_reasoning": {
+    "assertions_made": {
+      "verdict": "Multiple entities",
+      "justification": "OMIM lists distinct entries for cataract (CTRCT16), adult-onset myofibrillar myopathy (MFM2A), infantile myofibrillar myopathy (MFM2B), and dilated cardiomyopathy (CMD1II). Orphanet likewise lists separate disease entities, including isolated DCM, late-onset myopathy, fatal infantile myopathy, and specific cataract subtypes."
+    },
+    "molecular_mechanism": {
+      "verdict": "Distinct",
+      "justification": "Adult-onset myopathy and some cataracts are associated with heterozygous missense/truncating variants with dominant-negative/aggregation effects. The infantile myopathy is due to a homozygous early truncating variant with loss of function and absent protein staining, indicating a different mechanism."
+    },
+    "phenotypic_variability": {
+      "verdict": "Distinct phenotypes",
+      "justification": "Adult-onset myofibrillar myopathy can be accompanied by cardiomyopathy and cataract, whereas the infantile myopathy is a rapidly fatal hypertonic presentation with onset in the first weeks of life. Orphanet and OMIM also distinguish isolated DCM and multiple cataract morphologies without systemic involvement."
+    },
+    "mode_of_inheritance": {
+      "verdict": "Different",
+      "justification": "Adult-onset myopathy and DCM are autosomal dominant, while the infantile hypertonic myofibrillar myopathy is autosomal recessive. Cataract 16 includes both AD and AR forms, but they present with similar lens-only phenotypes."
+    }
+  },
+  "entity_decisions": [
+    {"name": "Cataract 16, multiple types", "decision": "LUMP", "confidence": 0.8},
+    {"name": "Myopathy, myofibrillar, 2A, adult-onset", "decision": "SPLIT", "confidence": 0.9},
+    {"name": "Myopathy, myofibrillar, 2B, infantile-onset", "decision": "SPLIT", "confidence": 0.95},
+    {"name": "Cardiomyopathy, dilated, 1II", "decision": "SPLIT", "confidence": 0.8},
+    {"name": "Early-onset nuclear cataract", "decision": "LUMP", "confidence": 0.8},
+    {"name": "Early-onset posterior polar cataract", "decision": "LUMP", "confidence": 0.8},
+    {"name": "Early-onset lamellar cataract", "decision": "LUMP", "confidence": 0.8},
+    {"name": "Familial isolated dilated cardiomyopathy", "decision": "LUMP", "confidence": 0.8},
+    {"name": "Alpha-B crystallin-related late-onset myopathy", "decision": "LUMP", "confidence": 0.9},
+    {"name": "Fatal infantile hypertonic myofibrillar myopathy", "decision": "LUMP", "confidence": 0.95}
+  ],
+  "proposed_groupings": [
+    {
+      "group_id": 1,
+      "entities": ["Cataract 16, multiple types", "Early-onset nuclear cataract", "Early-onset posterior polar cataract", "Early-onset lamellar cataract"],
+      "proposed_label": "Cataract 16, multiple types",
+      "mode_of_inheritance": "Unknown/unclear",
+      "criteria_met": ["assertions_made", "phenotypic_variability"],
+      "reasoning": "OMIM consolidates multiple cataract morphologies under CTRCT16 and Orphanet lists specific early-onset cataract subtypes; these represent lens-only disease with overlapping mechanisms and presentation.",
+      "decision": "LUMP"
+    },
+    {
+      "group_id": 2,
+      "entities": ["Myopathy, myofibrillar, 2A, adult-onset", "Alpha-B crystallin-related late-onset myopathy"],
+      "proposed_label": "Myopathy, myofibrillar, 2A, adult-onset",
+      "mode_of_inheritance": "Autosomal dominant",
+      "criteria_met": ["assertions_made", "mode_of_inheritance"],
+      "reasoning": "OMIM and Orphanet describe the same adult-onset CRYAB-related myofibrillar myopathy entity with AD inheritance; Orphanet label is a synonymic framing.",
+      "decision": "LUMP"
+    },
+    {
+      "group_id": 3,
+      "entities": ["Myopathy, myofibrillar, 2B, infantile-onset", "Fatal infantile hypertonic myofibrillar myopathy"],
+      "proposed_label": "Myopathy, myofibrillar, 2B, infantile-onset",
+      "mode_of_inheritance": "Autosomal recessive",
+      "criteria_met": ["assertions_made", "molecular_mechanism", "mode_of_inheritance"],
+      "reasoning": "Both sources describe a severe infantile, hypertonic, rapidly fatal myofibrillar myopathy due to homozygous truncating CRYAB variants with LOF and AR inheritance.",
+      "decision": "LUMP"
+    },
+    {
+      "group_id": 4,
+      "entities": ["Cardiomyopathy, dilated, 1II", "Familial isolated dilated cardiomyopathy"],
+      "proposed_label": "Cardiomyopathy, dilated, 1II",
+      "mode_of_inheritance": "Autosomal dominant",
+      "criteria_met": ["assertions_made", "mode_of_inheritance"],
+      "reasoning": "OMIM and Orphanet both recognize CRYAB-associated isolated dilated cardiomyopathy as a distinct, predominantly AD entity.",
+      "decision": "LUMP"
+    }
+  ],
+  "overall_decision": {
+    "verdict": "SPLIT",
+    "summary_reasoning": "Authoritative sources delineate multiple CRYAB-related disorders: an AD adult-onset myofibrillar myopathy, an AR infantile hypertonic/fatal myofibrillar myopathy with LOF, an AD isolated dilated cardiomyopathy, and lens-only cataract phenotypes (AD and AR) encompassing multiple morphologies. The infantile AR myopathy differs clearly in mechanism, inheritance, and phenotype from the adult AD spectrum, warranting splitting; cataract morphologies are lumped under CTRCT16.",
+    "confidence": 0.85
+  },
+  "top_supporting_evidence": [
+    "OMIM: Gene-Phenotype Relationships list 'Cataract 16, multiple types (AD, AR)', 'Myopathy, myofibrillar, 2A, adult-onset (AD)', 'Myopathy, myofibrillar, 2B, infantile-onset (AR)', 'Cardiomyopathy, dilated, 1II (AD)'.",
+    "OMIM (Molecular Genetics): 'In 8 patients with infantile-onset myofibrillar myopathy-2B... identified the same homozygous 1-bp deletion... absence of staining' indicating LOF and AR fatal infantile phenotype.",
+    "Orphanet Diseases List: Separate entries for 'Alpha-B crystallin-related late-onset myopathy', 'Fatal infantile hypertonic myofibrillar myopathy', 'Familial isolated dilated cardiomyopathy', and early-onset cataract subtypes."
+  ],
+  "suggested_action_for_curator": [
+    "Confirm whether any AD CRYAB variants consistently cause an isolated DCM phenotype versus myopathy-associated cardiomyopathy to ensure appropriate splitting.",
+    "Review whether CTRCT16 should be annotated with both Autosomal dominant and Autosomal recessive inheritance in the final disease record."
+  ]
+}

@@ -1,0 +1,276 @@
+##Experiment Metadata##
+
+GENE_NAME: FOUR-AND-A-HALF LIM DOMAINS 1; FHL1
+DATA_SOURCES: OMIM, Orphanet, GeneReviews
+DATA_URIS: https://www.omim.org/entry/300163?search=FHL1&highlight=fhl1, https://www.orpha.net/en/disease/gene/FHL1?name=FHL1&mode=gene, https://www.ncbi.nlm.nih.gov/books/NBK1436/
+DATE_RETRIEVED: 2025-11-12
+EXPERIMENT: LS_POC_EXPERIMENT
+
+-----------------------------------------------------------
+##OMIM##
+-----------------------------------------------------------
+* 300163
+FOUR-AND-A-HALF LIM DOMAINS 1; FHL1
+
+Alternative titles; symbols
+
+SLIM1
+FHL1A
+KYOT, MOUSE, HOMOLOG OF
+
+Other entities represented in this entry:
+
+FHL1B, INCLUDED
+SLIMMER, INCLUDED
+FHL1C, INCLUDED
+
+HGNC Approved Gene Symbol: FHL1
+
+Cytogenetic location: Xq26.3   Genomic coordinates (GRCh38) : X:136,146,702-136,211,359 (from NCBI)
+
+
+Gene-Phenotype Relationships
+Location	PhenotypeView Clinical Synopses	Phenotype
+MIM number	Inheritance	Phenotype
+mapping key
+Xq26.3	?Uruguay faciocardiomusculoskeletal syndrome 	300280	XLR	3
+Emery-Dreifuss muscular dystrophy 6, X-linked	300696	XLR	3
+Myopathy, X-linked, with postural muscle atrophy	300696	XLR	3
+Reducing body myopathy, X-linked 1a, severe, infantile or early childhood onset	300717	XLD	3
+Reducing body myopathy, X-linked 1b, with late childhood or adult onset	300718	XL	3
+Scapuloperoneal myopathy, X-linked dominant	300695	XLD	3
+ 
+
+TEXT
+▼ Description
+LIM proteins, named for 'LIN11, ISL1, and MEC3,' are defined by the possession of a highly conserved double zinc finger motif called the LIM domain.
+
+
+▼ Cloning and Expression
+Morgan et al. (1995) identified a partial human SLIM1 cDNA. They found that SLIM1 is a developmentally regulated protein that is expressed in human skeletal muscle but not in a variety of other tissues. By searching sequence databases with the partial SLIM1 cDNA isolated by Morgan et al. (1995), Morgan and Madgwick (1996) identified human cDNAs encoding the complete SLIM1 amino acid sequence. The predicted 280-amino acid protein contains 4 LIM domains and a novel single zinc finger domain in the N-terminal region. By Northern blot analysis, SLIM1 is expressed as a 2.3-kb mRNA in human masseter muscle. 
+
+By Northern blot analysis, Greene et al. (1999) found a 2.5-kb transcript strongly expressed in skeletal muscle and to a lesser extent in heart. Significantly lower expression was observed in prostate, testis, ovary, small and large intestine, placenta, and lung, while barely detectable expression was seen in spleen, thymus, and pancreas. No expression was detected in leukocytes, brain, liver, and kidney. A second transcript of about 1.3-kb was found at low levels in testis, heart, and skeletal muscle. 
+
+Using a sequence derived from the 5-prime end of inositol polyphosphate 5-phosphatase (INPP5A; 600106) as a probe, Brown et al. (1999) cloned FHL1, which they called SLIM1, from a bone marrow cDNA library. Sequence analysis revealed that each LIM domain is separated by 8 intervening amino acids. SLIM1 shares 47% sequence identity with SLIM3 (FHL2; 602633) and 45% identity with SLIM2 (FHL3; 602790). SLIM1 shares no homology with INPP5A except for a 16-nucleotide stretch contained within the probe used to screen the library. 
+
+Brown et al. (1999) also cloned an alternatively spliced isoform, which they called SLIMMER (FHL1B), that differs from SLIM1 with a 200-bp insertion that causes a frameshift. The deduced protein contains 323 amino acids and has a calculated molecular mass of 34 kD. It contains an N-terminal zinc finger followed by 3 LIM domains identical to SLIM1, and a novel 93-amino acid C terminus that contains 3 bipartite nuclear localization signals (NLS) followed by a leucine-rich nuclear export sequence (NES). Northern blot analysis revealed a 2.4-kb SLIMMER transcript expressed at high levels in skeletal muscle and at lower levels in heart, colon, prostate, and small intestine. A 4.4-kb transcript was also observed in skeletal muscle and colon. Western blot analysis of skeletal muscle using isoform-specific antibodies revealed endogenous expression of both a 34-kD SLIMMER protein and a 32-kD SLIM1 protein. Fluorescence-tagged SLIM1 localized to the cytoplasm and associated with focal adhesions and actin filaments in transfected COS-7 cells, while fluorescence-tagged SLIMMER was predominantly nuclear. Truncation mutants revealed that the first NLS mediated SLIMMER nuclear localization. 
+
+Brown et al. (1999) found that endogenous Slim1 showed diffuse cytoplasmic staining and low nuclear staining in mouse myoblasts. Following differentiation into multinucleated myotubes, Slim1 staining became exclusively cytoplasmic. SLIMMER showed prominent nuclear staining of myoblasts and exclusively cytoplasmic staining of myotubes. The leucine-rich NES was required for the export of Slimmer from the nucleus of mouse myoblasts to the cytoplasm of differentiated myotubes. By Northern blot analysis of mouse tissues, Fimia et al. (2000) determined that Fhl1 was the only Fhl transcript tested that was expressed in a wide range of tissues. High levels were present in heart, skeletal muscle, ovary, kidney, lung, and brain, and much lower levels were found in spleen, liver, adrenal gland, testis, and pituitary. 
+
+Ng et al. (2001) identified a third alternatively spliced isoform of the FHL1 gene, which they designated FHL1C. The deduced 195-residue FHL1C isoform contains a single zinc finger and 2 tandem repeats of LIM domains at the N terminus, followed by a putative RBPJ-binding region at the C terminus. FHL1C lacks exon 4, resulting in a frameshift in the 3-prime coding region and absence of a putative nuclear export sequence coded by exon 4b. Northern blot and RT-PCR analysis showed that FHL1C was specifically expressed in testis, skeletal muscle, and heart at a relatively low level compared with FHL1A. Low levels of FHL1C expression were observed in aorta, left atrium, and left and right ventricles. Western blot analysis detected a 20-kD corresponding to FHL1C in human skeletal muscle and heart. Unlike FHL1B, which is located primarily in the nucleus, FHL1C was localized both in the nucleus and cytoplasm of mammalian cells. 
+
+
+▼ Gene Structure
+Greene et al. (1999) determined that the FHL1 gene contains at least 5 exons and spans over 3.6 kb. All 4 introns disrupt the coding region at regular intervals near the start of each complete LIM motif, implying that exon duplication may be responsible for the tandem LIM domain repeats. 
+
+The FHL1A isoform contains exons 1 through 5, FHL1B contains exons 1, 2, 3, 4, 4b, and 5, and FHL1C contains 1, 2, 3, and 5 (Ng et al., 2001). 
+
+
+▼ Mapping
+By somatic cell hybrid mapping, FISH, and radiation hybrid mapping, Lee et al. (1998) mapped the FHL1 gene to chromosome Xq27.2. By FISH, Greene et al. (1999) mapped the FHL1 gene to Xq26. In connection with myopathy caused by mutations in the FHL1 gene, Windpassinger et al. (2008) indirectly mapped the FHL1 gene to Xq26.3. 
+
+
+▼ Gene Function
+Meertens et al. (2019) identified FHL1 as a host factor that is required for chikungunya virus permissiveness and pathogenesis in humans and mice. Ablation of FHL1 expression resulted in the inhibition of infection by several chikungunya strains and o'nyong-nyong virus, but not by other alphaviruses and flaviviruses. Conversely, expression of FHL1 in cells that do not normally express it promoted chikungunya infection. Meertens et al. (2019) found that FHL1 interacts directly with the hypervariable domain of the nsP3 protein of chikungunya and is essential for the replication of viral RNA. FHL1 is highly expressed in chikungunya target cells and is particularly abundant in muscles. Dermal fibroblasts and muscle cells derived from patients with Emery-Dreifuss muscular dystrophy (see 300696) that lacked functional FHL1 were resistant to chikungunya infection. Furthermore, chikungunya infection was undetectable in Fhl1-knockout mice. Meertens et al. (2019) concluded that their study showed that FHL1 is a key factor expressed by the host that enables chikungunya virus infection. 
+
+
+▼ Molecular Genetics
+Scapuloperoneal Myopathy, X-linked
+
+Scapuloperoneal syndrome encompasses heterogeneous neuromuscular disorders characterized by weakness in the shoulder girdle and peroneal muscles. In a family originally described by Wilhelmsen et al. (1996) with a myopathic form of scapuloperoneal syndrome (SPM; 300695), Quinzii et al. (2008) performed a genomewide scan with microsatellite markers and mapped the disorder to Xq26. All affected individuals carried a mutation in the FHL1 gene (W122S; 300163.0001) affecting the second LIM domain. Schessl et al. (2009) stated that muscle biopsies from patients from the family reported by Quinzii et al. (2008) had been reexamined and found to contain reducing bodies, suggesting that the phenotype in this family may represent a mild form of X-linked reducing body myopathy (300718). 
+
+Myopathy with Postural Muscle Atrophy, X-linked
+
+In affected members of 2 families with an adult-onset scapuloaxioperoneal myopathy with bent spine syndrome characterized by specific atrophy of postural muscles and cardiac involvement (XMPMA; 300696), Windpassinger et al. (2008) identified 2 different mutations in the FHL1 gene (300163.0002; 300163.0003). There was muscle hypertrophy in the early stages of the disorder. 
+
+Schoser et al. (2009) identified mutations in the C terminus of the FHL1 gene in 7 additional families with XMPMA (see, e.g., 300163.0002; 300163.0013; 300163.0014). Muscle biopsies showed absence of the FHL1 A isoform. No reducing bodies were identified. 
+
+Emery-Dreifuss Muscular Dystrophy 6
+
+In affected members of 6 unrelated families with Emery-Dreifuss muscular dystrophy-6 (EDMD6; see 300696), Gueneau et al. (2009) identified 6 different mutations in the FHL1 gene (see, e.g., 300163.0010-300163.0012). A patient with sporadic disease also had an FHL1 mutation. The mutations were preferentially located in the most distal exons 5 to 8 of FHL1 and impaired the 3 isoforms to various degrees. 
+
+Reducing Body Myopathy, X-linked
+
+In 2 unrelated girls with severe, early-onset reducing body myopathy (RBMX1A; 300717), Schessl et al. (2008) identified a de novo heterozygous mutation in the FHL1 gene (300163.0004 and 300163.0005, respectively). 
+
+Two unrelated boys with childhood-onset reducing body myopathy (RBMX1B; 300718) had hemizygous mutation in the FHL1 gene (300163.0006 and 300163.0007, respectively). Schessl et al. (2008) used a proteomic technique to identify FHL1 as the main protein component of the reducing bodies in these patients. 
+
+Schessl et al. (2009) reported 5 unrelated patients with sporadic severe early-onset X-linked reducing myopathy (300717) and reviewed their previously reported patients (Schessl et al., 2008). All 5 patients had de novo mutations in the same residue of the second LIM domain of the FHL1 gene, affecting all 3 isoforms (H123Y, 300163.0004; H123L; 300163.0015, and H123Q; 300163.0016). Onset was in early childhood, and the disorder was rapidly progressive, leading to proximal muscle weakness and atrophy, loss of ambulation, contractures, and often respiratory insufficiency. There were 4 girls and 1 boy: the boy was more severely affected. Other features included scoliosis and spinal rigidity. Muscle biopsies showed FHL1-positive aggregates and reducing bodies. Schessl et al. (2009) concluded that mutations in the second LIM domain of FHL1 result in reducing body myopathy. 
+
+Uruguay Faciocardiomusculoskeletal Syndrome
+
+In 3 affected males and 2 obligate female carriers from a 3-generation family with Uruguay faciocardiomusculoskeletal syndrome (FCMSU; 300280) originally reported by Quadrelli et al. (2000), Xue et al. (2016) identified a hemizygous or heterozygous splice site mutation in the FHL1 gene (300163.0018). The mutation, which was found by a combination of hemizygosity mapping and candidate gene exome sequencing and confirmed by Sanger sequencing, segregated with the disorder in the family. Patient myoblasts showed skipping of exon 6, with the resulting primary structure of the protein identical to that of the FHL1C isoform. Western blot and immunohistochemical analysis of patient muscle showed almost complete absence of the FHL1A protein, and RT-PCR analysis showed a 4-fold increase in the expression of FHL1C. Xue et al. (2016) postulated that the imbalance of FHL1 isoforms contributed to the unique features in this family. There was some phenotypic similarity to XMPMA, but the authors considered these to be distinct disorders. 
+
+
+▼ ALLELIC VARIANTS ( 18 Selected Examples):
+
+   
+
+.0001 SCAPULOPERONEAL MYOPATHY, X-LINKED DOMINANT
+FHL1, TRP122SER    
+In an Italian-American family with scapuloperoneal myopathy (300695), Quinzii et al. (2008) demonstrated that the disorder was X-linked dominant and caused by a 365G-C transversion in exon 3 of the FHL1 gene, resulting in a trp122-to-ser substitution (W122S) in the second LIM domain of the protein. 
+
+Schessl et al. (2009) stated that muscle biopsies from patients from the family reported by Quinzii et al. (2008) had been reexamined and found to contain reducing bodies, suggesting that the phenotype in this family may represent a mild form of X-linked reducing body myopathy (300718). 
+
+Emmanuele et al. (2015) generated a knockin mouse model expressing the W122S mutation in Fhl1. Hemizygous male mutant mice and heterozygous female mutant mice had normal birth weight, early growth, and life span compared with wildtype. However, a slowly progressive decrease in forelimb grip strength, exercise capacity, and body weight was observed in hemizygous males starting at 7 to 10 months of age. Hindlimbs of hemizygous males maintained normal grip strength. Western blot analysis revealed loss of Fhl1 in hemizygous mutant muscle only after development of weakness. Histologic analysis revealed only mild structural abnormalities and no cytoplasmic inclusions in hemizygous mutant muscle at later ages. Heterozygous mutant females appeared unaffected. 
+
+Kubota et al. (2019) found that knockin female mice homozygous for the W122S mutation developed late-onset cardiomyopathy, but not overt skeletal myopathy. Histologic analysis revealed numerous extraordinarily enlarged rectangular nuclei in hearts of mutant female mice that were also present in human cardiac muscle from patients with X-linked scapuloperoneal myopathy. However, there was no aggregation of mutant Fhl1 protein, and Western blot analysis showed only trends toward a decreased amount of mutant protein in mouse heart muscle, indicating that loss of function in the mutant protein caused cardiac muscle dysfunction. Proteomic analysis showed that dysregulation of the integrin-actin pathway contributed to cardiac dysfunction in female mutant mice, and examination of heart and skeletal muscle in human patients also implicated alterations in the integrin-actin pathway. 
+
+
+.0002 MYOPATHY, X-LINKED, WITH POSTURAL MUSCLE ATROPHY
+FHL1, CYS224TRP    
+In an extensive Austrian family in which males in 5 generations had a novel form of myopathy referred to as X-linked myopathy with postural muscle atrophy and generalized hypertrophy (XMPMA; 300696), Windpassinger et al. (2008) detected a 672C-G transversion in the FHL1 gene that resulted in a cys224-to-trp (C224W) substitution in the fourth LIM domain of isoform A and in the nuclear localization signal of isoform B. Patients had muscle hypertrophy in the early stages, followed by postural muscle weakness and atrophy, increased serum creatine kinase, bent spine, and cardiomyopathy. The C224W mutation was predicted to disrupt the zinc-binding properties of FHL1A and to impair shuttling between nucleus and cytoplasm of FHL1B. Impairment of zinc binding may have reduced protein stability and structure. Isoform C was not affected, which the authors hypothesized may have resulted in the relatively mild phenotype; no females were affected. 
+
+Schoser et al. (2009) reported 3 additional unrelated German families with XMPMA associated with the C224W mutation in the FHL1 gene. A fourth patient, later found to be distantly related to the Austrian family reported by Windpassinger et al. (2008), was also identified. The phenotype was similar to that reported by Windpassinger et al. (2008). The mutation is predicted to disrupt the fourth LIM domain. 
+
+
+.0003 MYOPATHY, X-LINKED, WITH POSTURAL MUSCLE ATROPHY
+SCAPULOPERONEAL MYOPATHY, X-LINKED DOMINANT, INCLUDED
+FHL1, 3-BP INS, 381ATC    
+In a family of British origin with X-linked myopathy with postural muscle atrophy and generalized hypertrophy (XMPMA; 300696), Windpassinger et al. (2008) identified a 3-bp insertion after nucleotide 381 of the FHL1 gene (381_382insATC), leading to the insertion of an isoleucine residue within the second LIM domain (phe127_thr128insile). The mutation affected all 3 FHL1 isoforms. 
+
+Sarkozy et al. (2011) reported 2 additional British families with the 381delATC mutation. These 2 families and the family reported by Windpassinger et al. (2008) shared the same haplotype, consistent with a founder effect. The family reported by Windpassinger et al. (2008) included 4 males who presented in their thirties with progressive proximal muscle weakness causing walking difficulties and shoulder weakness. The disorder was progressive with at least 2 patients becoming wheelchair-bound. Other features included spinal rigidity, scapular winging, increased serum creatine kinase, and decreased vital respiratory capacity. One family reported by Sarkozy et al. (2011) included 11 affected individuals (5 women) spanning 5 generations. Three men had onset of symptoms in the second to third decade, with predominant progressive limb girdle weakness, mainly affecting the upper limbs, and scapular winging. They also had spinal rigidity and reduced lung function. An additional 3 deceased male family members were reported as being wheelchair-bound from their thirties, and dying in their late forties/early fifties of cardiorespiratory failure. Female mutation carriers had a slightly later onset of milder symptoms. In the other family reported by Sarkozy et al. (2011), 5 males spanning 4 generations were affected. One had onset in young adulthood of progressive proximal upper and lower limb weakness, foot drop, and restricted neck movements with increased serum creatine kinase. Other family members reportedly had gait difficulties. Sarkozy et al. (2011) noted the heterogeneous phenotypes in these 3 families, although they all had an overall late presentation most consistent with XMPMA. However, the involvement of women in the second family was reminiscent of X-linked dominant scapuloperoneal myopathy (300695). 
+
+
+.0004 REDUCING BODY MYOPATHY, X-LINKED 1, SEVERE, WITH INFANTILE OR EARLY CHILDHOOD ONSET
+FHL1, HIS123TYR    
+In a girl with severe, early-onset X-linked myopathy with reducing bodies (RBMX1A; 300717), Schessl et al. (2008) identified a de novo heterozygous 367C-T transition in the third coding exon of the FHL1 gene, resulting in a his123-to-tyr (H123Y) substitution in the second LIM domain involved in coordinating zinc binding. The H123Y mutation was predicted to result in complete disruption of the zinc-binding sites and collapse of the LIM domain. In vitro functional expression studies showed that the mutant protein initiated aggregation of the FHL1 protein, formed reducing bodies and trapped wildtype FHL1 into the inclusion bodies, consistent with a dominant-negative effect. The child lost ambulation by at age 3 years and had respiratory insufficiency. Schessl et al. (2009) reported follow-up on the patient reported by Schessl et al. (2008). She had mildly delayed motor development, learning to walk at 18 months, but was never able to run or stand up from a sitting position. The disease progressed at age 2 years, with poor head control and neck weakness, leading wheelchair dependency at age 3. She had proximal muscle weakness, progressive spinal rigidity, and scoliosis. At age 8 years, she is ventilated continuously, has a gastrostomy tube, and has lost all antigravity strength except for her finger extensors. There is no apparent cardiac involvement. 
+
+Schessl et al. (2009) reported another unrelated girl with a heterozygous H123Y mutation. She had onset before age 1.5 years of proximal muscle weakness and Gowers sign. Mutations affecting the same FHL1 codon have also been reported in this phenotype (H123L, 300163.0015; H123Q, 300163.0016). 
+
+
+.0005 REDUCING BODY MYOPATHY, X-LINKED 1, SEVERE, WITH INFANTILE OR EARLY CHILDHOOD ONSET
+FHL1, CYS132PHE    
+In a girl with severe, early-onset X-linked myopathy with reducing bodies (RBMX1A; 300717), Schessl et al. (2008) identified a de novo heterozygous 395G-T transversion in exon 3 of the FHL1 gene, resulting in a cys132-to-phe (C132F) substitution in the second LIM domain involved in coordinating zinc binding. The C132F mutation was predicted to result in complete disruption of the zinc-binding sites and collapse of the LIM domain. In vitro functional expression studies showed that the mutant protein initiated aggregation of the FHL1 protein, formed reducing bodies and trapped wildtype FHL1 into the inclusion bodies, consistent with a dominant-negative effect. The child lost ambulation by age 4.5 years and died of respiratory failure at age 6.5 years. 
+
+
+.0006 REDUCING BODY MYOPATHY, X-LINKED 1B, WITH LATE CHILDHOOD ONSET
+FHL1, CYS153ARG    
+In a boy with X-linked reducing body myopathy with childhood onset (RBMX1B; 300718), Schessl et al. (2008) identified a 457T-C transition in the FHL1 gene, resulting in a cys153-to-arg (C153R) substitution in the second zinc finger of the LIM2 domain. The patient's mother, who was heterozygous for the mutation, was less severely affected. The boy had onset of weakness at age 5 years, became ventilator-dependent by age 11 years, and developed cardiomyopathy at 18 years. A mutation in the same codon (C153Y; 300163.0007) was identified in an unrelated family with the same disorder. 
+
+
+.0007 REDUCING BODY MYOPATHY, X-LINKED 1B, WITH LATE CHILDHOOD ONSET
+FHL1, CYS153TYR    
+In a boy with X-linked reducing myopathy with childhood onset (RBMX1B; 300718), Schessl et al. (2008) identified a 458G-A transition in the FHL1 gene, resulting in a cys153-to-tyr (C153Y) substitution in the second zinc finger of the LIM2 domain. The patient's mother, who was heterozygous for the mutation, was less severely affected. The boy had onset of weakness and rigid spine symptoms at age 10 years, leading to loss of ambulation at age 16. A mutation in the same codon (C153R; 300163.0006) was identified in an unrelated family with the same disorder. 
+
+
+.0008 REDUCING BODY MYOPATHY, X-LINKED 1, SEVERE, WITH INFANTILE OR EARLY CHILDHOOD ONSET
+FHL1, CYS150TYR    
+In a patient with fatal early-onset reducing body myopathy (RBMX1A; 300717), Shalaby et al. (2009) identified a heterozygous 449G-A transition in the FHL1 gene, resulting in a cys150-to-tyr (C150Y) substitution in the second LIM domain. The patient had previously been reported by Kiyomoto et al. (1995). 
+
+
+.0009 REDUCING BODY MYOPATHY, X-LINKED 1B, WITH LATE CHILDHOOD OR ADULT ONSET
+FHL1, CYS104ARG    
+In a mother and son with adult- and childhood-onset reducing body myopathy (RBMX1B; 300718), respectively, Shalaby et al. (2009) identified a 310T-C transition in the FHL1 gene, resulting in a cys104-to-arg (C104R) substitution in the second LIM domain. The family had previously been reported by Ohsawa et al. (2007). 
+
+
+.0010 EMERY-DREIFUSS MUSCULAR DYSTROPHY 6
+FHL1, TER281GLU    
+In 3 brothers from Saudi Arabia with Emery-Dreifuss muscular dystrophy-6 (EDMD6; see 300696), Gueneau et al. (2009) identified an 841T-G transversion in exon 8 of the FHL1 gene, resulting in a ter281-to-glu (X281E) substitution in the last codon. This change suppressed the termination codon and predicted a larger protein with 52 additional amino acids at the C terminus of the FHL1A isoform. The proband presented at age 10 years with stiff neck, and later developed scapular-peroneal weakness and atrophy, multiple joint contractures, and scoliosis. He also had dysphonia due to vocal cord palsy. At age 18 years, he was found to have cardiac involvement characterized by septal hypertrophy. Skeletal muscle biopsy showed dystrophic changes with no reducing bodies and markedly decreased FHL1A protein expression. In vitro studies of patient myoblasts showed a delay in myogenin (MYOG; 159980) activation and myoblast fusion, without major impacts on sarcomere formation. 
+
+
+.0011 EMERY-DREIFUSS MUSCULAR DYSTROPHY 6
+FHL1, CYS209ARG    
+In affected members of a large family with Emery-Dreifuss muscular dystrophy-6 (EDMD6; see 300696), Gueneau et al. (2009) identified a 625C-T transition in exon 6 of the FHL1 gene, resulting in a cys209-to-arg (C209R) substitution affecting a highly conserved cys residue of the LIM3 domain of the FHL1A and FHL1B isoforms. The proband presented at age 11 years with stiff neck. He later developed scapular and pelvic muscle weakness and atrophy, multiple joint contractures, scoliosis, and increased serum creatine kinase. At age 39, he had cardiac arrhythmias and cardiac hypertrophy; He died suddenly at age 51. Most affected family members had both cardiac disease and myopathy, although some had only isolated cardiac disease or myopathy. There were several affected females who were heterozygous for the mutation. Skeletal muscle biopsy of the proband showed a dystrophic pattern and moderately decreased FHL1 protein expression. 
+
+Knoblauch et al. (2010) identified the C209R mutation in 9 affected male members of a large 4-generation German family with EDMD6. Age at onset was in the first or second decade, and all had contractures and rigid spine. Five had hypertrophic cardiomyopathy, 2 had left ventricular hypertrophy with fibrosis and hypertension, 1 had apical myocardial thinning, and 1 had normal cardiac findings. Only 1 had conduction abnormalities, and only 1 had clear muscle weakness; most appeared muscular but not athletic. Two female carriers of the mutation had rigid spine symptoms, and 1 had left ventricular hypertrophy with hypertension. None of the patients was or became wheelchair-bound. Skeletal muscle biopsy from 3 patients showed cytoplasmic bodies, but not reducing bodies, and dystrophic features. Western blot analysis showed decreased expression of FHL1. 
+
+
+.0012 EMERY-DREIFUSS MUSCULAR DYSTROPHY 6
+FHL1, 1-BP INS, NT817    
+In a man with Emery-Dreifuss muscular dystrophy-6 (EDMD6; see 300696), Gueneau et al. (2009) identified a 1-bp insertion (817dup) in exon 8 of the FHL1 gene, resulting in a frameshift and premature termination affecting only the FHL1A isoform that lacks the last 2 cysteines of the LIM4 domain. He presented at age 6 years with elbow and Achilles tendon contractures, and later developed scapular and pelvic muscle weakness and atrophy. Other features included muscle hypertrophy, dysphonia due to vocal cord palsy, and increased serum creatine kinase. By age 30, he had cardiac septal hypertrophy and respiratory insufficiency; he died suddenly at age 31. Skeletal muscle biopsy showed myopathic changes and no reducing bodies. The patient's mother, who was heterozygous for the mutation, had isolated hypertrophic cardiomyopathy. 
+
+
+.0013 MYOPATHY, X-LINKED, WITH POSTURAL MUSCLE ATROPHY
+FHL1, VAL280MET    
+In 2 affected males from a German family with X-linked myopathy with postural muscle atrophy (XMPMA; 300696), Schoser et al. (2009) identified an 838G-A transition in exon 5 of the FHL1 gene, resulting in a val280-to-met (V280M) substitution in isoform B. The mutation was not found in 247 control chromosomes. Both boys had onset at age 8 years of exercise-induced fatigue and Achilles tendon shortening, and later developed proximal lower leg weakness. No overt cardiac involvement was noted. A female carrier in the family was unaffected. 
+
+
+.0014 MYOPATHY, X-LINKED, WITH POSTURAL MUSCLE ATROPHY
+FHL1, IVS4DS, G-A, +1    
+In 2 affected males from a German family with X-linked myopathy with postural muscle atrophy (XMPMA; 300696), Schoser et al. (2009) identified a G-to-A transition (c.688+1G-A) in the donor splice site of intron 4 of the FHL1 gene, resulting in the skipping of exon 4. The splice site is located after the second LIM domain, resulting in a truncated protein (Ala168GlyfsTer195) identical to isoform C, with the loss of both isoforms A and B. The proband had progressive Achilles tendon shortening since childhood, and developed a progressive aneurysm of the sinus of Valsalva since age 18. He had exercise-induced weakness and proximal muscle weakness. The other male patient presented with mild rigid spine syndrome, kyphoscoliosis, and Achilles tendon contractures since age 10 years. He was also noted to have a progressive aneurysm of the sinus of Valsalva since age 12. One female mutation carrier was noted with exercise-induced weakness and myalgia since age 40 years. 
+
+
+.0015 REDUCING BODY MYOPATHY, X-LINKED 1, SEVERE, WITH INFANTILE OR EARLY CHILDHOOD ONSET
+FHL1, HIS123LEU    
+In a 7-year-old girl with severe early-onset reducing body myopathy (RBMX1A; 300717), Schessl et al. (2009) identified a heterozygous de novo 368A-T transversion in exon 4 of the FHL1 gene, resulting in a his123-to-leu (H123L) substitution in the second LIM domain. She had onset at age 4 years of frequent falls, difficulty walking, progressive proximal muscle weakness of the upper and lower limbs, and scoliosis. Mutations affecting the same FHL1 codon have also been reported in this phenotype (H123Y, 300163.0004; H123Q, 300163.0016). 
+
+
+.0016 REDUCING BODY MYOPATHY, X-LINKED 1, SEVERE, WITH INFANTILE OR EARLY CHILDHOOD ONSET
+FHL1, HIS123GLN    
+In 3 unrelated patients, 2 girls and 1 boy, with severe early-onset reducing body myopathy (RBMX1A; 300717), Schessl et al. (2009) identified a de novo 369C-G transversion in exon 4 of the FHL1 gene, resulting in a his123-to-gln (H123Q) substitution in the second LIM domain. Onset ranged from 12 months to 4 years. Patients had frequent falls, progressive loss of ambulation by age 10 years, proximal muscle weakness in the upper and lower limbs, and contractures. Two patients had respiratory insufficiency. One had mild mitral insufficiency, and another had cardiac arrest at age 3 years. The boy had earlier onset and a more severe phenotype. The girls were heterozygous for the mutation. Mutations affecting the same FHL1 codon have also been reported in this phenotype (H123Y, 300163.0004; H123L, 300163.0015). 
+
+
+.0017 REDUCING BODY MYOPATHY, X-LINKED 1B, WITH LATE CHILDHOOD ONSET
+FHL1, 9-BP DEL, NT451    
+In a 16-year-old boy with late childhood onset of X-linked reducing body myopathy (RBMX1B; 300718), Shalaby et al. (2008) identified a hemizygous in-frame 9-bp deletion (451delGTGACTTGC) in the FHL1 gene, resulting in the deletion of val151, thr152, and cys153, which affected a cysteine residue in the second LIM domain. The patient was a good runner during childhood and was noted to have scoliosis at age 13 years. He then developed progressive walking and running difficulties. By age 16, he had difficulty in bending his body and in neck flexion, atrophy and weakness of the proximal muscles, and joint contractures. He was diagnosed with rigid spine syndrome. Skeletal muscle biopsy showed intracytoplasmic inclusions, rimmed vacuoles, and decreased FHL1 protein levels. 
+
+
+.0018 URUGUAY FACIOCARDIOMUSCULOSKELETAL SYNDROME (1 family)
+FHL1, IVS5AS, A-G, -2    
+In 3 affected males and 2 obligate female carriers from a 3-generation family with Uruguay faciocardiomusculoskeletal syndrome (FCMSU; 300280) originally reported by Quadrelli et al. (2000), Xue et al. (2016) identified a hemizygous or heterozygous A-to-G transition (c.502-2A-G, NM_001449.4) in intron 5 of the FHL1 gene, resulting in a splice site alteration with the skipping of exon 6. The mutation, which was found by a combination of hemizygosity mapping and candidate gene exome sequencing and confirmed by Sanger sequencing, segregated with the disorder in the family. The variant was filtered against the dbSNP (build 135), 1000 Genomes Project, and Exome Variant Server databases, as well as an in-house database. Patient myoblasts showed the skipping of exon 6, with the resulting primary structure of the protein identical to that of the FHL1C isoform. Western blot and immunohistochemical analysis of patient muscle showed almost complete absence of the FHL1A protein, and RT-PCR analysis showed a 4-fold increase in the expression of FHL1C. X-chromosome exome sequencing in 1 of the affected males also identified a variant of uncertain significance (T327I) in the BCORL1 gene (300688).
+
+-----------------------------------------------------------
+##ORPHANET##
+-----------------------------------------------------------
+FHL1 - four and a half LIM domains 1
+Synonym(s): FHL1B, FLH1A, Four-and-a-half LIM domains 1, KYO-T, LIM protein SLIMMER, MGC111107, SLIM1, XMPMA, bA535K18.1
+
+Previous symbol(s) and name(s):
+
+Type: gene with protein product
+
+Chromosomal location: Xq26.3
+
+OMIM: 300163
+
+HGNC: 3702
+
+UniProtKB: Q13642
+
+Genatlas: FHL1
+
+GenCC: FHL1
+
+ClinVar: FHL1
+
+Ensembl: ENSG00000022267
+
+Reactome: Q13642
+
+LOVD: FHL1
+
+Diseases List
+ Disease-causing germline mutation(s) in X-linked Emery-Dreifuss muscular dystrophy ORPHA:98863
+ Disease-causing germline mutation(s) in X-linked scapuloperoneal muscular dystrophy ORPHA:431272
+ Disease-causing germline mutation(s) in X-linked myopathy with postural muscle atrophy ORPHA:178461
+ Disease-causing germline mutation(s) in Reducing body myopathy ORPHA:97239
+
+-----------------------------------------------------------
+##GENEREVIEWS [SUMMARY]##
+-----------------------------------------------------------
+Clinical characteristics.
+Emery-Dreifuss muscular dystrophy (EDMD) is characterized by the clinical triad of joint contractures that begin in early childhood; slowly progressive muscle weakness and wasting initially in a humeroperoneal distribution that later extends to the scapular and pelvic girdle muscles; and cardiac involvement that may manifest as palpitations, presyncope and syncope, poor exercise tolerance, and congestive heart failure along with variable cardiac rhythm disturbances. Age of onset, severity, and progression of muscle and cardiac involvement demonstrate both inter- and intrafamilial variability. Clinical variability ranges from early onset with severe presentation in childhood to late onset with slow progression in adulthood. In general, joint contractures appear during the first two decades, followed by muscle weakness and wasting. Cardiac involvement usually occurs after the second decade, and respiratory function may be impaired in some individuals.
+
+Diagnosis/testing.
+The clinical diagnosis of EDMD can be established in a proband with characteristic early and prominent joint contractures, humeroperoneal (or more rarely limb-girdle) muscle weakness and wasting, and later-onset cardiac disease. The molecular diagnosis is established in a proband with characteristic clinical findings and a hemizygous pathogenic variant in EMD or FHL1, a heterozygous pathogenic variant in LMNA, SUN2, SYNE1, SYNE2, or TMEM43, or (more rarely) biallelic pathogenic variants in LMNA or SUN1 identified by molecular genetic testing.
+
+Management.
+Treatment of manifestations: Surgery to release contractures and manage scoliosis as needed; aids (canes, walkers, orthoses, wheelchairs) as needed to help ambulation; physical therapy and stretching to prevent contractures. Treatment for cardiac disease can include antiarrhythmic drugs, oral anticoagulation, ablation procedures, cardiac pacemaker, implantable cardioverter-defibrillator, pharmacologic and nonpharmacologic therapy for heart failure; heart transplantation for the end stages of heart failure as appropriate; respiratory aids (respiratory muscle training, assisted coughing techniques, mechanical ventilation) as needed; in those with associated metabolic features, treatment may include dietary modification, medications to improve hypertriglyceridemia and hypercholesterolemia, and diabetes / insulin resistance medications.
+
+Surveillance: Assess joints for contractures and mobility, and spine for rigidity, posture, flexibility, swallowing function, and muscle strength at each visit; EKG, Holter monitor, and echocardiography at least annually; additional cardiac surveillance as needed; pulmonary function tests every two to three years and annually in those with respiratory compromise; cholesterol panel with triglycerides, hemoglobin A1c, and blood glucose every two to three years or more frequently in those with abnormalities.
+
+Agents/circumstances to avoid: Triggering agents for malignant hyperthermia, such as depolarizing muscle relaxants (succinylcholine) and volatile anesthetic drugs (halothane, isoflurane); obesity.
+
+Evaluation of relatives at risk: Molecular genetic testing if the pathogenic variant(s) in the family are known; clinical evaluation, including musculoskeletal evaluation and cardiac assessment, if the pathogenic variant(s) in the family are not known.
+
+Genetic counseling.
+EDMD is inherited in an X-linked (XL), autosomal dominant (AD), or (rarely) autosomal recessive (AR) manner.
+
+XL-EDMD: If the mother of a proband has a pathogenic variant, the chance of transmitting it in each pregnancy is 50%. Males who inherit the pathogenic variant will be affected; females who inherit the pathogenic variant will be heterozygous. Heterozygous females are usually asymptomatic but are at risk of developing cardiac disease, progressive muscular dystrophy (rare), and/or an EDMD phenotype (exceedingly rare).
+
+AD-EDMD: Sixty-five percent of individuals with LMNA-related AD-EDMD have a de novo pathogenic variant. Each child of an individual with AD-EDMD has a 50% chance of inheriting the pathogenic variant.
+
+AR-EDMD: If both parents are known to be heterozygous for a pathogenic variant associated with AR-EDMD, each sib of an affected individual has at conception a 25% chance of being affected, a 50% chance of being heterozygous, and a 25% chance of inheriting neither of the familial pathogenic variants.
+
+Once the EDMD-related pathogenic variant(s) have been identified in an affected family member, prenatal and preimplantation genetic testing for EDMD are possible.

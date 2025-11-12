@@ -1,0 +1,91 @@
+{
+  "gene": "FHL1",
+  "phenotype_entities": [
+    {"name": "Uruguay faciocardiomusculoskeletal syndrome", "source_mentions": ["OMIM"]},
+    {"name": "Emery-Dreifuss muscular dystrophy 6, X-linked", "source_mentions": ["OMIM", "GENEREVIEWS", "ORPHANET"]},
+    {"name": "Myopathy, X-linked, with postural muscle atrophy", "source_mentions": ["OMIM", "ORPHANET"]},
+    {"name": "Reducing body myopathy, X-linked 1a, severe, infantile or early childhood onset", "source_mentions": ["OMIM"]},
+    {"name": "Reducing body myopathy, X-linked 1b, with late childhood or adult onset", "source_mentions": ["OMIM"]},
+    {"name": "Scapuloperoneal myopathy, X-linked dominant", "source_mentions": ["OMIM", "ORPHANET"]}
+  ],
+  "criteria_reasoning": {
+    "assertions_made": {
+      "verdict": "Multiple entities",
+      "justification": "OMIM and Orphanet list several distinct FHL1-related conditions (EDMD6/XMPMA, reducing body myopathy variants, scapuloperoneal myopathy, and FCMSU). GeneReviews treats FHL1 as a cause of X-linked EDMD but does not subsume the other phenotypes under EDMD."
+    },
+    "molecular_mechanism": {
+      "verdict": "Distinct",
+      "justification": "Reducing body myopathy mutations cluster in LIM2 and are reported to cause aggregation and dominant-negative/toxic effects with reducing bodies. EDMD6/XMPMA/FCMSU often involve loss/imbalance of FHL1 isoforms (notably decreased FHL1A) without reducing bodies."
+    },
+    "phenotypic_variability": {
+      "verdict": "Distinct phenotypes",
+      "justification": "RBM is defined by reducing bodies and often early severe weakness; SPM family was later shown to have reducing bodies, aligning it with RBM. EDMD6/XMPMA show contractures/rigid spine and cardiomyopathy without reducing bodies; FCMSU is a syndromic facio-cardio-musculoskeletal presentation."
+    },
+    "mode_of_inheritance": {
+      "verdict": "Different",
+      "justification": "RBM includes X-linked dominant and X-linked presentations; SPM is X-linked dominant. EDMD6 and XMPMA are X-linked (often recessive patterns within families). FCMSU is X-linked recessive with carrier females."
+    }
+  },
+  "entity_decisions": [
+    {"name": "Uruguay faciocardiomusculoskeletal syndrome", "decision": "SPLIT", "confidence": 0.7},
+    {"name": "Emery-Dreifuss muscular dystrophy 6, X-linked", "decision": "LUMP", "confidence": 0.9},
+    {"name": "Myopathy, X-linked, with postural muscle atrophy", "decision": "LUMP", "confidence": 0.9},
+    {"name": "Reducing body myopathy, X-linked 1a, severe, infantile or early childhood onset", "decision": "LUMP", "confidence": 0.95},
+    {"name": "Reducing body myopathy, X-linked 1b, with late childhood or adult onset", "decision": "LUMP", "confidence": 0.95},
+    {"name": "Scapuloperoneal myopathy, X-linked dominant", "decision": "LUMP", "confidence": 0.85}
+  ],
+  "proposed_groupings": [
+    {
+      "group_id": 1,
+      "entities": [
+        "Reducing body myopathy, X-linked 1a, severe, infantile or early childhood onset",
+        "Reducing body myopathy, X-linked 1b, with late childhood or adult onset",
+        "Scapuloperoneal myopathy, X-linked dominant"
+      ],
+      "proposed_label": "Reducing body myopathy",
+      "mode_of_inheritance": "X-linked",
+      "criteria_met": ["assertions_made", "molecular_mechanism", "phenotypic_variability", "mode_of_inheritance"],
+      "reasoning": "SPM kindred was reinterpreted as having reducing bodies; RBM1A/RBM1B share pathological hallmark and LIM2 dominant-negative mechanism with overlapping X-linked dominant/semidominant inheritance.",
+      "decision": "LUMP"
+    },
+    {
+      "group_id": 2,
+      "entities": [
+        "Emery-Dreifuss muscular dystrophy 6, X-linked",
+        "Myopathy, X-linked, with postural muscle atrophy"
+      ],
+      "proposed_label": "Emery-Dreifuss muscular dystrophy 6, X-linked",
+      "mode_of_inheritance": "X-linked",
+      "criteria_met": ["assertions_made", "molecular_mechanism", "phenotypic_variability", "mode_of_inheritance"],
+      "reasoning": "OMIM maps both to the same entry (300696) with overlapping features (contractures, rigid spine, cardiac involvement) and shared isoform-impairing mechanisms without reducing bodies.",
+      "decision": "LUMP"
+    },
+    {
+      "group_id": 3,
+      "entities": [
+        "Uruguay faciocardiomusculoskeletal syndrome"
+      ],
+      "proposed_label": "Uruguay faciocardiomusculoskeletal syndrome",
+      "mode_of_inheritance": "X-linked",
+      "criteria_met": ["assertions_made", "phenotypic_variability"],
+      "reasoning": "OMIM describes FCMSU as distinct despite some similarity to XMPMA and attributes a specific splice change causing FHL1C-like shift with a unique faciocardiomusculoskeletal syndrome.",
+      "decision": "SPLIT"
+    }
+  ],
+  "overall_decision": {
+    "verdict": "SPLIT",
+    "summary_reasoning": "Authoritative sources support multiple FHL1-related entities. Molecular data distinguish a reducing-body/aggregation mechanism (RBM±SPM; X-linked dominant spectrum) from an isoform-loss spectrum (EDMD6/XMPMA; X-linked). FCMSU, while sharing isoform imbalance, is asserted as a distinct syndromic phenotype. Thus, RBM+SPM are lumped together, EDMD6+XMPMA are lumped together, and FCMSU is split as separate.",
+    "confidence": 0.85
+  },
+  "top_supporting_evidence": [
+    "OMIM: \"muscle biopsies from patients from the family reported by Quinzii et al. (2008) had been reexamined and found to contain reducing bodies, suggesting that the phenotype in this family may represent a mild form of X-linked reducing body myopathy (300718).\"",
+    "OMIM: \"Schoser et al. (2009) identified mutations in the C terminus of the FHL1 gene in 7 additional families with XMPMA... Muscle biopsies showed absence of the FHL1 A isoform. No reducing bodies were identified.\"",
+    "OMIM: \"Xue et al. (2016) ... showed almost complete absence of the FHL1A protein, and ... a 4-fold increase in the expression of FHL1C... There was some phenotypic similarity to XMPMA, but the authors considered these to be distinct disorders.\"",
+    "ORPHANET: lists separate entities under FHL1: X-linked EDMD, X-linked scapuloperoneal muscular dystrophy, X-linked myopathy with postural muscle atrophy, and Reducing body myopathy."
+  ],
+  "suggested_action_for_curator": [
+    "Verify and document the mechanistic split: dominant-negative LIM2 mutations with reducing bodies vs isoform-loss/imbalance in EDMD6/XMPMA.",
+    "Check inheritance labeling for RBM (XLD vs XL) and ensure the grouped 'Reducing body myopathy' entity is annotated broadly as X-linked with variable dominance.",
+    "Confirm whether any additional sources consolidate FCMSU with the XMPMA/EDMD6 spectrum or support maintaining it as a distinct syndromic entity."
+  ]
+}

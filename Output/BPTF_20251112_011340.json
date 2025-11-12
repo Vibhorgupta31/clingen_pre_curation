@@ -1,0 +1,79 @@
+{
+  "gene": "BPTF",
+  "phenotype_entities": [
+    {"name": "Neurodevelopmental disorder with dysmorphic facies and distal limb anomalies", "source_mentions": ["OMIM"]},
+    {"name": "Kaposi sarcoma, susceptibility to", "source_mentions": ["OMIM"]},
+    {"name": "Disease-causing germline mutation(s) in BPTF-related intellectual disability-facial dysmorphism-skeletal anomalies syndrome", "source_mentions": ["ORPHANET"]},
+    {"name": "Role in the phenotype of 17q24.2 microdeletion syndrome", "source_mentions": ["ORPHANET"]}
+  ],
+  "criteria_reasoning": {
+    "assertions_made": {
+      "verdict": "Multiple entities",
+      "justification": "OMIM lists a neurodevelopmental syndrome (NEDDFL) and a separate cancer predisposition (Kaposi sarcoma susceptibility). Orphanet separately lists a BPTF-related ID–facial dysmorphism–skeletal anomalies syndrome and involvement in a 17q24.2 microdeletion syndrome."
+    },
+    "molecular_mechanism": {
+      "verdict": "Distinct",
+      "justification": "NEDDFL is attributed to haploinsufficiency from truncating/deleterious variants and deletions. Kaposi sarcoma susceptibility is reported with a specific missense variant and functional viral/oncogenic pathway effects, implying a different mechanism; microdeletion syndrome reflects contiguous gene loss."
+    },
+    "phenotypic_variability": {
+      "verdict": "Distinct phenotypes",
+      "justification": "NEDDFL shows variable expressivity within a consistent neurodevelopmental/dysmorphic spectrum. Kaposi sarcoma families lacked neurodevelopmental/dysmorphic features and present with tumor susceptibility, indicating a distinct clinical entity."
+    },
+    "mode_of_inheritance": {
+      "verdict": "Same",
+      "justification": "Both NEDDFL and Kaposi sarcoma susceptibility are described as autosomal dominant. Mode is not specified for the 17q24.2 microdeletion entity in Orphanet’s listing."
+    }
+  },
+  "entity_decisions": [
+    {"name": "Neurodevelopmental disorder with dysmorphic facies and distal limb anomalies", "decision": "LUMP", "confidence": 0.95},
+    {"name": "Disease-causing germline mutation(s) in BPTF-related intellectual disability-facial dysmorphism-skeletal anomalies syndrome", "decision": "LUMP", "confidence": 0.95},
+    {"name": "Kaposi sarcoma, susceptibility to", "decision": "SPLIT", "confidence": 0.85},
+    {"name": "Role in the phenotype of 17q24.2 microdeletion syndrome", "decision": "SPLIT", "confidence": 0.6}
+  ],
+  "proposed_groupings": [
+    {
+      "group_id": 1,
+      "entities": [
+        "Neurodevelopmental disorder with dysmorphic facies and distal limb anomalies",
+        "Disease-causing germline mutation(s) in BPTF-related intellectual disability-facial dysmorphism-skeletal anomalies syndrome"
+      ],
+      "proposed_label": "Neurodevelopmental disorder with dysmorphic facies and distal limb anomalies",
+      "mode_of_inheritance": "Autosomal dominant",
+      "criteria_met": ["assertions", "molecular_mechanism", "phenotypic_variability", "mode_of_inheritance"],
+      "reasoning": "OMIM and Orphanet describe the same developmental syndrome due to BPTF haploinsufficiency with variable expressivity; hence they represent a single entity.",
+      "decision": "LUMP"
+    },
+    {
+      "group_id": 2,
+      "entities": ["Kaposi sarcoma, susceptibility to"],
+      "proposed_label": "Kaposi sarcoma, susceptibility to",
+      "mode_of_inheritance": "Autosomal dominant",
+      "criteria_met": ["assertions", "molecular_mechanism", "phenotypic_variability"],
+      "reasoning": "OMIM reports a distinct phenotype (tumor susceptibility without neurodevelopmental features) associated with a specific missense change and different functional effects.",
+      "decision": "SPLIT"
+    },
+    {
+      "group_id": 3,
+      "entities": ["Role in the phenotype of 17q24.2 microdeletion syndrome"],
+      "proposed_label": "Role in the phenotype of 17q24.2 microdeletion syndrome",
+      "mode_of_inheritance": "Unknown/unclear",
+      "criteria_met": ["assertions"],
+      "reasoning": "Orphanet lists BPTF as contributory within a contiguous gene deletion syndrome rather than as a standalone monogenic BPTF disorder.",
+      "decision": "SPLIT"
+    }
+  ],
+  "overall_decision": {
+    "verdict": "SPLIT",
+    "summary_reasoning": "Authoritative sources delineate a BPTF haploinsufficiency neurodevelopmental syndrome and a separate autosomal dominant Kaposi sarcoma susceptibility linked to a specific missense variant with different functional consequences. The phenotypes are clinically distinct, while inheritance for the two main entities is autosomal dominant. The 17q24.2 microdeletion syndrome reflects a contiguous gene effect and should not be lumped with the monogenic BPTF syndrome.",
+    "confidence": 0.86
+  },
+  "top_supporting_evidence": [
+    "OMIM: \"The findings suggested that haploinsufficiency for BPTF is the pathogenic mechanism\" for NEDDFL.",
+    "OMIM: \"In 5 immunocompetent individuals with classic Kaposi sarcoma... identified a heterozygous missense mutation... I2012T... All... had no features of a neurodevelopmental disorder or dysmorphic features.\"",
+    "Orphanet: \"Disease-causing germline mutation(s) in BPTF-related intellectual disability-facial dysmorphism-skeletal anomalies syndrome\" and \"Role in the phenotype of 17q24.2 microdeletion syndrome.\""
+  ],
+  "suggested_action_for_curator": [
+    "Verify whether additional evidence clarifies the molecular mechanism for the Kaposi sarcoma I2012T variant given its presence in population databases.",
+    "Confirm that cases with 17q24.2 microdeletions are not being conflated with monogenic BPTF loss-of-function when curating the neurodevelopmental syndrome."
+  ]
+}

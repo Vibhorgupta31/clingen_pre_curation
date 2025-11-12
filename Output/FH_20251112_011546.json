@@ -1,0 +1,67 @@
+{
+  "gene": "FH",
+  "phenotype_entities": [
+    {"name": "Fumarase deficiency", "source_mentions": ["OMIM", "GENEREVIEWS"]},
+    {"name": "Fumaric aciduria", "source_mentions": ["ORPHANET"]},
+    {"name": "Hereditary leiomyomatosis and renal cell cancer", "source_mentions": ["OMIM", "ORPHANET", "GENEREVIEWS"]},
+    {"name": "Hereditary pheochromocytoma-paraganglioma", "source_mentions": ["ORPHANET"]}
+  ],
+  "criteria_reasoning": {
+    "assertions_made": {
+      "verdict": "Multiple entities",
+      "justification": "OMIM lists two distinct phenotypes with different inheritance: Fumarase deficiency (AR) and HLRCC (AD). Orphanet additionally lists hereditary pheochromocytoma-paraganglioma as a separate disease and uses the label fumaric aciduria for the AR condition."
+    },
+    "molecular_mechanism": {
+      "verdict": "Shared",
+      "justification": "Both AR fumarase deficiency and AD HLRCC involve loss of FH enzymatic function (biallelic deficiency in AR; tumor suppressor with reduced activity and biallelic inactivation in tumors for AD). Despite shared LOF, disease biology and clinical context differ (metabolic encephalopathy vs tumor predisposition)."
+    },
+    "phenotypic_variability": {
+      "verdict": "Distinct phenotypes",
+      "justification": "AR disease is a severe neurodevelopmental/encephalopathic disorder, whereas AD HLRCC is a tumor predisposition syndrome with leiomyomas and renal cell carcinoma. Variability within HLRCC exists, but is within a tumor spectrum and distinct from the AR presentation."
+    },
+    "mode_of_inheritance": {
+      "verdict": "Different",
+      "justification": "Fumarase deficiency/fumaric aciduria is autosomal recessive; HLRCC is autosomal dominant. Orphanet lists FH for hereditary pheochromocytoma-paraganglioma but MOI is not specified in the provided text."
+    }
+  },
+  "entity_decisions": [
+    {"name": "Fumarase deficiency", "decision": "LUMP", "confidence": 0.9},
+    {"name": "Fumaric aciduria", "decision": "LUMP", "confidence": 0.9},
+    {"name": "Hereditary leiomyomatosis and renal cell cancer", "decision": "SPLIT", "confidence": 0.95},
+    {"name": "Hereditary pheochromocytoma-paraganglioma", "decision": "Unclear", "confidence": 0.5}
+  ],
+  "proposed_groupings": [
+    {
+      "group_id": 1,
+      "entities": ["Fumarase deficiency", "Fumaric aciduria"],
+      "proposed_label": "Fumarate hydratase deficiency",
+      "mode_of_inheritance": "Autosomal recessive",
+      "criteria_met": ["assertions", "molecular_mechanism", "mode_of_inheritance"],
+      "reasoning": "OMIM and GeneReviews describe AR FH deficiency; Orphanet’s 'Fumaric aciduria' refers to the same AR LOF condition. Shared mechanism and management justify lumping.",
+      "decision": "LUMP"
+    },
+    {
+      "group_id": 2,
+      "entities": ["Hereditary leiomyomatosis and renal cell cancer"],
+      "proposed_label": "Hereditary leiomyomatosis and renal cell cancer",
+      "mode_of_inheritance": "Autosomal dominant",
+      "criteria_met": ["assertions", "phenotypic_variability", "mode_of_inheritance"],
+      "reasoning": "Consistently asserted as a distinct AD tumor predisposition syndrome with different phenotype and clinical management from AR FH deficiency.",
+      "decision": "SPLIT"
+    }
+  ],
+  "overall_decision": {
+    "verdict": "SPLIT",
+    "summary_reasoning": "Authoritative sources consistently present two main FH-related entities: AR fumarase deficiency/fumaric aciduria and AD HLRCC. Despite shared LOF at the gene level, they differ in inheritance, clinical presentation, and management. Orphanet additionally lists hereditary pheochromocytoma-paraganglioma for FH, but corroboration in OMIM/GeneReviews is absent in this bundle, so its relationship to HLRCC remains unclear.",
+    "confidence": 0.88
+  },
+  "top_supporting_evidence": [
+    "OMIM: Gene-Phenotype Relationships – 'Fumarase deficiency 606812 AR' and 'Leiomyomatosis and renal cell cancer 150800 AD'",
+    "GeneReviews: 'Fumarate hydratase (FH) deficiency results in severe neonatal and early infantile encephalopathy...' and 'Heterozygotes are at risk of developing hereditary leiomyomatosis and renal cell cancer.'",
+    "Orphanet (FH page): 'Disease-causing germline mutation(s) in Hereditary leiomyomatosis and renal cell cancer ORPHA:523' and '... (loss of function) in Fumaric aciduria ORPHA:24' and '... in Hereditary pheochromocytoma-paraganglioma ORPHA:29072'"
+  ],
+  "suggested_action_for_curator": [
+    "Verify whether FH-associated hereditary pheochromocytoma-paraganglioma should be considered part of HLRCC spectrum or a separate FH-related entity based on additional sources.",
+    "Confirm mode of inheritance and clinical management distinctions for any FH-related pheochromocytoma/paraganglioma cases."
+  ]
+}

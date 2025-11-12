@@ -1,0 +1,65 @@
+{
+  "gene": "SCN8A",
+  "phenotype_entities": [
+    {"name": "Developmental and epileptic encephalopathy 13", "source_mentions": ["OMIM", "ORPHANET", "GENEREVIEWS"]},
+    {"name": "Seizures, benign familial infantile, 5", "source_mentions": ["OMIM", "ORPHANET", "GENEREVIEWS"]},
+    {"name": "Cognitive impairment with or without cerebellar ataxia", "source_mentions": ["OMIM", "ORPHANET", "GENEREVIEWS"]},
+    {"name": "Familial myoclonic epilepsy 2", "source_mentions": ["OMIM", "ORPHANET"]},
+    {"name": "SCN8A-related epilepsy and/or neurodevelopmental disorders", "source_mentions": ["GENEREVIEWS"]}
+  ],
+  "criteria_reasoning": {
+    "assertions_made": {
+      "verdict": "One entity",
+      "justification": "GeneReviews explicitly frames a single spectrum: “SCN8A-related epilepsy and/or neurodevelopmental disorders encompasses a spectrum of phenotypes.” OMIM and Orphanet list multiple named phenotypes but within overlapping features attributable to SCN8A."
+    },
+    "molecular_mechanism": {
+      "verdict": "Shared",
+      "justification": "All disorders arise from heterozygous SCN8A variants with mixed functional effects (gain-, loss-, partial loss-of-function) across the spectrum. The same or similar mechanisms can underlie different phenotypic severities, and even LOF can present with epilepsy or ID, arguing against distinct mechanistic entities."
+    },
+    "phenotypic_variability": {
+      "verdict": "Variable expressivity",
+      "justification": "Phenotypes range from severe DEE to self-limited infantile epilepsy to isolated neurodevelopmental disorder, with reports of the same variant showing different severities and incomplete penetrance. This intrafamilial and interfamilial variability suggests a continuum rather than discrete diseases."
+    },
+    "mode_of_inheritance": {
+      "verdict": "Same",
+      "justification": "All human conditions listed are autosomal dominant germline. No separate recessive or X-linked phenotypes are described in the provided human sources."
+    }
+  },
+  "entity_decisions": [
+    {"name": "Developmental and epileptic encephalopathy 13", "decision": "LUMP", "confidence": 0.9},
+    {"name": "Seizures, benign familial infantile, 5", "decision": "LUMP", "confidence": 0.9},
+    {"name": "Cognitive impairment with or without cerebellar ataxia", "decision": "LUMP", "confidence": 0.85},
+    {"name": "Familial myoclonic epilepsy 2", "decision": "LUMP", "confidence": 0.8},
+    {"name": "SCN8A-related epilepsy and/or neurodevelopmental disorders", "decision": "LUMP", "confidence": 0.95}
+  ],
+  "proposed_groupings": [
+    {
+      "group_id": 1,
+      "entities": [
+        "Developmental and epileptic encephalopathy 13",
+        "Seizures, benign familial infantile, 5",
+        "Cognitive impairment with or without cerebellar ataxia",
+        "Familial myoclonic epilepsy 2"
+      ],
+      "proposed_label": "SCN8A-related epilepsy and/or neurodevelopmental disorders",
+      "mode_of_inheritance": "Autosomal dominant",
+      "criteria_met": ["assertions", "mode_of_inheritance", "phenotypic_variability", "molecular_mechanism"],
+      "reasoning": "GeneReviews defines a single AD spectrum encompassing DEE, self-limited infantile epilepsy, and neurodevelopmental disorder without epilepsy; mechanisms overlap (GOF/LOF/partial LOF) and variants can yield differing severities.",
+      "decision": "LUMP"
+    }
+  ],
+  "overall_decision": {
+    "verdict": "LUMP",
+    "summary_reasoning": "Authoritative sources (GeneReviews) assert one SCN8A-related spectrum with autosomal dominant inheritance. Although functional effects vary (GOF/LOF), they do not segregate cleanly with discrete, non-overlapping phenotypes, and the same variant can be associated with different severities. Marked variable expressivity and shared management considerations support lumping into a single entity.",
+    "confidence": 0.9
+  },
+  "top_supporting_evidence": [
+    "GeneReviews: “SCN8A-related epilepsy and/or neurodevelopmental disorders encompasses a spectrum of phenotypes.”",
+    "OMIM (DEE13 N1768D): “consistent with a dominant gain-of-function phenotype… neuronal hyperexcitability.”; OMIM (CIAT G964R/E1218K): “complete loss of channel activity.”",
+    "OMIM (.0011): “The same variant [N1877S] has been identified in patients with a more severe disorder… consistent with developmental and epileptic encephalopathy-13… The benign phenotype… suggests additional variants… protective effect.”"
+  ],
+  "suggested_action_for_curator": [
+    "Verify whether any emerging recessive or distinct mechanistic subtypes (e.g., consistent haploinsufficiency vs specific GOF) warrant future splitting as more data accrue.",
+    "Confirm consistent use of the unified label “SCN8A-related epilepsy and/or neurodevelopmental disorders” in ClinVar/ClinGen records and map OMIM/Orphanet phenotype terms to this spectrum."
+  ]
+}
