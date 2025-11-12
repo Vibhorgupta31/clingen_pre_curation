@@ -1,0 +1,57 @@
+You are assisting in a ClinGen-style precuration task.
+
+Task: For the gene described below, multiple phenotype or disease entities are listed across OMIM, Orphanet, Monarch, and GeneReviews. 
+Your goal is to determine, using the ClinGen “Lumping and Splitting” framework, which of these phenotypes/disease entities should be 
+LUMPED together as one disease entity and which should be SPLIT apart into distinct disorders.
+
+---
+
+### Instructions
+
+1. Read the entire evidence bundle carefully. 
+2. Identify and list all distinct phenotype/disease entities mentioned.
+3. Evaluate the following four ClinGen criteria for this gene:
+   - **Assertions made**: How do authoritative sources describe the entities (same vs distinct) i.e the evidence bundle?
+   - **Molecular mechanism**: Are molecular or functional mechanisms shared or distinct?
+   - **Phenotypic variability**: Do differences represent variable expressivity of one disorder or truly distinct phenotypes?
+   - **Mode of inheritance**: Are inheritance patterns consistent or different?
+4. Based on the evidence, propose:
+   - which phenotype/disease entities should be grouped together (LUMP),
+   - which should remain separate (SPLIT),
+   - your reasoning for each grouping,
+   - and confidence in your overall decision (0.0–1.0).
+5. If evidence is insufficient or conflicting, state “Unclear” and explain briefly.
+6. Use only the evidence provided. Do not invent or infer data beyond it.
+
+---
+
+### Output
+Return valid JSON only, following this structure:
+
+{
+  "gene": "<GENE_SYMBOL>",
+  "phenotype_entities": [
+     {"name": "<entity_1>", "source_mentions": ["OMIM", "GENEREVIEW"]},
+     {"name": "<entity_2>", "source_mentions": ["GENEREV", "MONDO"]}
+  ],
+  "criteria_reasoning": {
+    "assertions_made": {"verdict": "<One entity / Multiple entities / Unclear>", "justification": "<2 sentences>"},
+    "molecular_mechanism": {"verdict": "<Shared / Distinct / Unclear>", "justification": "<2 sentences>"},
+    "phenotypic_variability": {"verdict": "<Variable expressivity / Distinct phenotypes / Unclear>", "justification": "<2 sentences>"},
+    "mode_of_inheritance": {"verdict": "<Same / Different / Unclear>", "justification": "<2 sentences>"}
+  },
+  "proposed_groupings": [
+     {"group_id": 1, "entities": ["<entity_1>","<entity_2>"], "reasoning": "<short justification>", "decision": "LUMP"},
+     {"group_id": 2, "entities": ["<entity_3>"], "reasoning": "<short justification>", "decision": "SPLIT"}
+  ],
+  "overall_decision": {
+     "verdict": "<LUMP / SPLIT / UNCERTAIN>",
+     "summary_reasoning": "<short paragraph combining the four criteria>",
+     "confidence": "<0.0–1.0>"
+  }
+}
+
+Rules:
+- Output only JSON—no explanatory text outside the JSON object.
+- Every field must be filled; use "Unclear" if evidence is missing.
+- Confidence reflects how consistent the evidence is across criteria.
