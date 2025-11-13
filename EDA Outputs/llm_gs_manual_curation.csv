@@ -1,0 +1,23 @@
+﻿Gene Symbol,Disease Label ( Gold Standard ),Disease Label ( Predicted ),Mode of Inheritance ( Gold Standard ),Mode of Inheritance ( Predicted ),Match
+BPTF,syndromic intellectual disability,Neurodevelopmental disorder with dysmorphic facies and distal limb anomalies,Autosomal dominant inheritance,Autosomal dominant,Partial
+BPTF,N/A,"Kaposi sarcoma, susceptibility to",N/A,Autosomal dominant,No
+BPTF,N/A,Role in the phenotype of 17q24.2 microdeletion syndrome,N/A,Unknown/unclear,No
+CAV3,long QT syndrome,Long QT syndrome 9,Autosomal dominant inheritance,Autosomal dominant,Exact
+CAV3,caveolinopathy,Rippling muscle disease 2,Autosomal dominant inheritance,Autosomal dominant,No
+CAV3,caveolinopathy,"Cardiomyopathy, familial hypertrophic",Autosomal dominant inheritance,Autosomal dominant,No
+CRYAB,N/A,"Cataract 16, multiple types",Autosomal dominant inheritance / Autosomal recessive inheritance,Unknown/unclear,No
+CRYAB,N/A,"Myopathy, myofibrillar, 2A, adult-onset",N/A,Autosomal dominant,N/A
+CRYAB,N/A,"Myopathy, myofibrillar, 2B, infantile-onset",N/A,Autosomal recessive,N/A
+CRYAB,N/A,"Cardiomyopathy, dilated, 1II",N/A,Autosomal dominant,N/A
+FH,hereditary leiomyomatosis and renal cell cancer,Hereditary leiomyomatosis and renal cell cancer,Autosomal dominant inheritance,Autosomal dominant,Exact
+FH,N/A,Fumarate hydratase deficiency,Autosomal recessive inheritance ,Autosomal recessive,Partial
+FHL1,"Emery-Dreifuss Muscular Dystrophy (AD, XL)","Emery-Dreifuss muscular dystrophy 6, X-linked",Autosomal dominant inheritance,X-linked,Partial
+FHL1,N/A,Reducing body myopathy,N/A,X-linked,No
+FHL1,N/A,"Emery-Dreifuss muscular dystrophy 6, X-linked",N/A,X-linked,No
+FHL1,N/A,Uruguay faciocardiomusculoskeletal syndrome,N/A,X-linked,No
+MSH2,Lynch syndrome,Lynch syndrome,Autosomal dominant inheritance,Autosomal dominant,Exact
+MSH2,mismatch repair cancer syndrome 1,Constitutional mismatch repair deficiency syndrome,Autosomal recessive inheritance,Autosomal recessive,Exact
+RET,multiple endocrine neoplasia type 2A,Multiple endocrine neoplasia type 2A,Autosomal dominant inheritance,Autosomal dominant,Exact
+RET,multiple endocrine neoplasia type 2B,Multiple endocrine neoplasia IIB,Autosomal dominant inheritance,Autosomal dominant,Exact
+RET,"Hirschsprung disease, susceptibility to, 1","Hirschsprung disease, susceptibility to, 1",Autosomal dominant inheritance,Autosomal dominant,Exact
+SCN8A,complex neurodevelopmental disorder,SCN8A-related epilepsy and/or neurodevelopmental disorders,Autosomal dominant inheritance,Autosomal dominant,Partial
